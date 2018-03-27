@@ -1,0 +1,4167 @@
+"PoPLHWs/GWShw2Answers.ml" 52 2416 2420 "PoPLHWs/GWShw2Answers.ml" 52 2416 2424
+type(
+  int ref
+)
+ident(
+  def exp1 "PoPLHWs/GWShw2Answers.ml" 59 2697 2697 "PoPLHWs/GWShw2Answers.ml" 1 0 -1
+)
+"PoPLHWs/GWShw2Answers.ml" 52 2416 2427 "PoPLHWs/GWShw2Answers.ml" 52 2416 2430
+type(
+  int -> int ref
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"PoPLHWs/GWShw2Answers.ml" 52 2416 2431 "PoPLHWs/GWShw2Answers.ml" 52 2416 2432
+type(
+  int
+)
+"PoPLHWs/GWShw2Answers.ml" 52 2416 2427 "PoPLHWs/GWShw2Answers.ml" 52 2416 2432
+type(
+  int ref
+)
+"PoPLHWs/GWShw2Answers.ml" 59 2697 2701 "PoPLHWs/GWShw2Answers.ml" 59 2697 2705
+type(
+  '_a -> unit
+)
+ident(
+  def exp2 "PoPLHWs/GWShw2Answers.ml" 63 2829 2829 "PoPLHWs/GWShw2Answers.ml" 1 0 -1
+)
+"PoPLHWs/GWShw2Answers.ml" 59 2697 2712 "PoPLHWs/GWShw2Answers.ml" 59 2697 2718
+type(
+  '_a option ref
+)
+ident(
+  def holder "PoPLHWs/GWShw2Answers.ml" 59 2697 2733 "PoPLHWs/GWShw2Answers.ml" 59 2697 2758
+)
+"PoPLHWs/GWShw2Answers.ml" 59 2697 2721 "PoPLHWs/GWShw2Answers.ml" 59 2697 2724
+type(
+  '_a option -> '_a option ref
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"PoPLHWs/GWShw2Answers.ml" 59 2697 2725 "PoPLHWs/GWShw2Answers.ml" 59 2697 2729
+type(
+  '_a option
+)
+"PoPLHWs/GWShw2Answers.ml" 59 2697 2721 "PoPLHWs/GWShw2Answers.ml" 59 2697 2729
+type(
+  '_a option ref
+)
+"PoPLHWs/GWShw2Answers.ml" 59 2697 2737 "PoPLHWs/GWShw2Answers.ml" 59 2697 2738
+type(
+  '_a
+)
+ident(
+  def z "PoPLHWs/GWShw2Answers.ml" 59 2697 2742 "PoPLHWs/GWShw2Answers.ml" 59 2697 2758
+)
+"PoPLHWs/GWShw2Answers.ml" 59 2697 2742 "PoPLHWs/GWShw2Answers.ml" 59 2697 2748
+type(
+  '_a option ref
+)
+ident(
+  int_ref holder "PoPLHWs/GWShw2Answers.ml" 59 2697 2712 "PoPLHWs/GWShw2Answers.ml" 59 2697 2718
+)
+"PoPLHWs/GWShw2Answers.ml" 59 2697 2749 "PoPLHWs/GWShw2Answers.ml" 59 2697 2751
+type(
+  '_a option ref -> '_a option -> unit
+)
+ident(
+  ext_ref Pervasives.( := )
+)
+"PoPLHWs/GWShw2Answers.ml" 59 2697 2757 "PoPLHWs/GWShw2Answers.ml" 59 2697 2758
+type(
+  '_a
+)
+ident(
+  int_ref z "PoPLHWs/GWShw2Answers.ml" 59 2697 2737 "PoPLHWs/GWShw2Answers.ml" 59 2697 2738
+)
+"PoPLHWs/GWShw2Answers.ml" 59 2697 2752 "PoPLHWs/GWShw2Answers.ml" 59 2697 2758
+type(
+  '_a option
+)
+"PoPLHWs/GWShw2Answers.ml" 59 2697 2742 "PoPLHWs/GWShw2Answers.ml" 59 2697 2758
+type(
+  unit
+)
+"PoPLHWs/GWShw2Answers.ml" 59 2697 2733 "PoPLHWs/GWShw2Answers.ml" 59 2697 2758
+type(
+  '_a -> unit
+)
+"PoPLHWs/GWShw2Answers.ml" 59 2697 2708 "PoPLHWs/GWShw2Answers.ml" 59 2697 2758
+type(
+  '_a -> unit
+)
+"PoPLHWs/GWShw2Answers.ml" 63 2829 2833 "PoPLHWs/GWShw2Answers.ml" 63 2829 2837
+type(
+  unit -> 'a
+)
+ident(
+  def exp3 "PoPLHWs/GWShw2Answers.ml" 67 3042 3042 "PoPLHWs/GWShw2Answers.ml" 1 0 -1
+)
+"PoPLHWs/GWShw2Answers.ml" 63 2829 2845 "PoPLHWs/GWShw2Answers.ml" 63 2829 2851
+type(
+  'a option ref
+)
+ident(
+  def holder "PoPLHWs/GWShw2Answers.ml" 63 2829 2866 "PoPLHWs/GWShw2Answers.ml" 63 2829 2935
+)
+"PoPLHWs/GWShw2Answers.ml" 63 2829 2854 "PoPLHWs/GWShw2Answers.ml" 63 2829 2857
+type(
+  'a option -> 'a option ref
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"PoPLHWs/GWShw2Answers.ml" 63 2829 2858 "PoPLHWs/GWShw2Answers.ml" 63 2829 2862
+type(
+  'a option
+)
+"PoPLHWs/GWShw2Answers.ml" 63 2829 2854 "PoPLHWs/GWShw2Answers.ml" 63 2829 2862
+type(
+  'a option ref
+)
+"PoPLHWs/GWShw2Answers.ml" 63 2829 2870 "PoPLHWs/GWShw2Answers.ml" 63 2829 2872
+type(
+  unit
+)
+"PoPLHWs/GWShw2Answers.ml" 63 2829 2882 "PoPLHWs/GWShw2Answers.ml" 63 2829 2883
+type(
+  'a option ref -> 'a option
+)
+ident(
+  ext_ref Pervasives.( ! )
+)
+"PoPLHWs/GWShw2Answers.ml" 63 2829 2883 "PoPLHWs/GWShw2Answers.ml" 63 2829 2889
+type(
+  'a option ref
+)
+ident(
+  int_ref holder "PoPLHWs/GWShw2Answers.ml" 63 2829 2845 "PoPLHWs/GWShw2Answers.ml" 63 2829 2851
+)
+"PoPLHWs/GWShw2Answers.ml" 63 2829 2882 "PoPLHWs/GWShw2Answers.ml" 63 2829 2889
+type(
+  'a option
+)
+"PoPLHWs/GWShw2Answers.ml" 63 2829 2902 "PoPLHWs/GWShw2Answers.ml" 63 2829 2903
+type(
+  'a
+)
+ident(
+  def q "PoPLHWs/GWShw2Answers.ml" 63 2829 2907 "PoPLHWs/GWShw2Answers.ml" 63 2829 2908
+)
+"PoPLHWs/GWShw2Answers.ml" 63 2829 2897 "PoPLHWs/GWShw2Answers.ml" 63 2829 2903
+type(
+  'a option
+)
+"PoPLHWs/GWShw2Answers.ml" 63 2829 2907 "PoPLHWs/GWShw2Answers.ml" 63 2829 2908
+type(
+  'a
+)
+ident(
+  int_ref q "PoPLHWs/GWShw2Answers.ml" 63 2829 2902 "PoPLHWs/GWShw2Answers.ml" 63 2829 2903
+)
+"PoPLHWs/GWShw2Answers.ml" 63 2829 2911 "PoPLHWs/GWShw2Answers.ml" 63 2829 2915
+type(
+  'a option
+)
+"PoPLHWs/GWShw2Answers.ml" 63 2829 2919 "PoPLHWs/GWShw2Answers.ml" 63 2829 2927
+type(
+  string -> 'a
+)
+ident(
+  ext_ref Pervasives.failwith
+)
+"PoPLHWs/GWShw2Answers.ml" 63 2829 2928 "PoPLHWs/GWShw2Answers.ml" 63 2829 2935
+type(
+  string
+)
+"PoPLHWs/GWShw2Answers.ml" 63 2829 2919 "PoPLHWs/GWShw2Answers.ml" 63 2829 2935
+type(
+  'a
+)
+"PoPLHWs/GWShw2Answers.ml" 63 2829 2876 "PoPLHWs/GWShw2Answers.ml" 63 2829 2935
+type(
+  'a
+)
+"PoPLHWs/GWShw2Answers.ml" 63 2829 2866 "PoPLHWs/GWShw2Answers.ml" 63 2829 2935
+type(
+  unit -> 'a
+)
+"PoPLHWs/GWShw2Answers.ml" 63 2829 2841 "PoPLHWs/GWShw2Answers.ml" 63 2829 2935
+type(
+  unit -> 'a
+)
+"PoPLHWs/GWShw2Answers.ml" 67 3042 3046 "PoPLHWs/GWShw2Answers.ml" 67 3042 3050
+type(
+  'a list -> ('a -> 'b) -> 'b list
+)
+ident(
+  def exp4 "PoPLHWs/GWShw2Answers.ml" 74 3253 3253 "PoPLHWs/GWShw2Answers.ml" 1 0 -1
+)
+"PoPLHWs/GWShw2Answers.ml" 67 3042 3061 "PoPLHWs/GWShw2Answers.ml" 67 3042 3064
+type(
+  'c list -> ('c -> 'd) -> 'd list
+)
+ident(
+  def map "PoPLHWs/GWShw2Answers.ml" 67 3042 3053 "PoPLHWs/GWShw2Answers.ml" 71 3137 3144
+)
+"PoPLHWs/GWShw2Answers.ml" 67 3042 3065 "PoPLHWs/GWShw2Answers.ml" 67 3042 3066
+type(
+  'c list
+)
+ident(
+  def l "PoPLHWs/GWShw2Answers.ml" 67 3042 3067 "PoPLHWs/GWShw2Answers.ml" 70 3103 3135
+)
+"PoPLHWs/GWShw2Answers.ml" 67 3042 3067 "PoPLHWs/GWShw2Answers.ml" 67 3042 3068
+type(
+  'c -> 'd
+)
+ident(
+  def f "PoPLHWs/GWShw2Answers.ml" 68 3071 3073 "PoPLHWs/GWShw2Answers.ml" 70 3103 3135
+)
+"PoPLHWs/GWShw2Answers.ml" 68 3071 3079 "PoPLHWs/GWShw2Answers.ml" 68 3071 3080
+type(
+  'c list
+)
+ident(
+  int_ref l "PoPLHWs/GWShw2Answers.ml" 67 3042 3065 "PoPLHWs/GWShw2Answers.ml" 67 3042 3066
+)
+"PoPLHWs/GWShw2Answers.ml" 69 3087 3091 "PoPLHWs/GWShw2Answers.ml" 69 3087 3093
+type(
+  'c list
+)
+"PoPLHWs/GWShw2Answers.ml" 69 3087 3100 "PoPLHWs/GWShw2Answers.ml" 69 3087 3102
+type(
+  'd list
+)
+"PoPLHWs/GWShw2Answers.ml" 70 3103 3107 "PoPLHWs/GWShw2Answers.ml" 70 3103 3109
+type(
+  'c
+)
+ident(
+  def hd "PoPLHWs/GWShw2Answers.ml" 70 3103 3117 "PoPLHWs/GWShw2Answers.ml" 70 3103 3135
+)
+"PoPLHWs/GWShw2Answers.ml" 70 3103 3111 "PoPLHWs/GWShw2Answers.ml" 70 3103 3113
+type(
+  'c list
+)
+ident(
+  def tl "PoPLHWs/GWShw2Answers.ml" 70 3103 3117 "PoPLHWs/GWShw2Answers.ml" 70 3103 3135
+)
+"PoPLHWs/GWShw2Answers.ml" 70 3103 3107 "PoPLHWs/GWShw2Answers.ml" 70 3103 3113
+type(
+  'c list
+)
+"PoPLHWs/GWShw2Answers.ml" 70 3103 3118 "PoPLHWs/GWShw2Answers.ml" 70 3103 3119
+type(
+  'c -> 'd
+)
+ident(
+  int_ref f "PoPLHWs/GWShw2Answers.ml" 67 3042 3067 "PoPLHWs/GWShw2Answers.ml" 67 3042 3068
+)
+"PoPLHWs/GWShw2Answers.ml" 70 3103 3120 "PoPLHWs/GWShw2Answers.ml" 70 3103 3122
+type(
+  'c
+)
+ident(
+  int_ref hd "PoPLHWs/GWShw2Answers.ml" 70 3103 3107 "PoPLHWs/GWShw2Answers.ml" 70 3103 3109
+)
+"PoPLHWs/GWShw2Answers.ml" 70 3103 3117 "PoPLHWs/GWShw2Answers.ml" 70 3103 3123
+type(
+  'd
+)
+"PoPLHWs/GWShw2Answers.ml" 70 3103 3127 "PoPLHWs/GWShw2Answers.ml" 70 3103 3130
+type(
+  'c list -> ('c -> 'd) -> 'd list
+)
+ident(
+  int_ref map "PoPLHWs/GWShw2Answers.ml" 67 3042 3061 "PoPLHWs/GWShw2Answers.ml" 67 3042 3064
+)
+"PoPLHWs/GWShw2Answers.ml" 70 3103 3131 "PoPLHWs/GWShw2Answers.ml" 70 3103 3133
+type(
+  'c list
+)
+ident(
+  int_ref tl "PoPLHWs/GWShw2Answers.ml" 70 3103 3111 "PoPLHWs/GWShw2Answers.ml" 70 3103 3113
+)
+"PoPLHWs/GWShw2Answers.ml" 70 3103 3134 "PoPLHWs/GWShw2Answers.ml" 70 3103 3135
+type(
+  'c -> 'd
+)
+ident(
+  int_ref f "PoPLHWs/GWShw2Answers.ml" 67 3042 3067 "PoPLHWs/GWShw2Answers.ml" 67 3042 3068
+)
+"PoPLHWs/GWShw2Answers.ml" 70 3103 3127 "PoPLHWs/GWShw2Answers.ml" 70 3103 3135
+type(
+  'd list
+)
+"PoPLHWs/GWShw2Answers.ml" 70 3103 3117 "PoPLHWs/GWShw2Answers.ml" 70 3103 3135
+type(
+  'd list
+)
+"PoPLHWs/GWShw2Answers.ml" 68 3071 3073 "PoPLHWs/GWShw2Answers.ml" 70 3103 3135
+type(
+  'd list
+)
+"PoPLHWs/GWShw2Answers.ml" 71 3137 3141 "PoPLHWs/GWShw2Answers.ml" 71 3137 3144
+type(
+  'a list -> ('a -> 'b) -> 'b list
+)
+ident(
+  int_ref map "PoPLHWs/GWShw2Answers.ml" 67 3042 3061 "PoPLHWs/GWShw2Answers.ml" 67 3042 3064
+)
+"PoPLHWs/GWShw2Answers.ml" 67 3042 3053 "PoPLHWs/GWShw2Answers.ml" 71 3137 3144
+type(
+  'a list -> ('a -> 'b) -> 'b list
+)
+"PoPLHWs/GWShw2Answers.ml" 74 3253 3257 "PoPLHWs/GWShw2Answers.ml" 74 3253 3261
+type(
+  'a list -> 'b list -> ('a * 'b) list
+)
+ident(
+  def exp5 "PoPLHWs/GWShw2Answers.ml" 82 3544 3544 "PoPLHWs/GWShw2Answers.ml" 1 0 -1
+)
+"PoPLHWs/GWShw2Answers.ml" 74 3253 3272 "PoPLHWs/GWShw2Answers.ml" 74 3253 3275
+type(
+  'c list -> 'd list -> ('c * 'd) list
+)
+ident(
+  def zip "PoPLHWs/GWShw2Answers.ml" 74 3253 3264 "PoPLHWs/GWShw2Answers.ml" 79 3417 3425
+)
+"PoPLHWs/GWShw2Answers.ml" 74 3253 3276 "PoPLHWs/GWShw2Answers.ml" 74 3253 3278
+type(
+  'c list
+)
+ident(
+  def xs "PoPLHWs/GWShw2Answers.ml" 74 3253 3279 "PoPLHWs/GWShw2Answers.ml" 78 3337 3416
+)
+"PoPLHWs/GWShw2Answers.ml" 74 3253 3279 "PoPLHWs/GWShw2Answers.ml" 74 3253 3281
+type(
+  'd list
+)
+ident(
+  def ys "PoPLHWs/GWShw2Answers.ml" 75 3285 3286 "PoPLHWs/GWShw2Answers.ml" 78 3337 3416
+)
+"PoPLHWs/GWShw2Answers.ml" 75 3285 3292 "PoPLHWs/GWShw2Answers.ml" 75 3285 3294
+type(
+  'c list
+)
+ident(
+  int_ref xs "PoPLHWs/GWShw2Answers.ml" 74 3253 3276 "PoPLHWs/GWShw2Answers.ml" 74 3253 3278
+)
+"PoPLHWs/GWShw2Answers.ml" 75 3285 3296 "PoPLHWs/GWShw2Answers.ml" 75 3285 3298
+type(
+  'd list
+)
+ident(
+  int_ref ys "PoPLHWs/GWShw2Answers.ml" 74 3253 3279 "PoPLHWs/GWShw2Answers.ml" 74 3253 3281
+)
+"PoPLHWs/GWShw2Answers.ml" 75 3285 3292 "PoPLHWs/GWShw2Answers.ml" 75 3285 3298
+type(
+  'c list * 'd list
+)
+"PoPLHWs/GWShw2Answers.ml" 76 3305 3309 "PoPLHWs/GWShw2Answers.ml" 76 3305 3310
+type(
+  'c list
+)
+"PoPLHWs/GWShw2Answers.ml" 76 3305 3312 "PoPLHWs/GWShw2Answers.ml" 76 3305 3314
+type(
+  'd list
+)
+"PoPLHWs/GWShw2Answers.ml" 76 3305 3309 "PoPLHWs/GWShw2Answers.ml" 76 3305 3314
+type(
+  'c list * 'd list
+)
+"PoPLHWs/GWShw2Answers.ml" 76 3305 3318 "PoPLHWs/GWShw2Answers.ml" 76 3305 3320
+type(
+  ('c * 'd) list
+)
+"PoPLHWs/GWShw2Answers.ml" 77 3321 3325 "PoPLHWs/GWShw2Answers.ml" 77 3321 3327
+type(
+  'c list
+)
+"PoPLHWs/GWShw2Answers.ml" 77 3321 3329 "PoPLHWs/GWShw2Answers.ml" 77 3321 3330
+type(
+  'd list
+)
+"PoPLHWs/GWShw2Answers.ml" 77 3321 3325 "PoPLHWs/GWShw2Answers.ml" 77 3321 3330
+type(
+  'c list * 'd list
+)
+"PoPLHWs/GWShw2Answers.ml" 77 3321 3334 "PoPLHWs/GWShw2Answers.ml" 77 3321 3336
+type(
+  ('c * 'd) list
+)
+"PoPLHWs/GWShw2Answers.ml" 78 3337 3341 "PoPLHWs/GWShw2Answers.ml" 78 3337 3347
+type(
+  'c
+)
+ident(
+  def xshead "PoPLHWs/GWShw2Answers.ml" 78 3337 3379 "PoPLHWs/GWShw2Answers.ml" 78 3337 3416
+)
+"PoPLHWs/GWShw2Answers.ml" 78 3337 3351 "PoPLHWs/GWShw2Answers.ml" 78 3337 3357
+type(
+  'c list
+)
+ident(
+  def xstail "PoPLHWs/GWShw2Answers.ml" 78 3337 3379 "PoPLHWs/GWShw2Answers.ml" 78 3337 3416
+)
+"PoPLHWs/GWShw2Answers.ml" 78 3337 3341 "PoPLHWs/GWShw2Answers.ml" 78 3337 3357
+type(
+  'c list
+)
+"PoPLHWs/GWShw2Answers.ml" 78 3337 3359 "PoPLHWs/GWShw2Answers.ml" 78 3337 3365
+type(
+  'd
+)
+ident(
+  def yshead "PoPLHWs/GWShw2Answers.ml" 78 3337 3379 "PoPLHWs/GWShw2Answers.ml" 78 3337 3416
+)
+"PoPLHWs/GWShw2Answers.ml" 78 3337 3369 "PoPLHWs/GWShw2Answers.ml" 78 3337 3375
+type(
+  'd list
+)
+ident(
+  def ystail "PoPLHWs/GWShw2Answers.ml" 78 3337 3379 "PoPLHWs/GWShw2Answers.ml" 78 3337 3416
+)
+"PoPLHWs/GWShw2Answers.ml" 78 3337 3359 "PoPLHWs/GWShw2Answers.ml" 78 3337 3375
+type(
+  'd list
+)
+"PoPLHWs/GWShw2Answers.ml" 78 3337 3341 "PoPLHWs/GWShw2Answers.ml" 78 3337 3375
+type(
+  'c list * 'd list
+)
+"PoPLHWs/GWShw2Answers.ml" 78 3337 3380 "PoPLHWs/GWShw2Answers.ml" 78 3337 3386
+type(
+  'c
+)
+ident(
+  int_ref xshead "PoPLHWs/GWShw2Answers.ml" 78 3337 3341 "PoPLHWs/GWShw2Answers.ml" 78 3337 3347
+)
+"PoPLHWs/GWShw2Answers.ml" 78 3337 3388 "PoPLHWs/GWShw2Answers.ml" 78 3337 3394
+type(
+  'd
+)
+ident(
+  int_ref yshead "PoPLHWs/GWShw2Answers.ml" 78 3337 3359 "PoPLHWs/GWShw2Answers.ml" 78 3337 3365
+)
+"PoPLHWs/GWShw2Answers.ml" 78 3337 3379 "PoPLHWs/GWShw2Answers.ml" 78 3337 3395
+type(
+  'c * 'd
+)
+"PoPLHWs/GWShw2Answers.ml" 78 3337 3399 "PoPLHWs/GWShw2Answers.ml" 78 3337 3402
+type(
+  'c list -> 'd list -> ('c * 'd) list
+)
+ident(
+  int_ref zip "PoPLHWs/GWShw2Answers.ml" 74 3253 3272 "PoPLHWs/GWShw2Answers.ml" 74 3253 3275
+)
+"PoPLHWs/GWShw2Answers.ml" 78 3337 3403 "PoPLHWs/GWShw2Answers.ml" 78 3337 3409
+type(
+  'c list
+)
+ident(
+  int_ref xstail "PoPLHWs/GWShw2Answers.ml" 78 3337 3351 "PoPLHWs/GWShw2Answers.ml" 78 3337 3357
+)
+"PoPLHWs/GWShw2Answers.ml" 78 3337 3410 "PoPLHWs/GWShw2Answers.ml" 78 3337 3416
+type(
+  'd list
+)
+ident(
+  int_ref ystail "PoPLHWs/GWShw2Answers.ml" 78 3337 3369 "PoPLHWs/GWShw2Answers.ml" 78 3337 3375
+)
+"PoPLHWs/GWShw2Answers.ml" 78 3337 3399 "PoPLHWs/GWShw2Answers.ml" 78 3337 3416
+type(
+  ('c * 'd) list
+)
+"PoPLHWs/GWShw2Answers.ml" 78 3337 3379 "PoPLHWs/GWShw2Answers.ml" 78 3337 3416
+type(
+  ('c * 'd) list
+)
+"PoPLHWs/GWShw2Answers.ml" 75 3285 3286 "PoPLHWs/GWShw2Answers.ml" 78 3337 3416
+type(
+  ('c * 'd) list
+)
+"PoPLHWs/GWShw2Answers.ml" 79 3417 3422 "PoPLHWs/GWShw2Answers.ml" 79 3417 3425
+type(
+  'a list -> 'b list -> ('a * 'b) list
+)
+ident(
+  int_ref zip "PoPLHWs/GWShw2Answers.ml" 74 3253 3272 "PoPLHWs/GWShw2Answers.ml" 74 3253 3275
+)
+"PoPLHWs/GWShw2Answers.ml" 74 3253 3264 "PoPLHWs/GWShw2Answers.ml" 79 3417 3425
+type(
+  'a list -> 'b list -> ('a * 'b) list
+)
+"PoPLHWs/GWShw2Answers.ml" 82 3544 3548 "PoPLHWs/GWShw2Answers.ml" 82 3544 3552
+type(
+  (int -> 'a -> 'b) -> 'a list -> ('b * 'b) list
+)
+ident(
+  def exp6 "PoPLHWs/GWShw2Answers.ml" 89 3776 3776 "PoPLHWs/GWShw2Answers.ml" 1 0 -1
+)
+"PoPLHWs/GWShw2Answers.ml" 82 3544 3563 "PoPLHWs/GWShw2Answers.ml" 82 3544 3567
+type(
+  (int -> 'c -> 'd) -> 'c list -> ('d * 'd) list
+)
+ident(
+  def doit "PoPLHWs/GWShw2Answers.ml" 82 3544 3555 "PoPLHWs/GWShw2Answers.ml" 86 3651 3659
+)
+"PoPLHWs/GWShw2Answers.ml" 82 3544 3568 "PoPLHWs/GWShw2Answers.ml" 82 3544 3569
+type(
+  int -> 'c -> 'd
+)
+ident(
+  def f "PoPLHWs/GWShw2Answers.ml" 82 3544 3570 "PoPLHWs/GWShw2Answers.ml" 85 3606 3649
+)
+"PoPLHWs/GWShw2Answers.ml" 82 3544 3570 "PoPLHWs/GWShw2Answers.ml" 82 3544 3573
+type(
+  'c list
+)
+ident(
+  def lst "PoPLHWs/GWShw2Answers.ml" 83 3577 3578 "PoPLHWs/GWShw2Answers.ml" 85 3606 3649
+)
+"PoPLHWs/GWShw2Answers.ml" 83 3577 3584 "PoPLHWs/GWShw2Answers.ml" 83 3577 3587
+type(
+  'c list
+)
+ident(
+  int_ref lst "PoPLHWs/GWShw2Answers.ml" 82 3544 3570 "PoPLHWs/GWShw2Answers.ml" 82 3544 3573
+)
+"PoPLHWs/GWShw2Answers.ml" 84 3594 3597 "PoPLHWs/GWShw2Answers.ml" 84 3594 3599
+type(
+  'c list
+)
+"PoPLHWs/GWShw2Answers.ml" 84 3594 3603 "PoPLHWs/GWShw2Answers.ml" 84 3594 3605
+type(
+  ('d * 'd) list
+)
+"PoPLHWs/GWShw2Answers.ml" 85 3606 3609 "PoPLHWs/GWShw2Answers.ml" 85 3606 3610
+type(
+  'c
+)
+ident(
+  def h "PoPLHWs/GWShw2Answers.ml" 85 3606 3619 "PoPLHWs/GWShw2Answers.ml" 85 3606 3649
+)
+"PoPLHWs/GWShw2Answers.ml" 85 3606 3614 "PoPLHWs/GWShw2Answers.ml" 85 3606 3615
+type(
+  'c list
+)
+ident(
+  def t "PoPLHWs/GWShw2Answers.ml" 85 3606 3619 "PoPLHWs/GWShw2Answers.ml" 85 3606 3649
+)
+"PoPLHWs/GWShw2Answers.ml" 85 3606 3609 "PoPLHWs/GWShw2Answers.ml" 85 3606 3615
+type(
+  'c list
+)
+"PoPLHWs/GWShw2Answers.ml" 85 3606 3621 "PoPLHWs/GWShw2Answers.ml" 85 3606 3622
+type(
+  int -> 'c -> 'd
+)
+ident(
+  int_ref f "PoPLHWs/GWShw2Answers.ml" 82 3544 3568 "PoPLHWs/GWShw2Answers.ml" 82 3544 3569
+)
+"PoPLHWs/GWShw2Answers.ml" 85 3606 3623 "PoPLHWs/GWShw2Answers.ml" 85 3606 3624
+type(
+  int
+)
+"PoPLHWs/GWShw2Answers.ml" 85 3606 3625 "PoPLHWs/GWShw2Answers.ml" 85 3606 3626
+type(
+  'c
+)
+ident(
+  int_ref h "PoPLHWs/GWShw2Answers.ml" 85 3606 3609 "PoPLHWs/GWShw2Answers.ml" 85 3606 3610
+)
+"PoPLHWs/GWShw2Answers.ml" 85 3606 3620 "PoPLHWs/GWShw2Answers.ml" 85 3606 3627
+type(
+  'd
+)
+"PoPLHWs/GWShw2Answers.ml" 85 3606 3630 "PoPLHWs/GWShw2Answers.ml" 85 3606 3631
+type(
+  int -> 'c -> 'd
+)
+ident(
+  int_ref f "PoPLHWs/GWShw2Answers.ml" 82 3544 3568 "PoPLHWs/GWShw2Answers.ml" 82 3544 3569
+)
+"PoPLHWs/GWShw2Answers.ml" 85 3606 3632 "PoPLHWs/GWShw2Answers.ml" 85 3606 3633
+type(
+  int
+)
+"PoPLHWs/GWShw2Answers.ml" 85 3606 3634 "PoPLHWs/GWShw2Answers.ml" 85 3606 3635
+type(
+  'c
+)
+ident(
+  int_ref h "PoPLHWs/GWShw2Answers.ml" 85 3606 3609 "PoPLHWs/GWShw2Answers.ml" 85 3606 3610
+)
+"PoPLHWs/GWShw2Answers.ml" 85 3606 3629 "PoPLHWs/GWShw2Answers.ml" 85 3606 3636
+type(
+  'd
+)
+"PoPLHWs/GWShw2Answers.ml" 85 3606 3619 "PoPLHWs/GWShw2Answers.ml" 85 3606 3637
+type(
+  'd * 'd
+)
+"PoPLHWs/GWShw2Answers.ml" 85 3606 3641 "PoPLHWs/GWShw2Answers.ml" 85 3606 3645
+type(
+  (int -> 'c -> 'd) -> 'c list -> ('d * 'd) list
+)
+ident(
+  int_ref doit "PoPLHWs/GWShw2Answers.ml" 82 3544 3563 "PoPLHWs/GWShw2Answers.ml" 82 3544 3567
+)
+"PoPLHWs/GWShw2Answers.ml" 85 3606 3646 "PoPLHWs/GWShw2Answers.ml" 85 3606 3647
+type(
+  int -> 'c -> 'd
+)
+ident(
+  int_ref f "PoPLHWs/GWShw2Answers.ml" 82 3544 3568 "PoPLHWs/GWShw2Answers.ml" 82 3544 3569
+)
+"PoPLHWs/GWShw2Answers.ml" 85 3606 3648 "PoPLHWs/GWShw2Answers.ml" 85 3606 3649
+type(
+  'c list
+)
+ident(
+  int_ref t "PoPLHWs/GWShw2Answers.ml" 85 3606 3614 "PoPLHWs/GWShw2Answers.ml" 85 3606 3615
+)
+"PoPLHWs/GWShw2Answers.ml" 85 3606 3641 "PoPLHWs/GWShw2Answers.ml" 85 3606 3649
+type(
+  ('d * 'd) list
+)
+"PoPLHWs/GWShw2Answers.ml" 85 3606 3619 "PoPLHWs/GWShw2Answers.ml" 85 3606 3649
+type(
+  ('d * 'd) list
+)
+"PoPLHWs/GWShw2Answers.ml" 83 3577 3578 "PoPLHWs/GWShw2Answers.ml" 85 3606 3649
+type(
+  ('d * 'd) list
+)
+"PoPLHWs/GWShw2Answers.ml" 86 3651 3655 "PoPLHWs/GWShw2Answers.ml" 86 3651 3659
+type(
+  (int -> 'a -> 'b) -> 'a list -> ('b * 'b) list
+)
+ident(
+  int_ref doit "PoPLHWs/GWShw2Answers.ml" 82 3544 3563 "PoPLHWs/GWShw2Answers.ml" 82 3544 3567
+)
+"PoPLHWs/GWShw2Answers.ml" 82 3544 3555 "PoPLHWs/GWShw2Answers.ml" 86 3651 3659
+type(
+  (int -> 'a -> 'b) -> 'a list -> ('b * 'b) list
+)
+"PoPLHWs/GWShw2Answers.ml" 89 3776 3780 "PoPLHWs/GWShw2Answers.ml" 89 3776 3784
+type(
+  'a list -> ('a -> bool) -> 'a list * 'a list
+)
+ident(
+  def exp7 "PoPLHWs/GWShw2Answers.ml" 98 4048 4048 "PoPLHWs/GWShw2Answers.ml" 1 0 -1
+)
+"PoPLHWs/GWShw2Answers.ml" 90 3788 3793 "PoPLHWs/GWShw2Answers.ml" 90 3788 3798
+type(
+  'b * 'c -> 'b
+)
+ident(
+  def first "PoPLHWs/GWShw2Answers.ml" 91 3812 3813 "PoPLHWs/GWShw2Answers.ml" 96 4020 4031
+)
+"PoPLHWs/GWShw2Answers.ml" 90 3788 3800 "PoPLHWs/GWShw2Answers.ml" 90 3788 3801
+type(
+  'b
+)
+ident(
+  def x "PoPLHWs/GWShw2Answers.ml" 90 3788 3807 "PoPLHWs/GWShw2Answers.ml" 90 3788 3808
+)
+"PoPLHWs/GWShw2Answers.ml" 90 3788 3802 "PoPLHWs/GWShw2Answers.ml" 90 3788 3803
+type(
+  'c
+)
+ident(
+  def y "PoPLHWs/GWShw2Answers.ml" 90 3788 3807 "PoPLHWs/GWShw2Answers.ml" 90 3788 3808
+)
+"PoPLHWs/GWShw2Answers.ml" 90 3788 3799 "PoPLHWs/GWShw2Answers.ml" 90 3788 3804
+type(
+  'b * 'c
+)
+"PoPLHWs/GWShw2Answers.ml" 90 3788 3807 "PoPLHWs/GWShw2Answers.ml" 90 3788 3808
+type(
+  'b
+)
+ident(
+  int_ref x "PoPLHWs/GWShw2Answers.ml" 90 3788 3800 "PoPLHWs/GWShw2Answers.ml" 90 3788 3801
+)
+"PoPLHWs/GWShw2Answers.ml" 91 3812 3817 "PoPLHWs/GWShw2Answers.ml" 91 3812 3823
+type(
+  'd * 'e -> 'e
+)
+ident(
+  def second "PoPLHWs/GWShw2Answers.ml" 92 3837 3838 "PoPLHWs/GWShw2Answers.ml" 96 4020 4031
+)
+"PoPLHWs/GWShw2Answers.ml" 91 3812 3825 "PoPLHWs/GWShw2Answers.ml" 91 3812 3826
+type(
+  'd
+)
+ident(
+  def x "PoPLHWs/GWShw2Answers.ml" 91 3812 3832 "PoPLHWs/GWShw2Answers.ml" 91 3812 3833
+)
+"PoPLHWs/GWShw2Answers.ml" 91 3812 3827 "PoPLHWs/GWShw2Answers.ml" 91 3812 3828
+type(
+  'e
+)
+ident(
+  def y "PoPLHWs/GWShw2Answers.ml" 91 3812 3832 "PoPLHWs/GWShw2Answers.ml" 91 3812 3833
+)
+"PoPLHWs/GWShw2Answers.ml" 91 3812 3824 "PoPLHWs/GWShw2Answers.ml" 91 3812 3829
+type(
+  'd * 'e
+)
+"PoPLHWs/GWShw2Answers.ml" 91 3812 3832 "PoPLHWs/GWShw2Answers.ml" 91 3812 3833
+type(
+  'e
+)
+ident(
+  int_ref y "PoPLHWs/GWShw2Answers.ml" 91 3812 3827 "PoPLHWs/GWShw2Answers.ml" 91 3812 3828
+)
+"PoPLHWs/GWShw2Answers.ml" 92 3837 3846 "PoPLHWs/GWShw2Answers.ml" 92 3837 3853
+type(
+  'f list -> ('f -> bool) -> 'f list * 'f list
+)
+ident(
+  def trythis "PoPLHWs/GWShw2Answers.ml" 92 3837 3838 "PoPLHWs/GWShw2Answers.ml" 96 4020 4031
+)
+"PoPLHWs/GWShw2Answers.ml" 92 3837 3854 "PoPLHWs/GWShw2Answers.ml" 92 3837 3857
+type(
+  'f list
+)
+ident(
+  def lst "PoPLHWs/GWShw2Answers.ml" 92 3837 3858 "PoPLHWs/GWShw2Answers.ml" 95 3895 4019
+)
+"PoPLHWs/GWShw2Answers.ml" 92 3837 3858 "PoPLHWs/GWShw2Answers.ml" 92 3837 3859
+type(
+  'f -> bool
+)
+ident(
+  def f "PoPLHWs/GWShw2Answers.ml" 93 3862 3863 "PoPLHWs/GWShw2Answers.ml" 95 3895 4019
+)
+"PoPLHWs/GWShw2Answers.ml" 93 3862 3869 "PoPLHWs/GWShw2Answers.ml" 93 3862 3872
+type(
+  'f list
+)
+ident(
+  int_ref lst "PoPLHWs/GWShw2Answers.ml" 92 3837 3854 "PoPLHWs/GWShw2Answers.ml" 92 3837 3857
+)
+"PoPLHWs/GWShw2Answers.ml" 94 3878 3881 "PoPLHWs/GWShw2Answers.ml" 94 3878 3883
+type(
+  'f list
+)
+"PoPLHWs/GWShw2Answers.ml" 94 3878 3888 "PoPLHWs/GWShw2Answers.ml" 94 3878 3890
+type(
+  'f list
+)
+"PoPLHWs/GWShw2Answers.ml" 94 3878 3891 "PoPLHWs/GWShw2Answers.ml" 94 3878 3893
+type(
+  'f list
+)
+"PoPLHWs/GWShw2Answers.ml" 94 3878 3887 "PoPLHWs/GWShw2Answers.ml" 94 3878 3894
+type(
+  'f list * 'f list
+)
+"PoPLHWs/GWShw2Answers.ml" 95 3895 3898 "PoPLHWs/GWShw2Answers.ml" 95 3895 3899
+type(
+  'f
+)
+ident(
+  def h "PoPLHWs/GWShw2Answers.ml" 95 3895 3908 "PoPLHWs/GWShw2Answers.ml" 95 3895 4019
+)
+"PoPLHWs/GWShw2Answers.ml" 95 3895 3903 "PoPLHWs/GWShw2Answers.ml" 95 3895 3904
+type(
+  'f list
+)
+ident(
+  def t "PoPLHWs/GWShw2Answers.ml" 95 3895 3908 "PoPLHWs/GWShw2Answers.ml" 95 3895 4019
+)
+"PoPLHWs/GWShw2Answers.ml" 95 3895 3898 "PoPLHWs/GWShw2Answers.ml" 95 3895 3904
+type(
+  'f list
+)
+"PoPLHWs/GWShw2Answers.ml" 95 3895 3911 "PoPLHWs/GWShw2Answers.ml" 95 3895 3912
+type(
+  'f -> bool
+)
+ident(
+  int_ref f "PoPLHWs/GWShw2Answers.ml" 92 3837 3858 "PoPLHWs/GWShw2Answers.ml" 92 3837 3859
+)
+"PoPLHWs/GWShw2Answers.ml" 95 3895 3913 "PoPLHWs/GWShw2Answers.ml" 95 3895 3914
+type(
+  'f
+)
+ident(
+  int_ref h "PoPLHWs/GWShw2Answers.ml" 95 3895 3898 "PoPLHWs/GWShw2Answers.ml" 95 3895 3899
+)
+"PoPLHWs/GWShw2Answers.ml" 95 3895 3911 "PoPLHWs/GWShw2Answers.ml" 95 3895 3914
+type(
+  bool
+)
+"PoPLHWs/GWShw2Answers.ml" 95 3895 3922 "PoPLHWs/GWShw2Answers.ml" 95 3895 3923
+type(
+  'f
+)
+ident(
+  int_ref h "PoPLHWs/GWShw2Answers.ml" 95 3895 3898 "PoPLHWs/GWShw2Answers.ml" 95 3895 3899
+)
+"PoPLHWs/GWShw2Answers.ml" 95 3895 3927 "PoPLHWs/GWShw2Answers.ml" 95 3895 3932
+type(
+  'f list * 'f list -> 'f list
+)
+ident(
+  int_ref first "PoPLHWs/GWShw2Answers.ml" 90 3788 3793 "PoPLHWs/GWShw2Answers.ml" 90 3788 3798
+)
+"PoPLHWs/GWShw2Answers.ml" 95 3895 3933 "PoPLHWs/GWShw2Answers.ml" 95 3895 3940
+type(
+  'f list -> ('f -> bool) -> 'f list * 'f list
+)
+ident(
+  int_ref trythis "PoPLHWs/GWShw2Answers.ml" 92 3837 3846 "PoPLHWs/GWShw2Answers.ml" 92 3837 3853
+)
+"PoPLHWs/GWShw2Answers.ml" 95 3895 3941 "PoPLHWs/GWShw2Answers.ml" 95 3895 3942
+type(
+  'f list
+)
+ident(
+  int_ref t "PoPLHWs/GWShw2Answers.ml" 95 3895 3903 "PoPLHWs/GWShw2Answers.ml" 95 3895 3904
+)
+"PoPLHWs/GWShw2Answers.ml" 95 3895 3943 "PoPLHWs/GWShw2Answers.ml" 95 3895 3944
+type(
+  'f -> bool
+)
+ident(
+  int_ref f "PoPLHWs/GWShw2Answers.ml" 92 3837 3858 "PoPLHWs/GWShw2Answers.ml" 92 3837 3859
+)
+"PoPLHWs/GWShw2Answers.ml" 95 3895 3932 "PoPLHWs/GWShw2Answers.ml" 95 3895 3945
+type(
+  'f list * 'f list
+)
+"PoPLHWs/GWShw2Answers.ml" 95 3895 3927 "PoPLHWs/GWShw2Answers.ml" 95 3895 3945
+type(
+  'f list
+)
+"PoPLHWs/GWShw2Answers.ml" 95 3895 3922 "PoPLHWs/GWShw2Answers.ml" 95 3895 3945
+type(
+  'f list
+)
+"PoPLHWs/GWShw2Answers.ml" 95 3895 3947 "PoPLHWs/GWShw2Answers.ml" 95 3895 3953
+type(
+  'f list * 'f list -> 'f list
+)
+ident(
+  int_ref second "PoPLHWs/GWShw2Answers.ml" 91 3812 3817 "PoPLHWs/GWShw2Answers.ml" 91 3812 3823
+)
+"PoPLHWs/GWShw2Answers.ml" 95 3895 3954 "PoPLHWs/GWShw2Answers.ml" 95 3895 3961
+type(
+  'f list -> ('f -> bool) -> 'f list * 'f list
+)
+ident(
+  int_ref trythis "PoPLHWs/GWShw2Answers.ml" 92 3837 3846 "PoPLHWs/GWShw2Answers.ml" 92 3837 3853
+)
+"PoPLHWs/GWShw2Answers.ml" 95 3895 3962 "PoPLHWs/GWShw2Answers.ml" 95 3895 3963
+type(
+  'f list
+)
+ident(
+  int_ref t "PoPLHWs/GWShw2Answers.ml" 95 3895 3903 "PoPLHWs/GWShw2Answers.ml" 95 3895 3904
+)
+"PoPLHWs/GWShw2Answers.ml" 95 3895 3964 "PoPLHWs/GWShw2Answers.ml" 95 3895 3965
+type(
+  'f -> bool
+)
+ident(
+  int_ref f "PoPLHWs/GWShw2Answers.ml" 92 3837 3858 "PoPLHWs/GWShw2Answers.ml" 92 3837 3859
+)
+"PoPLHWs/GWShw2Answers.ml" 95 3895 3953 "PoPLHWs/GWShw2Answers.ml" 95 3895 3966
+type(
+  'f list * 'f list
+)
+"PoPLHWs/GWShw2Answers.ml" 95 3895 3947 "PoPLHWs/GWShw2Answers.ml" 95 3895 3966
+type(
+  'f list
+)
+"PoPLHWs/GWShw2Answers.ml" 95 3895 3921 "PoPLHWs/GWShw2Answers.ml" 95 3895 3967
+type(
+  'f list * 'f list
+)
+"PoPLHWs/GWShw2Answers.ml" 95 3895 3974 "PoPLHWs/GWShw2Answers.ml" 95 3895 3979
+type(
+  'f list * 'f list -> 'f list
+)
+ident(
+  int_ref first "PoPLHWs/GWShw2Answers.ml" 90 3788 3793 "PoPLHWs/GWShw2Answers.ml" 90 3788 3798
+)
+"PoPLHWs/GWShw2Answers.ml" 95 3895 3980 "PoPLHWs/GWShw2Answers.ml" 95 3895 3987
+type(
+  'f list -> ('f -> bool) -> 'f list * 'f list
+)
+ident(
+  int_ref trythis "PoPLHWs/GWShw2Answers.ml" 92 3837 3846 "PoPLHWs/GWShw2Answers.ml" 92 3837 3853
+)
+"PoPLHWs/GWShw2Answers.ml" 95 3895 3988 "PoPLHWs/GWShw2Answers.ml" 95 3895 3989
+type(
+  'f list
+)
+ident(
+  int_ref t "PoPLHWs/GWShw2Answers.ml" 95 3895 3903 "PoPLHWs/GWShw2Answers.ml" 95 3895 3904
+)
+"PoPLHWs/GWShw2Answers.ml" 95 3895 3990 "PoPLHWs/GWShw2Answers.ml" 95 3895 3991
+type(
+  'f -> bool
+)
+ident(
+  int_ref f "PoPLHWs/GWShw2Answers.ml" 92 3837 3858 "PoPLHWs/GWShw2Answers.ml" 92 3837 3859
+)
+"PoPLHWs/GWShw2Answers.ml" 95 3895 3979 "PoPLHWs/GWShw2Answers.ml" 95 3895 3992
+type(
+  'f list * 'f list
+)
+"PoPLHWs/GWShw2Answers.ml" 95 3895 3974 "PoPLHWs/GWShw2Answers.ml" 95 3895 3992
+type(
+  'f list
+)
+"PoPLHWs/GWShw2Answers.ml" 95 3895 3994 "PoPLHWs/GWShw2Answers.ml" 95 3895 3995
+type(
+  'f
+)
+ident(
+  int_ref h "PoPLHWs/GWShw2Answers.ml" 95 3895 3898 "PoPLHWs/GWShw2Answers.ml" 95 3895 3899
+)
+"PoPLHWs/GWShw2Answers.ml" 95 3895 3999 "PoPLHWs/GWShw2Answers.ml" 95 3895 4005
+type(
+  'f list * 'f list -> 'f list
+)
+ident(
+  int_ref second "PoPLHWs/GWShw2Answers.ml" 91 3812 3817 "PoPLHWs/GWShw2Answers.ml" 91 3812 3823
+)
+"PoPLHWs/GWShw2Answers.ml" 95 3895 4006 "PoPLHWs/GWShw2Answers.ml" 95 3895 4013
+type(
+  'f list -> ('f -> bool) -> 'f list * 'f list
+)
+ident(
+  int_ref trythis "PoPLHWs/GWShw2Answers.ml" 92 3837 3846 "PoPLHWs/GWShw2Answers.ml" 92 3837 3853
+)
+"PoPLHWs/GWShw2Answers.ml" 95 3895 4014 "PoPLHWs/GWShw2Answers.ml" 95 3895 4015
+type(
+  'f list
+)
+ident(
+  int_ref t "PoPLHWs/GWShw2Answers.ml" 95 3895 3903 "PoPLHWs/GWShw2Answers.ml" 95 3895 3904
+)
+"PoPLHWs/GWShw2Answers.ml" 95 3895 4016 "PoPLHWs/GWShw2Answers.ml" 95 3895 4017
+type(
+  'f -> bool
+)
+ident(
+  int_ref f "PoPLHWs/GWShw2Answers.ml" 92 3837 3858 "PoPLHWs/GWShw2Answers.ml" 92 3837 3859
+)
+"PoPLHWs/GWShw2Answers.ml" 95 3895 4005 "PoPLHWs/GWShw2Answers.ml" 95 3895 4018
+type(
+  'f list * 'f list
+)
+"PoPLHWs/GWShw2Answers.ml" 95 3895 3999 "PoPLHWs/GWShw2Answers.ml" 95 3895 4018
+type(
+  'f list
+)
+"PoPLHWs/GWShw2Answers.ml" 95 3895 3994 "PoPLHWs/GWShw2Answers.ml" 95 3895 4018
+type(
+  'f list
+)
+"PoPLHWs/GWShw2Answers.ml" 95 3895 3973 "PoPLHWs/GWShw2Answers.ml" 95 3895 4019
+type(
+  'f list * 'f list
+)
+"PoPLHWs/GWShw2Answers.ml" 95 3895 3908 "PoPLHWs/GWShw2Answers.ml" 95 3895 4019
+type(
+  'f list * 'f list
+)
+"PoPLHWs/GWShw2Answers.ml" 93 3862 3863 "PoPLHWs/GWShw2Answers.ml" 95 3895 4019
+type(
+  'f list * 'f list
+)
+"PoPLHWs/GWShw2Answers.ml" 96 4020 4024 "PoPLHWs/GWShw2Answers.ml" 96 4020 4031
+type(
+  'a list -> ('a -> bool) -> 'a list * 'a list
+)
+ident(
+  int_ref trythis "PoPLHWs/GWShw2Answers.ml" 92 3837 3846 "PoPLHWs/GWShw2Answers.ml" 92 3837 3853
+)
+"PoPLHWs/GWShw2Answers.ml" 92 3837 3838 "PoPLHWs/GWShw2Answers.ml" 96 4020 4031
+type(
+  'a list -> ('a -> bool) -> 'a list * 'a list
+)
+"PoPLHWs/GWShw2Answers.ml" 91 3812 3813 "PoPLHWs/GWShw2Answers.ml" 96 4020 4031
+type(
+  'a list -> ('a -> bool) -> 'a list * 'a list
+)
+"PoPLHWs/GWShw2Answers.ml" 90 3788 3789 "PoPLHWs/GWShw2Answers.ml" 96 4020 4031
+type(
+  'a list -> ('a -> bool) -> 'a list * 'a list
+)
+"PoPLHWs/GWShw2Answers.ml" 102 4175 4179 "PoPLHWs/GWShw2Answers.ml" 102 4175 4183
+type(
+  'a -> ('b, 'c) foobar
+)
+ident(
+  def exp8 "PoPLHWs/GWShw2Answers.ml" 108 4403 4403 "PoPLHWs/GWShw2Answers.ml" 1 0 -1
+)
+"PoPLHWs/GWShw2Answers.ml" 102 4175 4191 "PoPLHWs/GWShw2Answers.ml" 102 4175 4195
+type(
+  'd -> ('e, 'f) foobar
+)
+ident(
+  def test "PoPLHWs/GWShw2Answers.ml" 102 4175 4263 "PoPLHWs/GWShw2Answers.ml" 102 4175 4267
+)
+"PoPLHWs/GWShw2Answers.ml" 102 4175 4196 "PoPLHWs/GWShw2Answers.ml" 102 4175 4197
+type(
+  'd
+)
+ident(
+  def a "PoPLHWs/GWShw2Answers.ml" 102 4175 4200 "PoPLHWs/GWShw2Answers.ml" 102 4175 4259
+)
+"PoPLHWs/GWShw2Answers.ml" 102 4175 4210 "PoPLHWs/GWShw2Answers.ml" 102 4175 4211
+type(
+  'd
+)
+ident(
+  int_ref a "PoPLHWs/GWShw2Answers.ml" 102 4175 4196 "PoPLHWs/GWShw2Answers.ml" 102 4175 4197
+)
+"PoPLHWs/GWShw2Answers.ml" 102 4175 4206 "PoPLHWs/GWShw2Answers.ml" 102 4175 4211
+type(
+  ('d, 'g) foobar
+)
+"PoPLHWs/GWShw2Answers.ml" 102 4175 4223 "PoPLHWs/GWShw2Answers.ml" 102 4175 4224
+type(
+  'h
+)
+ident(
+  def b "PoPLHWs/GWShw2Answers.ml" 102 4175 4228 "PoPLHWs/GWShw2Answers.ml" 102 4175 4233
+)
+"PoPLHWs/GWShw2Answers.ml" 102 4175 4219 "PoPLHWs/GWShw2Answers.ml" 102 4175 4224
+type(
+  ('d, 'h) foobar
+)
+"PoPLHWs/GWShw2Answers.ml" 102 4175 4232 "PoPLHWs/GWShw2Answers.ml" 102 4175 4233
+type(
+  'e
+)
+ident(
+  int_ref b "PoPLHWs/GWShw2Answers.ml" 102 4175 4223 "PoPLHWs/GWShw2Answers.ml" 102 4175 4224
+)
+"PoPLHWs/GWShw2Answers.ml" 102 4175 4228 "PoPLHWs/GWShw2Answers.ml" 102 4175 4233
+type(
+  ('e, 'f) foobar
+)
+"PoPLHWs/GWShw2Answers.ml" 102 4175 4236 "PoPLHWs/GWShw2Answers.ml" 102 4175 4237
+type(
+  ('d, 'h) foobar
+)
+"PoPLHWs/GWShw2Answers.ml" 102 4175 4241 "PoPLHWs/GWShw2Answers.ml" 102 4175 4249
+type(
+  string -> ('e, 'f) foobar
+)
+ident(
+  ext_ref Pervasives.failwith
+)
+"PoPLHWs/GWShw2Answers.ml" 102 4175 4250 "PoPLHWs/GWShw2Answers.ml" 102 4175 4259
+type(
+  string
+)
+"PoPLHWs/GWShw2Answers.ml" 102 4175 4241 "PoPLHWs/GWShw2Answers.ml" 102 4175 4259
+type(
+  ('e, 'f) foobar
+)
+"PoPLHWs/GWShw2Answers.ml" 102 4175 4200 "PoPLHWs/GWShw2Answers.ml" 102 4175 4259
+type(
+  ('e, 'f) foobar
+)
+"PoPLHWs/GWShw2Answers.ml" 102 4175 4263 "PoPLHWs/GWShw2Answers.ml" 102 4175 4267
+type(
+  'a -> ('b, 'c) foobar
+)
+ident(
+  int_ref test "PoPLHWs/GWShw2Answers.ml" 102 4175 4191 "PoPLHWs/GWShw2Answers.ml" 102 4175 4195
+)
+"PoPLHWs/GWShw2Answers.ml" 102 4175 4187 "PoPLHWs/GWShw2Answers.ml" 102 4175 4267
+type(
+  'a -> ('b, 'c) foobar
+)
+"PoPLHWs/GWShw2Answers.ml" 108 4403 4407 "PoPLHWs/GWShw2Answers.ml" 108 4403 4411
+type(
+  ('a, 'b) foobar list -> ('a -> 'c) -> ('b -> 'c) -> 'c list
+)
+ident(
+  def exp9 "PoPLHWs/GWShw2Answers.ml" 115 4676 4676 "PoPLHWs/GWShw2Answers.ml" 1 0 -1
+)
+"PoPLHWs/GWShw2Answers.ml" 108 4403 4422 "PoPLHWs/GWShw2Answers.ml" 108 4403 4430
+type(
+  ('d, 'e) foobar list -> ('d -> 'f) -> ('e -> 'f) -> 'f list
+)
+ident(
+  def unfoobar "PoPLHWs/GWShw2Answers.ml" 108 4403 4414 "PoPLHWs/GWShw2Answers.ml" 112 4584 4595
+)
+"PoPLHWs/GWShw2Answers.ml" 108 4403 4431 "PoPLHWs/GWShw2Answers.ml" 108 4403 4434
+type(
+  ('d, 'e) foobar list
+)
+ident(
+  def lst "PoPLHWs/GWShw2Answers.ml" 108 4403 4435 "PoPLHWs/GWShw2Answers.ml" 111 4530 4583
+)
+"PoPLHWs/GWShw2Answers.ml" 108 4403 4435 "PoPLHWs/GWShw2Answers.ml" 108 4403 4439
+type(
+  'd -> 'f
+)
+ident(
+  def foof "PoPLHWs/GWShw2Answers.ml" 108 4403 4440 "PoPLHWs/GWShw2Answers.ml" 111 4530 4583
+)
+"PoPLHWs/GWShw2Answers.ml" 108 4403 4440 "PoPLHWs/GWShw2Answers.ml" 108 4403 4444
+type(
+  'e -> 'f
+)
+ident(
+  def barf "PoPLHWs/GWShw2Answers.ml" 108 4403 4447 "PoPLHWs/GWShw2Answers.ml" 111 4530 4583
+)
+"PoPLHWs/GWShw2Answers.ml" 108 4403 4453 "PoPLHWs/GWShw2Answers.ml" 108 4403 4456
+type(
+  ('d, 'e) foobar list
+)
+ident(
+  int_ref lst "PoPLHWs/GWShw2Answers.ml" 108 4403 4431 "PoPLHWs/GWShw2Answers.ml" 108 4403 4434
+)
+"PoPLHWs/GWShw2Answers.ml" 109 4463 4466 "PoPLHWs/GWShw2Answers.ml" 109 4463 4468
+type(
+  ('d, 'e) foobar list
+)
+"PoPLHWs/GWShw2Answers.ml" 109 4463 4472 "PoPLHWs/GWShw2Answers.ml" 109 4463 4474
+type(
+  'f list
+)
+"PoPLHWs/GWShw2Answers.ml" 110 4476 4483 "PoPLHWs/GWShw2Answers.ml" 110 4476 4486
+type(
+  'd
+)
+ident(
+  def foo "PoPLHWs/GWShw2Answers.ml" 110 4476 4495 "PoPLHWs/GWShw2Answers.ml" 110 4476 4529
+)
+"PoPLHWs/GWShw2Answers.ml" 110 4476 4479 "PoPLHWs/GWShw2Answers.ml" 110 4476 4486
+type(
+  ('d, 'e) foobar
+)
+"PoPLHWs/GWShw2Answers.ml" 110 4476 4490 "PoPLHWs/GWShw2Answers.ml" 110 4476 4491
+type(
+  ('d, 'e) foobar list
+)
+ident(
+  def t "PoPLHWs/GWShw2Answers.ml" 110 4476 4495 "PoPLHWs/GWShw2Answers.ml" 110 4476 4529
+)
+"PoPLHWs/GWShw2Answers.ml" 110 4476 4479 "PoPLHWs/GWShw2Answers.ml" 110 4476 4491
+type(
+  ('d, 'e) foobar list
+)
+"PoPLHWs/GWShw2Answers.ml" 110 4476 4496 "PoPLHWs/GWShw2Answers.ml" 110 4476 4500
+type(
+  'd -> 'f
+)
+ident(
+  int_ref foof "PoPLHWs/GWShw2Answers.ml" 108 4403 4435 "PoPLHWs/GWShw2Answers.ml" 108 4403 4439
+)
+"PoPLHWs/GWShw2Answers.ml" 110 4476 4501 "PoPLHWs/GWShw2Answers.ml" 110 4476 4504
+type(
+  'd
+)
+ident(
+  int_ref foo "PoPLHWs/GWShw2Answers.ml" 110 4476 4483 "PoPLHWs/GWShw2Answers.ml" 110 4476 4486
+)
+"PoPLHWs/GWShw2Answers.ml" 110 4476 4495 "PoPLHWs/GWShw2Answers.ml" 110 4476 4505
+type(
+  'f
+)
+"PoPLHWs/GWShw2Answers.ml" 110 4476 4509 "PoPLHWs/GWShw2Answers.ml" 110 4476 4517
+type(
+  ('d, 'e) foobar list -> ('d -> 'f) -> ('e -> 'f) -> 'f list
+)
+ident(
+  int_ref unfoobar "PoPLHWs/GWShw2Answers.ml" 108 4403 4422 "PoPLHWs/GWShw2Answers.ml" 108 4403 4430
+)
+"PoPLHWs/GWShw2Answers.ml" 110 4476 4518 "PoPLHWs/GWShw2Answers.ml" 110 4476 4519
+type(
+  ('d, 'e) foobar list
+)
+ident(
+  int_ref t "PoPLHWs/GWShw2Answers.ml" 110 4476 4490 "PoPLHWs/GWShw2Answers.ml" 110 4476 4491
+)
+"PoPLHWs/GWShw2Answers.ml" 110 4476 4520 "PoPLHWs/GWShw2Answers.ml" 110 4476 4524
+type(
+  'd -> 'f
+)
+ident(
+  int_ref foof "PoPLHWs/GWShw2Answers.ml" 108 4403 4435 "PoPLHWs/GWShw2Answers.ml" 108 4403 4439
+)
+"PoPLHWs/GWShw2Answers.ml" 110 4476 4525 "PoPLHWs/GWShw2Answers.ml" 110 4476 4529
+type(
+  'e -> 'f
+)
+ident(
+  int_ref barf "PoPLHWs/GWShw2Answers.ml" 108 4403 4440 "PoPLHWs/GWShw2Answers.ml" 108 4403 4444
+)
+"PoPLHWs/GWShw2Answers.ml" 110 4476 4509 "PoPLHWs/GWShw2Answers.ml" 110 4476 4529
+type(
+  'f list
+)
+"PoPLHWs/GWShw2Answers.ml" 110 4476 4495 "PoPLHWs/GWShw2Answers.ml" 110 4476 4529
+type(
+  'f list
+)
+"PoPLHWs/GWShw2Answers.ml" 111 4530 4537 "PoPLHWs/GWShw2Answers.ml" 111 4530 4540
+type(
+  'e
+)
+ident(
+  def bar "PoPLHWs/GWShw2Answers.ml" 111 4530 4549 "PoPLHWs/GWShw2Answers.ml" 111 4530 4583
+)
+"PoPLHWs/GWShw2Answers.ml" 111 4530 4533 "PoPLHWs/GWShw2Answers.ml" 111 4530 4540
+type(
+  ('d, 'e) foobar
+)
+"PoPLHWs/GWShw2Answers.ml" 111 4530 4544 "PoPLHWs/GWShw2Answers.ml" 111 4530 4545
+type(
+  ('d, 'e) foobar list
+)
+ident(
+  def t "PoPLHWs/GWShw2Answers.ml" 111 4530 4549 "PoPLHWs/GWShw2Answers.ml" 111 4530 4583
+)
+"PoPLHWs/GWShw2Answers.ml" 111 4530 4533 "PoPLHWs/GWShw2Answers.ml" 111 4530 4545
+type(
+  ('d, 'e) foobar list
+)
+"PoPLHWs/GWShw2Answers.ml" 111 4530 4550 "PoPLHWs/GWShw2Answers.ml" 111 4530 4554
+type(
+  'e -> 'f
+)
+ident(
+  int_ref barf "PoPLHWs/GWShw2Answers.ml" 108 4403 4440 "PoPLHWs/GWShw2Answers.ml" 108 4403 4444
+)
+"PoPLHWs/GWShw2Answers.ml" 111 4530 4555 "PoPLHWs/GWShw2Answers.ml" 111 4530 4558
+type(
+  'e
+)
+ident(
+  int_ref bar "PoPLHWs/GWShw2Answers.ml" 111 4530 4537 "PoPLHWs/GWShw2Answers.ml" 111 4530 4540
+)
+"PoPLHWs/GWShw2Answers.ml" 111 4530 4549 "PoPLHWs/GWShw2Answers.ml" 111 4530 4559
+type(
+  'f
+)
+"PoPLHWs/GWShw2Answers.ml" 111 4530 4563 "PoPLHWs/GWShw2Answers.ml" 111 4530 4571
+type(
+  ('d, 'e) foobar list -> ('d -> 'f) -> ('e -> 'f) -> 'f list
+)
+ident(
+  int_ref unfoobar "PoPLHWs/GWShw2Answers.ml" 108 4403 4422 "PoPLHWs/GWShw2Answers.ml" 108 4403 4430
+)
+"PoPLHWs/GWShw2Answers.ml" 111 4530 4572 "PoPLHWs/GWShw2Answers.ml" 111 4530 4573
+type(
+  ('d, 'e) foobar list
+)
+ident(
+  int_ref t "PoPLHWs/GWShw2Answers.ml" 111 4530 4544 "PoPLHWs/GWShw2Answers.ml" 111 4530 4545
+)
+"PoPLHWs/GWShw2Answers.ml" 111 4530 4574 "PoPLHWs/GWShw2Answers.ml" 111 4530 4578
+type(
+  'd -> 'f
+)
+ident(
+  int_ref foof "PoPLHWs/GWShw2Answers.ml" 108 4403 4435 "PoPLHWs/GWShw2Answers.ml" 108 4403 4439
+)
+"PoPLHWs/GWShw2Answers.ml" 111 4530 4579 "PoPLHWs/GWShw2Answers.ml" 111 4530 4583
+type(
+  'e -> 'f
+)
+ident(
+  int_ref barf "PoPLHWs/GWShw2Answers.ml" 108 4403 4440 "PoPLHWs/GWShw2Answers.ml" 108 4403 4444
+)
+"PoPLHWs/GWShw2Answers.ml" 111 4530 4563 "PoPLHWs/GWShw2Answers.ml" 111 4530 4583
+type(
+  'f list
+)
+"PoPLHWs/GWShw2Answers.ml" 111 4530 4549 "PoPLHWs/GWShw2Answers.ml" 111 4530 4583
+type(
+  'f list
+)
+"PoPLHWs/GWShw2Answers.ml" 108 4403 4447 "PoPLHWs/GWShw2Answers.ml" 111 4530 4583
+type(
+  'f list
+)
+"PoPLHWs/GWShw2Answers.ml" 112 4584 4587 "PoPLHWs/GWShw2Answers.ml" 112 4584 4595
+type(
+  ('a, 'b) foobar list -> ('a -> 'c) -> ('b -> 'c) -> 'c list
+)
+ident(
+  int_ref unfoobar "PoPLHWs/GWShw2Answers.ml" 108 4403 4422 "PoPLHWs/GWShw2Answers.ml" 108 4403 4430
+)
+"PoPLHWs/GWShw2Answers.ml" 108 4403 4414 "PoPLHWs/GWShw2Answers.ml" 112 4584 4595
+type(
+  ('a, 'b) foobar list -> ('a -> 'c) -> ('b -> 'c) -> 'c list
+)
+"PoPLHWs/GWShw2Answers.ml" 115 4676 4680 "PoPLHWs/GWShw2Answers.ml" 115 4676 4685
+type(
+  'a -> 'b
+)
+ident(
+  def exp10 "PoPLHWs/GWShw2Answers.ml" 132 5379 5379 "PoPLHWs/GWShw2Answers.ml" 1 0 -1
+)
+"PoPLHWs/GWShw2Answers.ml" 115 4676 4692 "PoPLHWs/GWShw2Answers.ml" 115 4676 4697
+type(
+  'c -> 'd
+)
+ident(
+  def rando "PoPLHWs/GWShw2Answers.ml" 115 4676 4759 "PoPLHWs/GWShw2Answers.ml" 115 4676 4764
+)
+"PoPLHWs/GWShw2Answers.ml" 115 4676 4698 "PoPLHWs/GWShw2Answers.ml" 115 4676 4699
+type(
+  'c
+)
+ident(
+  def a "PoPLHWs/GWShw2Answers.ml" 115 4676 4702 "PoPLHWs/GWShw2Answers.ml" 115 4676 4755
+)
+"PoPLHWs/GWShw2Answers.ml" 115 4676 4712 "PoPLHWs/GWShw2Answers.ml" 115 4676 4713
+type(
+  'c
+)
+ident(
+  int_ref a "PoPLHWs/GWShw2Answers.ml" 115 4676 4698 "PoPLHWs/GWShw2Answers.ml" 115 4676 4699
+)
+"PoPLHWs/GWShw2Answers.ml" 115 4676 4708 "PoPLHWs/GWShw2Answers.ml" 115 4676 4713
+type(
+  ('c, 'e) foobar
+)
+"PoPLHWs/GWShw2Answers.ml" 115 4676 4725 "PoPLHWs/GWShw2Answers.ml" 115 4676 4726
+type(
+  'f
+)
+ident(
+  def b "PoPLHWs/GWShw2Answers.ml" 115 4676 4730 "PoPLHWs/GWShw2Answers.ml" 115 4676 4731
+)
+"PoPLHWs/GWShw2Answers.ml" 115 4676 4721 "PoPLHWs/GWShw2Answers.ml" 115 4676 4726
+type(
+  ('c, 'f) foobar
+)
+"PoPLHWs/GWShw2Answers.ml" 115 4676 4730 "PoPLHWs/GWShw2Answers.ml" 115 4676 4731
+type(
+  'd
+)
+ident(
+  int_ref b "PoPLHWs/GWShw2Answers.ml" 115 4676 4725 "PoPLHWs/GWShw2Answers.ml" 115 4676 4726
+)
+"PoPLHWs/GWShw2Answers.ml" 115 4676 4734 "PoPLHWs/GWShw2Answers.ml" 115 4676 4735
+type(
+  ('c, 'f) foobar
+)
+"PoPLHWs/GWShw2Answers.ml" 115 4676 4739 "PoPLHWs/GWShw2Answers.ml" 115 4676 4747
+type(
+  string -> 'd
+)
+ident(
+  ext_ref Pervasives.failwith
+)
+"PoPLHWs/GWShw2Answers.ml" 115 4676 4748 "PoPLHWs/GWShw2Answers.ml" 115 4676 4755
+type(
+  string
+)
+"PoPLHWs/GWShw2Answers.ml" 115 4676 4739 "PoPLHWs/GWShw2Answers.ml" 115 4676 4755
+type(
+  'd
+)
+"PoPLHWs/GWShw2Answers.ml" 115 4676 4702 "PoPLHWs/GWShw2Answers.ml" 115 4676 4755
+type(
+  'd
+)
+"PoPLHWs/GWShw2Answers.ml" 115 4676 4759 "PoPLHWs/GWShw2Answers.ml" 115 4676 4764
+type(
+  'a -> 'b
+)
+ident(
+  int_ref rando "PoPLHWs/GWShw2Answers.ml" 115 4676 4692 "PoPLHWs/GWShw2Answers.ml" 115 4676 4697
+)
+"PoPLHWs/GWShw2Answers.ml" 115 4676 4688 "PoPLHWs/GWShw2Answers.ml" 115 4676 4764
+type(
+  'a -> 'b
+)
+"PoPLHWs/GWShw2Answers.ml" 135 5521 5529 "PoPLHWs/GWShw2Answers.ml" 135 5521 5535
+type(
+  int sequence
+)
+ident(
+  def zeroes "PoPLHWs/GWShw2Answers.ml" 135 5521 5521 "PoPLHWs/GWShw2Answers.ml" 1 0 -1
+)
+"PoPLHWs/GWShw2Answers.ml" 135 5521 5547 "PoPLHWs/GWShw2Answers.ml" 135 5521 5548
+type(
+  int
+)
+"PoPLHWs/GWShw2Answers.ml" 135 5521 5559 "PoPLHWs/GWShw2Answers.ml" 135 5521 5561
+type(
+  unit
+)
+"PoPLHWs/GWShw2Answers.ml" 135 5521 5565 "PoPLHWs/GWShw2Answers.ml" 135 5521 5571
+type(
+  int sequence
+)
+ident(
+  int_ref zeroes "PoPLHWs/GWShw2Answers.ml" 135 5521 5529 "PoPLHWs/GWShw2Answers.ml" 135 5521 5535
+)
+"PoPLHWs/GWShw2Answers.ml" 135 5521 5550 "PoPLHWs/GWShw2Answers.ml" 135 5521 5571
+type(
+  unit -> int sequence
+)
+"PoPLHWs/GWShw2Answers.ml" 135 5521 5538 "PoPLHWs/GWShw2Answers.ml" 135 5521 5572
+type(
+  int sequence
+)
+"PoPLHWs/GWShw2Answers.ml" 138 5609 5613 "PoPLHWs/GWShw2Answers.ml" 138 5609 5624
+type(
+  int sequence
+)
+ident(
+  def one_and_two "PoPLHWs/GWShw2Answers.ml" 146 5903 5903 "PoPLHWs/GWShw2Answers.ml" 1 0 -1
+)
+"PoPLHWs/GWShw2Answers.ml" 138 5609 5636 "PoPLHWs/GWShw2Answers.ml" 138 5609 5637
+type(
+  int
+)
+"PoPLHWs/GWShw2Answers.ml" 138 5609 5643 "PoPLHWs/GWShw2Answers.ml" 138 5609 5645
+type(
+  unit
+)
+"PoPLHWs/GWShw2Answers.ml" 138 5609 5658 "PoPLHWs/GWShw2Answers.ml" 138 5609 5659
+type(
+  int
+)
+"PoPLHWs/GWShw2Answers.ml" 138 5609 5665 "PoPLHWs/GWShw2Answers.ml" 138 5609 5667
+type(
+  unit
+)
+"PoPLHWs/GWShw2Answers.ml" 138 5609 5671 "PoPLHWs/GWShw2Answers.ml" 138 5609 5674
+type(
+  int sequence
+)
+"PoPLHWs/GWShw2Answers.ml" 138 5609 5661 "PoPLHWs/GWShw2Answers.ml" 138 5609 5674
+type(
+  unit -> int sequence
+)
+"PoPLHWs/GWShw2Answers.ml" 138 5609 5649 "PoPLHWs/GWShw2Answers.ml" 138 5609 5675
+type(
+  int sequence
+)
+"PoPLHWs/GWShw2Answers.ml" 138 5609 5639 "PoPLHWs/GWShw2Answers.ml" 138 5609 5675
+type(
+  unit -> int sequence
+)
+"PoPLHWs/GWShw2Answers.ml" 138 5609 5627 "PoPLHWs/GWShw2Answers.ml" 138 5609 5676
+type(
+  int sequence
+)
+"PoPLHWs/GWShw2Answers.ml" 146 5903 5911 "PoPLHWs/GWShw2Answers.ml" 146 5903 5927
+type(
+  'a sequence -> 'a list
+)
+ident(
+  def list_of_sequence "PoPLHWs/GWShw2Answers.ml" 146 5903 5903 "PoPLHWs/GWShw2Answers.ml" 1 0 -1
+)
+"PoPLHWs/GWShw2Answers.ml" 146 5903 5928 "PoPLHWs/GWShw2Answers.ml" 146 5903 5929
+type(
+  'a sequence
+)
+ident(
+  def s "PoPLHWs/GWShw2Answers.ml" 146 5903 5932 "PoPLHWs/GWShw2Answers.ml" 148 5958 6016
+)
+"PoPLHWs/GWShw2Answers.ml" 146 5903 5938 "PoPLHWs/GWShw2Answers.ml" 146 5903 5939
+type(
+  'a sequence
+)
+ident(
+  int_ref s "PoPLHWs/GWShw2Answers.ml" 146 5903 5928 "PoPLHWs/GWShw2Answers.ml" 146 5903 5929
+)
+"PoPLHWs/GWShw2Answers.ml" 147 5945 5948 "PoPLHWs/GWShw2Answers.ml" 147 5945 5951
+type(
+  'a sequence
+)
+"PoPLHWs/GWShw2Answers.ml" 147 5945 5955 "PoPLHWs/GWShw2Answers.ml" 147 5945 5957
+type(
+  'a list
+)
+"PoPLHWs/GWShw2Answers.ml" 148 5958 5971 "PoPLHWs/GWShw2Answers.ml" 148 5958 5972
+type(
+  'a
+)
+ident(
+  def h "PoPLHWs/GWShw2Answers.ml" 148 5958 5984 "PoPLHWs/GWShw2Answers.ml" 148 5958 6016
+)
+"PoPLHWs/GWShw2Answers.ml" 148 5958 5974 "PoPLHWs/GWShw2Answers.ml" 148 5958 5979
+type(
+  unit -> 'a sequence
+)
+ident(
+  def tfunc "PoPLHWs/GWShw2Answers.ml" 148 5958 5984 "PoPLHWs/GWShw2Answers.ml" 148 5958 6016
+)
+"PoPLHWs/GWShw2Answers.ml" 148 5958 5961 "PoPLHWs/GWShw2Answers.ml" 148 5958 5980
+type(
+  'a sequence
+)
+"PoPLHWs/GWShw2Answers.ml" 148 5958 5984 "PoPLHWs/GWShw2Answers.ml" 148 5958 5985
+type(
+  'a
+)
+ident(
+  int_ref h "PoPLHWs/GWShw2Answers.ml" 148 5958 5971 "PoPLHWs/GWShw2Answers.ml" 148 5958 5972
+)
+"PoPLHWs/GWShw2Answers.ml" 148 5958 5989 "PoPLHWs/GWShw2Answers.ml" 148 5958 6005
+type(
+  'a sequence -> 'a list
+)
+ident(
+  int_ref list_of_sequence "PoPLHWs/GWShw2Answers.ml" 146 5903 5911 "PoPLHWs/GWShw2Answers.ml" 146 5903 5927
+)
+"PoPLHWs/GWShw2Answers.ml" 148 5958 6007 "PoPLHWs/GWShw2Answers.ml" 148 5958 6012
+type(
+  unit -> 'a sequence
+)
+ident(
+  int_ref tfunc "PoPLHWs/GWShw2Answers.ml" 148 5958 5974 "PoPLHWs/GWShw2Answers.ml" 148 5958 5979
+)
+"PoPLHWs/GWShw2Answers.ml" 148 5958 6013 "PoPLHWs/GWShw2Answers.ml" 148 5958 6015
+type(
+  unit
+)
+"PoPLHWs/GWShw2Answers.ml" 148 5958 6006 "PoPLHWs/GWShw2Answers.ml" 148 5958 6016
+type(
+  'a sequence
+)
+"PoPLHWs/GWShw2Answers.ml" 148 5958 5989 "PoPLHWs/GWShw2Answers.ml" 148 5958 6016
+type(
+  'a list
+)
+"PoPLHWs/GWShw2Answers.ml" 148 5958 5984 "PoPLHWs/GWShw2Answers.ml" 148 5958 6016
+type(
+  'a list
+)
+"PoPLHWs/GWShw2Answers.ml" 146 5903 5932 "PoPLHWs/GWShw2Answers.ml" 148 5958 6016
+type(
+  'a list
+)
+"PoPLHWs/GWShw2Answers.ml" 165 6583 6591 "PoPLHWs/GWShw2Answers.ml" 165 6583 6603
+type(
+  int -> 'a sequence -> 'a sequence
+)
+ident(
+  def cut_sequence "PoPLHWs/GWShw2Answers.ml" 165 6583 6583 "PoPLHWs/GWShw2Answers.ml" 1 0 -1
+)
+"PoPLHWs/GWShw2Answers.ml" 165 6583 6604 "PoPLHWs/GWShw2Answers.ml" 165 6583 6605
+type(
+  int
+)
+ident(
+  def n "PoPLHWs/GWShw2Answers.ml" 165 6583 6606 "PoPLHWs/GWShw2Answers.ml" 168 6657 6738
+)
+"PoPLHWs/GWShw2Answers.ml" 165 6583 6606 "PoPLHWs/GWShw2Answers.ml" 165 6583 6607
+type(
+  'a sequence
+)
+ident(
+  def s "PoPLHWs/GWShw2Answers.ml" 165 6583 6610 "PoPLHWs/GWShw2Answers.ml" 168 6657 6738
+)
+"PoPLHWs/GWShw2Answers.ml" 165 6583 6616 "PoPLHWs/GWShw2Answers.ml" 165 6583 6617
+type(
+  int
+)
+ident(
+  int_ref n "PoPLHWs/GWShw2Answers.ml" 165 6583 6604 "PoPLHWs/GWShw2Answers.ml" 165 6583 6605
+)
+"PoPLHWs/GWShw2Answers.ml" 165 6583 6619 "PoPLHWs/GWShw2Answers.ml" 165 6583 6620
+type(
+  'a sequence
+)
+ident(
+  int_ref s "PoPLHWs/GWShw2Answers.ml" 165 6583 6606 "PoPLHWs/GWShw2Answers.ml" 165 6583 6607
+)
+"PoPLHWs/GWShw2Answers.ml" 165 6583 6616 "PoPLHWs/GWShw2Answers.ml" 165 6583 6620
+type(
+  int * 'a sequence
+)
+"PoPLHWs/GWShw2Answers.ml" 166 6626 6628 "PoPLHWs/GWShw2Answers.ml" 166 6626 6629
+type(
+  int
+)
+"PoPLHWs/GWShw2Answers.ml" 166 6626 6631 "PoPLHWs/GWShw2Answers.ml" 166 6626 6632
+type(
+  'a sequence
+)
+"PoPLHWs/GWShw2Answers.ml" 166 6626 6628 "PoPLHWs/GWShw2Answers.ml" 166 6626 6632
+type(
+  int * 'a sequence
+)
+"PoPLHWs/GWShw2Answers.ml" 166 6626 6637 "PoPLHWs/GWShw2Answers.ml" 166 6626 6640
+type(
+  'a sequence
+)
+"PoPLHWs/GWShw2Answers.ml" 167 6641 6643 "PoPLHWs/GWShw2Answers.ml" 167 6641 6644
+type(
+  int
+)
+"PoPLHWs/GWShw2Answers.ml" 167 6641 6646 "PoPLHWs/GWShw2Answers.ml" 167 6641 6649
+type(
+  'a sequence
+)
+"PoPLHWs/GWShw2Answers.ml" 167 6641 6643 "PoPLHWs/GWShw2Answers.ml" 167 6641 6649
+type(
+  int * 'a sequence
+)
+"PoPLHWs/GWShw2Answers.ml" 167 6641 6653 "PoPLHWs/GWShw2Answers.ml" 167 6641 6656
+type(
+  'a sequence
+)
+"PoPLHWs/GWShw2Answers.ml" 168 6657 6659 "PoPLHWs/GWShw2Answers.ml" 168 6657 6660
+type(
+  int
+)
+ident(
+  def n "PoPLHWs/GWShw2Answers.ml" 168 6657 6685 "PoPLHWs/GWShw2Answers.ml" 168 6657 6738
+)
+"PoPLHWs/GWShw2Answers.ml" 168 6657 6672 "PoPLHWs/GWShw2Answers.ml" 168 6657 6673
+type(
+  'a
+)
+ident(
+  def h "PoPLHWs/GWShw2Answers.ml" 168 6657 6685 "PoPLHWs/GWShw2Answers.ml" 168 6657 6738
+)
+"PoPLHWs/GWShw2Answers.ml" 168 6657 6675 "PoPLHWs/GWShw2Answers.ml" 168 6657 6680
+type(
+  unit -> 'a sequence
+)
+ident(
+  def tfunc "PoPLHWs/GWShw2Answers.ml" 168 6657 6685 "PoPLHWs/GWShw2Answers.ml" 168 6657 6738
+)
+"PoPLHWs/GWShw2Answers.ml" 168 6657 6662 "PoPLHWs/GWShw2Answers.ml" 168 6657 6681
+type(
+  'a sequence
+)
+"PoPLHWs/GWShw2Answers.ml" 168 6657 6659 "PoPLHWs/GWShw2Answers.ml" 168 6657 6681
+type(
+  int * 'a sequence
+)
+"PoPLHWs/GWShw2Answers.ml" 168 6657 6694 "PoPLHWs/GWShw2Answers.ml" 168 6657 6695
+type(
+  'a
+)
+ident(
+  int_ref h "PoPLHWs/GWShw2Answers.ml" 168 6657 6672 "PoPLHWs/GWShw2Answers.ml" 168 6657 6673
+)
+"PoPLHWs/GWShw2Answers.ml" 168 6657 6701 "PoPLHWs/GWShw2Answers.ml" 168 6657 6703
+type(
+  unit
+)
+"PoPLHWs/GWShw2Answers.ml" 168 6657 6707 "PoPLHWs/GWShw2Answers.ml" 168 6657 6719
+type(
+  int -> 'a sequence -> 'a sequence
+)
+ident(
+  int_ref cut_sequence "PoPLHWs/GWShw2Answers.ml" 165 6583 6591 "PoPLHWs/GWShw2Answers.ml" 165 6583 6603
+)
+"PoPLHWs/GWShw2Answers.ml" 168 6657 6721 "PoPLHWs/GWShw2Answers.ml" 168 6657 6722
+type(
+  int
+)
+ident(
+  int_ref n "PoPLHWs/GWShw2Answers.ml" 168 6657 6659 "PoPLHWs/GWShw2Answers.ml" 168 6657 6660
+)
+"PoPLHWs/GWShw2Answers.ml" 168 6657 6722 "PoPLHWs/GWShw2Answers.ml" 168 6657 6723
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"PoPLHWs/GWShw2Answers.ml" 168 6657 6723 "PoPLHWs/GWShw2Answers.ml" 168 6657 6724
+type(
+  int
+)
+"PoPLHWs/GWShw2Answers.ml" 168 6657 6720 "PoPLHWs/GWShw2Answers.ml" 168 6657 6725
+type(
+  int
+)
+"PoPLHWs/GWShw2Answers.ml" 168 6657 6727 "PoPLHWs/GWShw2Answers.ml" 168 6657 6732
+type(
+  unit -> 'a sequence
+)
+ident(
+  int_ref tfunc "PoPLHWs/GWShw2Answers.ml" 168 6657 6675 "PoPLHWs/GWShw2Answers.ml" 168 6657 6680
+)
+"PoPLHWs/GWShw2Answers.ml" 168 6657 6733 "PoPLHWs/GWShw2Answers.ml" 168 6657 6735
+type(
+  unit
+)
+"PoPLHWs/GWShw2Answers.ml" 168 6657 6726 "PoPLHWs/GWShw2Answers.ml" 168 6657 6736
+type(
+  'a sequence
+)
+"PoPLHWs/GWShw2Answers.ml" 168 6657 6707 "PoPLHWs/GWShw2Answers.ml" 168 6657 6736
+type(
+  'a sequence
+)
+"PoPLHWs/GWShw2Answers.ml" 168 6657 6697 "PoPLHWs/GWShw2Answers.ml" 168 6657 6736
+type(
+  unit -> 'a sequence
+)
+"PoPLHWs/GWShw2Answers.ml" 168 6657 6685 "PoPLHWs/GWShw2Answers.ml" 168 6657 6738
+type(
+  'a sequence
+)
+"PoPLHWs/GWShw2Answers.ml" 165 6583 6610 "PoPLHWs/GWShw2Answers.ml" 168 6657 6738
+type(
+  'a sequence
+)
+"PoPLHWs/GWShw2Answers.ml" 182 7104 7112 "PoPLHWs/GWShw2Answers.ml" 182 7104 7114
+type(
+  int -> int -> int -> int sequence
+)
+ident(
+  def gp "PoPLHWs/GWShw2Answers.ml" 182 7104 7104 "PoPLHWs/GWShw2Answers.ml" 1 0 -1
+)
+"PoPLHWs/GWShw2Answers.ml" 182 7104 7115 "PoPLHWs/GWShw2Answers.ml" 182 7104 7120
+type(
+  int
+)
+ident(
+  def initv "PoPLHWs/GWShw2Answers.ml" 182 7104 7121 "PoPLHWs/GWShw2Answers.ml" 182 7104 7215
+)
+"PoPLHWs/GWShw2Answers.ml" 182 7104 7121 "PoPLHWs/GWShw2Answers.ml" 182 7104 7125
+type(
+  int
+)
+ident(
+  def endv "PoPLHWs/GWShw2Answers.ml" 182 7104 7126 "PoPLHWs/GWShw2Answers.ml" 182 7104 7215
+)
+"PoPLHWs/GWShw2Answers.ml" 182 7104 7126 "PoPLHWs/GWShw2Answers.ml" 182 7104 7130
+type(
+  int
+)
+ident(
+  def step "PoPLHWs/GWShw2Answers.ml" 182 7104 7133 "PoPLHWs/GWShw2Answers.ml" 182 7104 7215
+)
+"PoPLHWs/GWShw2Answers.ml" 182 7104 7136 "PoPLHWs/GWShw2Answers.ml" 182 7104 7141
+type(
+  int
+)
+ident(
+  int_ref initv "PoPLHWs/GWShw2Answers.ml" 182 7104 7115 "PoPLHWs/GWShw2Answers.ml" 182 7104 7120
+)
+"PoPLHWs/GWShw2Answers.ml" 182 7104 7142 "PoPLHWs/GWShw2Answers.ml" 182 7104 7143
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( > )
+)
+"PoPLHWs/GWShw2Answers.ml" 182 7104 7144 "PoPLHWs/GWShw2Answers.ml" 182 7104 7148
+type(
+  int
+)
+ident(
+  int_ref endv "PoPLHWs/GWShw2Answers.ml" 182 7104 7121 "PoPLHWs/GWShw2Answers.ml" 182 7104 7125
+)
+"PoPLHWs/GWShw2Answers.ml" 182 7104 7136 "PoPLHWs/GWShw2Answers.ml" 182 7104 7148
+type(
+  bool
+)
+"PoPLHWs/GWShw2Answers.ml" 182 7104 7154 "PoPLHWs/GWShw2Answers.ml" 182 7104 7157
+type(
+  int sequence
+)
+"PoPLHWs/GWShw2Answers.ml" 182 7104 7172 "PoPLHWs/GWShw2Answers.ml" 182 7104 7177
+type(
+  int
+)
+ident(
+  int_ref initv "PoPLHWs/GWShw2Answers.ml" 182 7104 7115 "PoPLHWs/GWShw2Answers.ml" 182 7104 7120
+)
+"PoPLHWs/GWShw2Answers.ml" 182 7104 7183 "PoPLHWs/GWShw2Answers.ml" 182 7104 7185
+type(
+  unit
+)
+"PoPLHWs/GWShw2Answers.ml" 182 7104 7189 "PoPLHWs/GWShw2Answers.ml" 182 7104 7191
+type(
+  int -> int -> int -> int sequence
+)
+ident(
+  int_ref gp "PoPLHWs/GWShw2Answers.ml" 182 7104 7112 "PoPLHWs/GWShw2Answers.ml" 182 7104 7114
+)
+"PoPLHWs/GWShw2Answers.ml" 182 7104 7193 "PoPLHWs/GWShw2Answers.ml" 182 7104 7198
+type(
+  int
+)
+ident(
+  int_ref initv "PoPLHWs/GWShw2Answers.ml" 182 7104 7115 "PoPLHWs/GWShw2Answers.ml" 182 7104 7120
+)
+"PoPLHWs/GWShw2Answers.ml" 182 7104 7198 "PoPLHWs/GWShw2Answers.ml" 182 7104 7199
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( * )
+)
+"PoPLHWs/GWShw2Answers.ml" 182 7104 7199 "PoPLHWs/GWShw2Answers.ml" 182 7104 7203
+type(
+  int
+)
+ident(
+  int_ref step "PoPLHWs/GWShw2Answers.ml" 182 7104 7126 "PoPLHWs/GWShw2Answers.ml" 182 7104 7130
+)
+"PoPLHWs/GWShw2Answers.ml" 182 7104 7192 "PoPLHWs/GWShw2Answers.ml" 182 7104 7204
+type(
+  int
+)
+"PoPLHWs/GWShw2Answers.ml" 182 7104 7205 "PoPLHWs/GWShw2Answers.ml" 182 7104 7209
+type(
+  int
+)
+ident(
+  int_ref endv "PoPLHWs/GWShw2Answers.ml" 182 7104 7121 "PoPLHWs/GWShw2Answers.ml" 182 7104 7125
+)
+"PoPLHWs/GWShw2Answers.ml" 182 7104 7210 "PoPLHWs/GWShw2Answers.ml" 182 7104 7214
+type(
+  int
+)
+ident(
+  int_ref step "PoPLHWs/GWShw2Answers.ml" 182 7104 7126 "PoPLHWs/GWShw2Answers.ml" 182 7104 7130
+)
+"PoPLHWs/GWShw2Answers.ml" 182 7104 7189 "PoPLHWs/GWShw2Answers.ml" 182 7104 7214
+type(
+  int sequence
+)
+"PoPLHWs/GWShw2Answers.ml" 182 7104 7179 "PoPLHWs/GWShw2Answers.ml" 182 7104 7214
+type(
+  unit -> int sequence
+)
+"PoPLHWs/GWShw2Answers.ml" 182 7104 7163 "PoPLHWs/GWShw2Answers.ml" 182 7104 7215
+type(
+  int sequence
+)
+"PoPLHWs/GWShw2Answers.ml" 182 7104 7133 "PoPLHWs/GWShw2Answers.ml" 182 7104 7215
+type(
+  int sequence
+)
+"PoPLHWs/GWShw2Answers.ml" 194 7439 7443 "PoPLHWs/GWShw2Answers.ml" 194 7439 7453
+type(
+  int sequence
+)
+ident(
+  def factorials "PoPLHWs/GWShw2Answers.ml" 199 7603 7603 "PoPLHWs/GWShw2Answers.ml" 1 0 -1
+)
+"PoPLHWs/GWShw2Answers.ml" 195 7457 7466 "PoPLHWs/GWShw2Answers.ml" 195 7457 7470
+type(
+  int -> int
+)
+ident(
+  def fact "PoPLHWs/GWShw2Answers.ml" 195 7457 7458 "PoPLHWs/GWShw2Answers.ml" 197 7587 7599
+)
+"PoPLHWs/GWShw2Answers.ml" 195 7457 7471 "PoPLHWs/GWShw2Answers.ml" 195 7457 7472
+type(
+  int
+)
+ident(
+  def x "PoPLHWs/GWShw2Answers.ml" 195 7457 7475 "PoPLHWs/GWShw2Answers.ml" 195 7457 7513
+)
+"PoPLHWs/GWShw2Answers.ml" 195 7457 7478 "PoPLHWs/GWShw2Answers.ml" 195 7457 7479
+type(
+  int
+)
+ident(
+  int_ref x "PoPLHWs/GWShw2Answers.ml" 195 7457 7471 "PoPLHWs/GWShw2Answers.ml" 195 7457 7472
+)
+"PoPLHWs/GWShw2Answers.ml" 195 7457 7480 "PoPLHWs/GWShw2Answers.ml" 195 7457 7482
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( <= )
+)
+"PoPLHWs/GWShw2Answers.ml" 195 7457 7483 "PoPLHWs/GWShw2Answers.ml" 195 7457 7484
+type(
+  int
+)
+"PoPLHWs/GWShw2Answers.ml" 195 7457 7478 "PoPLHWs/GWShw2Answers.ml" 195 7457 7484
+type(
+  bool
+)
+"PoPLHWs/GWShw2Answers.ml" 195 7457 7490 "PoPLHWs/GWShw2Answers.ml" 195 7457 7491
+type(
+  int
+)
+"PoPLHWs/GWShw2Answers.ml" 195 7457 7497 "PoPLHWs/GWShw2Answers.ml" 195 7457 7498
+type(
+  int
+)
+ident(
+  int_ref x "PoPLHWs/GWShw2Answers.ml" 195 7457 7471 "PoPLHWs/GWShw2Answers.ml" 195 7457 7472
+)
+"PoPLHWs/GWShw2Answers.ml" 195 7457 7499 "PoPLHWs/GWShw2Answers.ml" 195 7457 7500
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( * )
+)
+"PoPLHWs/GWShw2Answers.ml" 195 7457 7501 "PoPLHWs/GWShw2Answers.ml" 195 7457 7505
+type(
+  int -> int
+)
+ident(
+  int_ref fact "PoPLHWs/GWShw2Answers.ml" 195 7457 7466 "PoPLHWs/GWShw2Answers.ml" 195 7457 7470
+)
+"PoPLHWs/GWShw2Answers.ml" 195 7457 7507 "PoPLHWs/GWShw2Answers.ml" 195 7457 7508
+type(
+  int
+)
+ident(
+  int_ref x "PoPLHWs/GWShw2Answers.ml" 195 7457 7471 "PoPLHWs/GWShw2Answers.ml" 195 7457 7472
+)
+"PoPLHWs/GWShw2Answers.ml" 195 7457 7509 "PoPLHWs/GWShw2Answers.ml" 195 7457 7510
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"PoPLHWs/GWShw2Answers.ml" 195 7457 7511 "PoPLHWs/GWShw2Answers.ml" 195 7457 7512
+type(
+  int
+)
+"PoPLHWs/GWShw2Answers.ml" 195 7457 7506 "PoPLHWs/GWShw2Answers.ml" 195 7457 7513
+type(
+  int
+)
+"PoPLHWs/GWShw2Answers.ml" 195 7457 7501 "PoPLHWs/GWShw2Answers.ml" 195 7457 7513
+type(
+  int
+)
+"PoPLHWs/GWShw2Answers.ml" 195 7457 7497 "PoPLHWs/GWShw2Answers.ml" 195 7457 7513
+type(
+  int
+)
+"PoPLHWs/GWShw2Answers.ml" 195 7457 7475 "PoPLHWs/GWShw2Answers.ml" 195 7457 7513
+type(
+  int
+)
+"PoPLHWs/GWShw2Answers.ml" 196 7517 7526 "PoPLHWs/GWShw2Answers.ml" 196 7517 7535
+type(
+  int -> int sequence
+)
+ident(
+  def makefacts "PoPLHWs/GWShw2Answers.ml" 196 7517 7518 "PoPLHWs/GWShw2Answers.ml" 197 7587 7599
+)
+"PoPLHWs/GWShw2Answers.ml" 196 7517 7536 "PoPLHWs/GWShw2Answers.ml" 196 7517 7537
+type(
+  int
+)
+ident(
+  def n "PoPLHWs/GWShw2Answers.ml" 196 7517 7540 "PoPLHWs/GWShw2Answers.ml" 196 7517 7583
+)
+"PoPLHWs/GWShw2Answers.ml" 196 7517 7549 "PoPLHWs/GWShw2Answers.ml" 196 7517 7553
+type(
+  int -> int
+)
+ident(
+  int_ref fact "PoPLHWs/GWShw2Answers.ml" 195 7457 7466 "PoPLHWs/GWShw2Answers.ml" 195 7457 7470
+)
+"PoPLHWs/GWShw2Answers.ml" 196 7517 7554 "PoPLHWs/GWShw2Answers.ml" 196 7517 7555
+type(
+  int
+)
+ident(
+  int_ref n "PoPLHWs/GWShw2Answers.ml" 196 7517 7536 "PoPLHWs/GWShw2Answers.ml" 196 7517 7537
+)
+"PoPLHWs/GWShw2Answers.ml" 196 7517 7549 "PoPLHWs/GWShw2Answers.ml" 196 7517 7555
+type(
+  int
+)
+"PoPLHWs/GWShw2Answers.ml" 196 7517 7561 "PoPLHWs/GWShw2Answers.ml" 196 7517 7563
+type(
+  unit
+)
+"PoPLHWs/GWShw2Answers.ml" 196 7517 7567 "PoPLHWs/GWShw2Answers.ml" 196 7517 7576
+type(
+  int -> int sequence
+)
+ident(
+  int_ref makefacts "PoPLHWs/GWShw2Answers.ml" 196 7517 7526 "PoPLHWs/GWShw2Answers.ml" 196 7517 7535
+)
+"PoPLHWs/GWShw2Answers.ml" 196 7517 7578 "PoPLHWs/GWShw2Answers.ml" 196 7517 7579
+type(
+  int
+)
+ident(
+  int_ref n "PoPLHWs/GWShw2Answers.ml" 196 7517 7536 "PoPLHWs/GWShw2Answers.ml" 196 7517 7537
+)
+"PoPLHWs/GWShw2Answers.ml" 196 7517 7579 "PoPLHWs/GWShw2Answers.ml" 196 7517 7580
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"PoPLHWs/GWShw2Answers.ml" 196 7517 7580 "PoPLHWs/GWShw2Answers.ml" 196 7517 7581
+type(
+  int
+)
+"PoPLHWs/GWShw2Answers.ml" 196 7517 7577 "PoPLHWs/GWShw2Answers.ml" 196 7517 7582
+type(
+  int
+)
+"PoPLHWs/GWShw2Answers.ml" 196 7517 7567 "PoPLHWs/GWShw2Answers.ml" 196 7517 7582
+type(
+  int sequence
+)
+"PoPLHWs/GWShw2Answers.ml" 196 7517 7557 "PoPLHWs/GWShw2Answers.ml" 196 7517 7582
+type(
+  unit -> int sequence
+)
+"PoPLHWs/GWShw2Answers.ml" 196 7517 7540 "PoPLHWs/GWShw2Answers.ml" 196 7517 7583
+type(
+  int sequence
+)
+"PoPLHWs/GWShw2Answers.ml" 197 7587 7588 "PoPLHWs/GWShw2Answers.ml" 197 7587 7597
+type(
+  int -> int sequence
+)
+ident(
+  int_ref makefacts "PoPLHWs/GWShw2Answers.ml" 196 7517 7526 "PoPLHWs/GWShw2Answers.ml" 196 7517 7535
+)
+"PoPLHWs/GWShw2Answers.ml" 197 7587 7598 "PoPLHWs/GWShw2Answers.ml" 197 7587 7599
+type(
+  int
+)
+"PoPLHWs/GWShw2Answers.ml" 197 7587 7588 "PoPLHWs/GWShw2Answers.ml" 197 7587 7599
+type(
+  int sequence
+)
+"PoPLHWs/GWShw2Answers.ml" 196 7517 7518 "PoPLHWs/GWShw2Answers.ml" 197 7587 7599
+type(
+  int sequence
+)
+"PoPLHWs/GWShw2Answers.ml" 195 7457 7458 "PoPLHWs/GWShw2Answers.ml" 197 7587 7599
+type(
+  int sequence
+)
+"PoPLHWs/GWShw2Answers.ml" 199 7603 7607 "PoPLHWs/GWShw2Answers.ml" 199 7603 7616
+type(
+  int sequence
+)
+ident(
+  def triangles "PoPLHWs/GWShw2Answers.ml" 220 8331 8331 "PoPLHWs/GWShw2Answers.ml" 1 0 -1
+)
+"PoPLHWs/GWShw2Answers.ml" 200 7620 7629 "PoPLHWs/GWShw2Answers.ml" 200 7620 7632
+type(
+  int -> int
+)
+ident(
+  def tri "PoPLHWs/GWShw2Answers.ml" 200 7620 7621 "PoPLHWs/GWShw2Answers.ml" 202 7745 7756
+)
+"PoPLHWs/GWShw2Answers.ml" 200 7620 7633 "PoPLHWs/GWShw2Answers.ml" 200 7620 7634
+type(
+  int
+)
+ident(
+  def x "PoPLHWs/GWShw2Answers.ml" 200 7620 7637 "PoPLHWs/GWShw2Answers.ml" 200 7620 7674
+)
+"PoPLHWs/GWShw2Answers.ml" 200 7620 7640 "PoPLHWs/GWShw2Answers.ml" 200 7620 7641
+type(
+  int
+)
+ident(
+  int_ref x "PoPLHWs/GWShw2Answers.ml" 200 7620 7633 "PoPLHWs/GWShw2Answers.ml" 200 7620 7634
+)
+"PoPLHWs/GWShw2Answers.ml" 200 7620 7642 "PoPLHWs/GWShw2Answers.ml" 200 7620 7644
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( <= )
+)
+"PoPLHWs/GWShw2Answers.ml" 200 7620 7645 "PoPLHWs/GWShw2Answers.ml" 200 7620 7646
+type(
+  int
+)
+"PoPLHWs/GWShw2Answers.ml" 200 7620 7640 "PoPLHWs/GWShw2Answers.ml" 200 7620 7646
+type(
+  bool
+)
+"PoPLHWs/GWShw2Answers.ml" 200 7620 7652 "PoPLHWs/GWShw2Answers.ml" 200 7620 7653
+type(
+  int
+)
+"PoPLHWs/GWShw2Answers.ml" 200 7620 7659 "PoPLHWs/GWShw2Answers.ml" 200 7620 7660
+type(
+  int
+)
+ident(
+  int_ref x "PoPLHWs/GWShw2Answers.ml" 200 7620 7633 "PoPLHWs/GWShw2Answers.ml" 200 7620 7634
+)
+"PoPLHWs/GWShw2Answers.ml" 200 7620 7661 "PoPLHWs/GWShw2Answers.ml" 200 7620 7662
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"PoPLHWs/GWShw2Answers.ml" 200 7620 7663 "PoPLHWs/GWShw2Answers.ml" 200 7620 7666
+type(
+  int -> int
+)
+ident(
+  int_ref tri "PoPLHWs/GWShw2Answers.ml" 200 7620 7629 "PoPLHWs/GWShw2Answers.ml" 200 7620 7632
+)
+"PoPLHWs/GWShw2Answers.ml" 200 7620 7668 "PoPLHWs/GWShw2Answers.ml" 200 7620 7669
+type(
+  int
+)
+ident(
+  int_ref x "PoPLHWs/GWShw2Answers.ml" 200 7620 7633 "PoPLHWs/GWShw2Answers.ml" 200 7620 7634
+)
+"PoPLHWs/GWShw2Answers.ml" 200 7620 7670 "PoPLHWs/GWShw2Answers.ml" 200 7620 7671
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"PoPLHWs/GWShw2Answers.ml" 200 7620 7672 "PoPLHWs/GWShw2Answers.ml" 200 7620 7673
+type(
+  int
+)
+"PoPLHWs/GWShw2Answers.ml" 200 7620 7667 "PoPLHWs/GWShw2Answers.ml" 200 7620 7674
+type(
+  int
+)
+"PoPLHWs/GWShw2Answers.ml" 200 7620 7663 "PoPLHWs/GWShw2Answers.ml" 200 7620 7674
+type(
+  int
+)
+"PoPLHWs/GWShw2Answers.ml" 200 7620 7659 "PoPLHWs/GWShw2Answers.ml" 200 7620 7674
+type(
+  int
+)
+"PoPLHWs/GWShw2Answers.ml" 200 7620 7637 "PoPLHWs/GWShw2Answers.ml" 200 7620 7674
+type(
+  int
+)
+"PoPLHWs/GWShw2Answers.ml" 201 7678 7687 "PoPLHWs/GWShw2Answers.ml" 201 7678 7695
+type(
+  int -> int sequence
+)
+ident(
+  def maketris "PoPLHWs/GWShw2Answers.ml" 201 7678 7679 "PoPLHWs/GWShw2Answers.ml" 202 7745 7756
+)
+"PoPLHWs/GWShw2Answers.ml" 201 7678 7696 "PoPLHWs/GWShw2Answers.ml" 201 7678 7697
+type(
+  int
+)
+ident(
+  def n "PoPLHWs/GWShw2Answers.ml" 201 7678 7700 "PoPLHWs/GWShw2Answers.ml" 201 7678 7741
+)
+"PoPLHWs/GWShw2Answers.ml" 201 7678 7709 "PoPLHWs/GWShw2Answers.ml" 201 7678 7712
+type(
+  int -> int
+)
+ident(
+  int_ref tri "PoPLHWs/GWShw2Answers.ml" 200 7620 7629 "PoPLHWs/GWShw2Answers.ml" 200 7620 7632
+)
+"PoPLHWs/GWShw2Answers.ml" 201 7678 7713 "PoPLHWs/GWShw2Answers.ml" 201 7678 7714
+type(
+  int
+)
+ident(
+  int_ref n "PoPLHWs/GWShw2Answers.ml" 201 7678 7696 "PoPLHWs/GWShw2Answers.ml" 201 7678 7697
+)
+"PoPLHWs/GWShw2Answers.ml" 201 7678 7709 "PoPLHWs/GWShw2Answers.ml" 201 7678 7714
+type(
+  int
+)
+"PoPLHWs/GWShw2Answers.ml" 201 7678 7720 "PoPLHWs/GWShw2Answers.ml" 201 7678 7722
+type(
+  unit
+)
+"PoPLHWs/GWShw2Answers.ml" 201 7678 7726 "PoPLHWs/GWShw2Answers.ml" 201 7678 7734
+type(
+  int -> int sequence
+)
+ident(
+  int_ref maketris "PoPLHWs/GWShw2Answers.ml" 201 7678 7687 "PoPLHWs/GWShw2Answers.ml" 201 7678 7695
+)
+"PoPLHWs/GWShw2Answers.ml" 201 7678 7736 "PoPLHWs/GWShw2Answers.ml" 201 7678 7737
+type(
+  int
+)
+ident(
+  int_ref n "PoPLHWs/GWShw2Answers.ml" 201 7678 7696 "PoPLHWs/GWShw2Answers.ml" 201 7678 7697
+)
+"PoPLHWs/GWShw2Answers.ml" 201 7678 7737 "PoPLHWs/GWShw2Answers.ml" 201 7678 7738
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"PoPLHWs/GWShw2Answers.ml" 201 7678 7738 "PoPLHWs/GWShw2Answers.ml" 201 7678 7739
+type(
+  int
+)
+"PoPLHWs/GWShw2Answers.ml" 201 7678 7735 "PoPLHWs/GWShw2Answers.ml" 201 7678 7740
+type(
+  int
+)
+"PoPLHWs/GWShw2Answers.ml" 201 7678 7726 "PoPLHWs/GWShw2Answers.ml" 201 7678 7740
+type(
+  int sequence
+)
+"PoPLHWs/GWShw2Answers.ml" 201 7678 7716 "PoPLHWs/GWShw2Answers.ml" 201 7678 7740
+type(
+  unit -> int sequence
+)
+"PoPLHWs/GWShw2Answers.ml" 201 7678 7700 "PoPLHWs/GWShw2Answers.ml" 201 7678 7741
+type(
+  int sequence
+)
+"PoPLHWs/GWShw2Answers.ml" 202 7745 7746 "PoPLHWs/GWShw2Answers.ml" 202 7745 7754
+type(
+  int -> int sequence
+)
+ident(
+  int_ref maketris "PoPLHWs/GWShw2Answers.ml" 201 7678 7687 "PoPLHWs/GWShw2Answers.ml" 201 7678 7695
+)
+"PoPLHWs/GWShw2Answers.ml" 202 7745 7755 "PoPLHWs/GWShw2Answers.ml" 202 7745 7756
+type(
+  int
+)
+"PoPLHWs/GWShw2Answers.ml" 202 7745 7746 "PoPLHWs/GWShw2Answers.ml" 202 7745 7756
+type(
+  int sequence
+)
+"PoPLHWs/GWShw2Answers.ml" 201 7678 7679 "PoPLHWs/GWShw2Answers.ml" 202 7745 7756
+type(
+  int sequence
+)
+"PoPLHWs/GWShw2Answers.ml" 200 7620 7621 "PoPLHWs/GWShw2Answers.ml" 202 7745 7756
+type(
+  int sequence
+)
+"PoPLHWs/GWShw2Answers.ml" 220 8331 8339 "PoPLHWs/GWShw2Answers.ml" 220 8331 8358
+type(
+  ('a -> 'b option) -> 'a sequence -> 'b sequence
+)
+ident(
+  def filter_map_sequence "PoPLHWs/GWShw2Answers.ml" 220 8331 8331 "PoPLHWs/GWShw2Answers.ml" 1 0 -1
+)
+"PoPLHWs/GWShw2Answers.ml" 221 8411 8419 "PoPLHWs/GWShw2Answers.ml" 221 8411 8420
+type(
+  'a -> 'b option
+)
+ident(
+  def f "PoPLHWs/GWShw2Answers.ml" 221 8411 8421 "PoPLHWs/GWShw2Answers.ml" 225 8584 8639
+)
+"PoPLHWs/GWShw2Answers.ml" 221 8411 8421 "PoPLHWs/GWShw2Answers.ml" 221 8411 8422
+type(
+  'a sequence
+)
+ident(
+  def s "PoPLHWs/GWShw2Answers.ml" 221 8411 8426 "PoPLHWs/GWShw2Answers.ml" 225 8584 8639
+)
+"PoPLHWs/GWShw2Answers.ml" 221 8411 8432 "PoPLHWs/GWShw2Answers.ml" 221 8411 8433
+type(
+  'a sequence
+)
+ident(
+  int_ref s "PoPLHWs/GWShw2Answers.ml" 221 8411 8421 "PoPLHWs/GWShw2Answers.ml" 221 8411 8422
+)
+"PoPLHWs/GWShw2Answers.ml" 222 8440 8444 "PoPLHWs/GWShw2Answers.ml" 222 8440 8447
+type(
+  'a sequence
+)
+"PoPLHWs/GWShw2Answers.ml" 222 8440 8451 "PoPLHWs/GWShw2Answers.ml" 222 8440 8454
+type(
+  'b sequence
+)
+"PoPLHWs/GWShw2Answers.ml" 223 8456 8470 "PoPLHWs/GWShw2Answers.ml" 223 8456 8471
+type(
+  'a
+)
+ident(
+  def h "PoPLHWs/GWShw2Answers.ml" 223 8456 8483 "PoPLHWs/GWShw2Answers.ml" 225 8584 8639
+)
+"PoPLHWs/GWShw2Answers.ml" 223 8456 8473 "PoPLHWs/GWShw2Answers.ml" 223 8456 8478
+type(
+  unit -> 'a sequence
+)
+ident(
+  def funct "PoPLHWs/GWShw2Answers.ml" 223 8456 8483 "PoPLHWs/GWShw2Answers.ml" 225 8584 8639
+)
+"PoPLHWs/GWShw2Answers.ml" 223 8456 8460 "PoPLHWs/GWShw2Answers.ml" 223 8456 8479
+type(
+  'a sequence
+)
+"PoPLHWs/GWShw2Answers.ml" 223 8456 8490 "PoPLHWs/GWShw2Answers.ml" 223 8456 8491
+type(
+  'a -> 'b option
+)
+ident(
+  int_ref f "PoPLHWs/GWShw2Answers.ml" 221 8411 8419 "PoPLHWs/GWShw2Answers.ml" 221 8411 8420
+)
+"PoPLHWs/GWShw2Answers.ml" 223 8456 8492 "PoPLHWs/GWShw2Answers.ml" 223 8456 8493
+type(
+  'a
+)
+ident(
+  int_ref h "PoPLHWs/GWShw2Answers.ml" 223 8456 8470 "PoPLHWs/GWShw2Answers.ml" 223 8456 8471
+)
+"PoPLHWs/GWShw2Answers.ml" 223 8456 8489 "PoPLHWs/GWShw2Answers.ml" 223 8456 8494
+type(
+  'b option
+)
+"PoPLHWs/GWShw2Answers.ml" 224 8501 8521 "PoPLHWs/GWShw2Answers.ml" 224 8501 8522
+type(
+  'b
+)
+ident(
+  def y "PoPLHWs/GWShw2Answers.ml" 224 8501 8526 "PoPLHWs/GWShw2Answers.ml" 224 8501 8583
+)
+"PoPLHWs/GWShw2Answers.ml" 224 8501 8516 "PoPLHWs/GWShw2Answers.ml" 224 8501 8522
+type(
+  'b option
+)
+"PoPLHWs/GWShw2Answers.ml" 224 8501 8536 "PoPLHWs/GWShw2Answers.ml" 224 8501 8537
+type(
+  'b
+)
+ident(
+  int_ref y "PoPLHWs/GWShw2Answers.ml" 224 8501 8521 "PoPLHWs/GWShw2Answers.ml" 224 8501 8522
+)
+"PoPLHWs/GWShw2Answers.ml" 224 8501 8543 "PoPLHWs/GWShw2Answers.ml" 224 8501 8545
+type(
+  unit
+)
+"PoPLHWs/GWShw2Answers.ml" 224 8501 8549 "PoPLHWs/GWShw2Answers.ml" 224 8501 8568
+type(
+  ('a -> 'b option) -> 'a sequence -> 'b sequence
+)
+ident(
+  int_ref filter_map_sequence "PoPLHWs/GWShw2Answers.ml" 220 8331 8339 "PoPLHWs/GWShw2Answers.ml" 220 8331 8358
+)
+"PoPLHWs/GWShw2Answers.ml" 224 8501 8569 "PoPLHWs/GWShw2Answers.ml" 224 8501 8570
+type(
+  'a -> 'b option
+)
+ident(
+  int_ref f "PoPLHWs/GWShw2Answers.ml" 221 8411 8419 "PoPLHWs/GWShw2Answers.ml" 221 8411 8420
+)
+"PoPLHWs/GWShw2Answers.ml" 224 8501 8572 "PoPLHWs/GWShw2Answers.ml" 224 8501 8577
+type(
+  unit -> 'a sequence
+)
+ident(
+  int_ref funct "PoPLHWs/GWShw2Answers.ml" 223 8456 8473 "PoPLHWs/GWShw2Answers.ml" 223 8456 8478
+)
+"PoPLHWs/GWShw2Answers.ml" 224 8501 8578 "PoPLHWs/GWShw2Answers.ml" 224 8501 8580
+type(
+  unit
+)
+"PoPLHWs/GWShw2Answers.ml" 224 8501 8571 "PoPLHWs/GWShw2Answers.ml" 224 8501 8581
+type(
+  'a sequence
+)
+"PoPLHWs/GWShw2Answers.ml" 224 8501 8549 "PoPLHWs/GWShw2Answers.ml" 224 8501 8581
+type(
+  'b sequence
+)
+"PoPLHWs/GWShw2Answers.ml" 224 8501 8539 "PoPLHWs/GWShw2Answers.ml" 224 8501 8581
+type(
+  unit -> 'b sequence
+)
+"PoPLHWs/GWShw2Answers.ml" 224 8501 8526 "PoPLHWs/GWShw2Answers.ml" 224 8501 8583
+type(
+  'b sequence
+)
+"PoPLHWs/GWShw2Answers.ml" 225 8584 8599 "PoPLHWs/GWShw2Answers.ml" 225 8584 8603
+type(
+  'b option
+)
+"PoPLHWs/GWShw2Answers.ml" 225 8584 8607 "PoPLHWs/GWShw2Answers.ml" 225 8584 8626
+type(
+  ('a -> 'b option) -> 'a sequence -> 'b sequence
+)
+ident(
+  int_ref filter_map_sequence "PoPLHWs/GWShw2Answers.ml" 220 8331 8339 "PoPLHWs/GWShw2Answers.ml" 220 8331 8358
+)
+"PoPLHWs/GWShw2Answers.ml" 225 8584 8627 "PoPLHWs/GWShw2Answers.ml" 225 8584 8628
+type(
+  'a -> 'b option
+)
+ident(
+  int_ref f "PoPLHWs/GWShw2Answers.ml" 221 8411 8419 "PoPLHWs/GWShw2Answers.ml" 221 8411 8420
+)
+"PoPLHWs/GWShw2Answers.ml" 225 8584 8630 "PoPLHWs/GWShw2Answers.ml" 225 8584 8635
+type(
+  unit -> 'a sequence
+)
+ident(
+  int_ref funct "PoPLHWs/GWShw2Answers.ml" 223 8456 8473 "PoPLHWs/GWShw2Answers.ml" 223 8456 8478
+)
+"PoPLHWs/GWShw2Answers.ml" 225 8584 8636 "PoPLHWs/GWShw2Answers.ml" 225 8584 8638
+type(
+  unit
+)
+"PoPLHWs/GWShw2Answers.ml" 225 8584 8629 "PoPLHWs/GWShw2Answers.ml" 225 8584 8639
+type(
+  'a sequence
+)
+"PoPLHWs/GWShw2Answers.ml" 225 8584 8607 "PoPLHWs/GWShw2Answers.ml" 225 8584 8639
+type(
+  'b sequence
+)
+"PoPLHWs/GWShw2Answers.ml" 223 8456 8483 "PoPLHWs/GWShw2Answers.ml" 225 8584 8639
+type(
+  'b sequence
+)
+"PoPLHWs/GWShw2Answers.ml" 221 8411 8426 "PoPLHWs/GWShw2Answers.ml" 225 8584 8639
+type(
+  'b sequence
+)
+"PoPLHWs/GWShw2Answers.ml" 221 8411 8415 "PoPLHWs/GWShw2Answers.ml" 225 8584 8639
+type(
+  ('a -> 'b option) -> 'a sequence -> 'b sequence
+)
+type(
+  ('a -> 'b option) -> 'a sequence -> 'b sequence
+)
+"PoPLHWs/GWShw2Answers.ml" 233 8789 8797 "PoPLHWs/GWShw2Answers.ml" 233 8789 8809
+type(
+  ('a -> 'b) -> 'a sequence -> 'b sequence
+)
+ident(
+  def map_sequence "PoPLHWs/GWShw2Answers.ml" 233 8789 8789 "PoPLHWs/GWShw2Answers.ml" 1 0 -1
+)
+"PoPLHWs/GWShw2Answers.ml" 233 8789 8810 "PoPLHWs/GWShw2Answers.ml" 233 8789 8812
+type(
+  'a -> 'b
+)
+ident(
+  def fn "PoPLHWs/GWShw2Answers.ml" 233 8789 8813 "PoPLHWs/GWShw2Answers.ml" 233 8789 8862
+)
+"PoPLHWs/GWShw2Answers.ml" 233 8789 8813 "PoPLHWs/GWShw2Answers.ml" 233 8789 8814
+type(
+  'a sequence
+)
+ident(
+  def s "PoPLHWs/GWShw2Answers.ml" 233 8789 8818 "PoPLHWs/GWShw2Answers.ml" 233 8789 8862
+)
+"PoPLHWs/GWShw2Answers.ml" 233 8789 8818 "PoPLHWs/GWShw2Answers.ml" 233 8789 8837
+type(
+  ('a -> 'b option) -> 'a sequence -> 'b sequence
+)
+ident(
+  int_ref filter_map_sequence "PoPLHWs/GWShw2Answers.ml" 220 8331 8339 "PoPLHWs/GWShw2Answers.ml" 220 8331 8358
+)
+"PoPLHWs/GWShw2Answers.ml" 233 8789 8843 "PoPLHWs/GWShw2Answers.ml" 233 8789 8844
+type(
+  'a
+)
+ident(
+  def x "PoPLHWs/GWShw2Answers.ml" 233 8789 8848 "PoPLHWs/GWShw2Answers.ml" 233 8789 8859
+)
+"PoPLHWs/GWShw2Answers.ml" 233 8789 8854 "PoPLHWs/GWShw2Answers.ml" 233 8789 8856
+type(
+  'a -> 'b
+)
+ident(
+  int_ref fn "PoPLHWs/GWShw2Answers.ml" 233 8789 8810 "PoPLHWs/GWShw2Answers.ml" 233 8789 8812
+)
+"PoPLHWs/GWShw2Answers.ml" 233 8789 8857 "PoPLHWs/GWShw2Answers.ml" 233 8789 8858
+type(
+  'a
+)
+ident(
+  int_ref x "PoPLHWs/GWShw2Answers.ml" 233 8789 8843 "PoPLHWs/GWShw2Answers.ml" 233 8789 8844
+)
+"PoPLHWs/GWShw2Answers.ml" 233 8789 8853 "PoPLHWs/GWShw2Answers.ml" 233 8789 8859
+type(
+  'b
+)
+"PoPLHWs/GWShw2Answers.ml" 233 8789 8848 "PoPLHWs/GWShw2Answers.ml" 233 8789 8859
+type(
+  'b option
+)
+"PoPLHWs/GWShw2Answers.ml" 233 8789 8838 "PoPLHWs/GWShw2Answers.ml" 233 8789 8860
+type(
+  'a -> 'b option
+)
+"PoPLHWs/GWShw2Answers.ml" 233 8789 8861 "PoPLHWs/GWShw2Answers.ml" 233 8789 8862
+type(
+  'a sequence
+)
+ident(
+  int_ref s "PoPLHWs/GWShw2Answers.ml" 233 8789 8813 "PoPLHWs/GWShw2Answers.ml" 233 8789 8814
+)
+"PoPLHWs/GWShw2Answers.ml" 233 8789 8818 "PoPLHWs/GWShw2Answers.ml" 233 8789 8862
+type(
+  'b sequence
+)
+"PoPLHWs/GWShw2Answers.ml" 240 8964 8972 "PoPLHWs/GWShw2Answers.ml" 240 8964 8987
+type(
+  ('a -> bool) -> 'a sequence -> 'a sequence
+)
+ident(
+  def filter_sequence "PoPLHWs/GWShw2Answers.ml" 240 8964 8964 "PoPLHWs/GWShw2Answers.ml" 1 0 -1
+)
+"PoPLHWs/GWShw2Answers.ml" 240 8964 8988 "PoPLHWs/GWShw2Answers.ml" 240 8964 8990
+type(
+  'a -> bool
+)
+ident(
+  def fn "PoPLHWs/GWShw2Answers.ml" 240 8964 8991 "PoPLHWs/GWShw2Answers.ml" 240 8964 9059
+)
+"PoPLHWs/GWShw2Answers.ml" 240 8964 8991 "PoPLHWs/GWShw2Answers.ml" 240 8964 8992
+type(
+  'a sequence
+)
+ident(
+  def s "PoPLHWs/GWShw2Answers.ml" 240 8964 8995 "PoPLHWs/GWShw2Answers.ml" 240 8964 9059
+)
+"PoPLHWs/GWShw2Answers.ml" 240 8964 8995 "PoPLHWs/GWShw2Answers.ml" 240 8964 9014
+type(
+  ('a -> 'a option) -> 'a sequence -> 'a sequence
+)
+ident(
+  int_ref filter_map_sequence "PoPLHWs/GWShw2Answers.ml" 220 8331 8339 "PoPLHWs/GWShw2Answers.ml" 220 8331 8358
+)
+"PoPLHWs/GWShw2Answers.ml" 240 8964 9020 "PoPLHWs/GWShw2Answers.ml" 240 8964 9021
+type(
+  'a
+)
+ident(
+  def x "PoPLHWs/GWShw2Answers.ml" 240 8964 9025 "PoPLHWs/GWShw2Answers.ml" 240 8964 9056
+)
+"PoPLHWs/GWShw2Answers.ml" 240 8964 9029 "PoPLHWs/GWShw2Answers.ml" 240 8964 9031
+type(
+  'a -> bool
+)
+ident(
+  int_ref fn "PoPLHWs/GWShw2Answers.ml" 240 8964 8988 "PoPLHWs/GWShw2Answers.ml" 240 8964 8990
+)
+"PoPLHWs/GWShw2Answers.ml" 240 8964 9032 "PoPLHWs/GWShw2Answers.ml" 240 8964 9033
+type(
+  'a
+)
+ident(
+  int_ref x "PoPLHWs/GWShw2Answers.ml" 240 8964 9020 "PoPLHWs/GWShw2Answers.ml" 240 8964 9021
+)
+"PoPLHWs/GWShw2Answers.ml" 240 8964 9028 "PoPLHWs/GWShw2Answers.ml" 240 8964 9034
+type(
+  bool
+)
+"PoPLHWs/GWShw2Answers.ml" 240 8964 9045 "PoPLHWs/GWShw2Answers.ml" 240 8964 9046
+type(
+  'a
+)
+ident(
+  int_ref x "PoPLHWs/GWShw2Answers.ml" 240 8964 9020 "PoPLHWs/GWShw2Answers.ml" 240 8964 9021
+)
+"PoPLHWs/GWShw2Answers.ml" 240 8964 9040 "PoPLHWs/GWShw2Answers.ml" 240 8964 9046
+type(
+  'a option
+)
+"PoPLHWs/GWShw2Answers.ml" 240 8964 9052 "PoPLHWs/GWShw2Answers.ml" 240 8964 9056
+type(
+  'a option
+)
+"PoPLHWs/GWShw2Answers.ml" 240 8964 9025 "PoPLHWs/GWShw2Answers.ml" 240 8964 9056
+type(
+  'a option
+)
+"PoPLHWs/GWShw2Answers.ml" 240 8964 9015 "PoPLHWs/GWShw2Answers.ml" 240 8964 9057
+type(
+  'a -> 'a option
+)
+"PoPLHWs/GWShw2Answers.ml" 240 8964 9058 "PoPLHWs/GWShw2Answers.ml" 240 8964 9059
+type(
+  'a sequence
+)
+ident(
+  int_ref s "PoPLHWs/GWShw2Answers.ml" 240 8964 8991 "PoPLHWs/GWShw2Answers.ml" 240 8964 8992
+)
+"PoPLHWs/GWShw2Answers.ml" 240 8964 8995 "PoPLHWs/GWShw2Answers.ml" 240 8964 9059
+type(
+  'a sequence
+)
+"PoPLHWs/GWShw2Answers.ml" 330 12116 12124 "PoPLHWs/GWShw2Answers.ml" 330 12116 12135
+type(
+  'a list -> 'a GHeap.heap -> 'a GHeap.heap
+)
+ident(
+  def insert_many "PoPLHWs/GWShw2Answers.ml" 330 12116 12116 "PoPLHWs/GWShw2Answers.ml" 1 0 -1
+)
+"PoPLHWs/GWShw2Answers.ml" 330 12116 12137 "PoPLHWs/GWShw2Answers.ml" 330 12116 12139
+type(
+  'a list
+)
+ident(
+  def xs "PoPLHWs/GWShw2Answers.ml" 330 12116 12151 "PoPLHWs/GWShw2Answers.ml" 330 12116 12245
+)
+"PoPLHWs/GWShw2Answers.ml" 330 12116 12152 "PoPLHWs/GWShw2Answers.ml" 330 12116 12153
+type(
+  'a GHeap.heap
+)
+ident(
+  def h "PoPLHWs/GWShw2Answers.ml" 330 12116 12165 "PoPLHWs/GWShw2Answers.ml" 330 12116 12245
+)
+"PoPLHWs/GWShw2Answers.ml" 330 12116 12183 "PoPLHWs/GWShw2Answers.ml" 330 12116 12185
+type(
+  'a list
+)
+ident(
+  int_ref xs "PoPLHWs/GWShw2Answers.ml" 330 12116 12137 "PoPLHWs/GWShw2Answers.ml" 330 12116 12139
+)
+"PoPLHWs/GWShw2Answers.ml" 330 12116 12193 "PoPLHWs/GWShw2Answers.ml" 330 12116 12195
+type(
+  'a list
+)
+"PoPLHWs/GWShw2Answers.ml" 330 12116 12199 "PoPLHWs/GWShw2Answers.ml" 330 12116 12200
+type(
+  'a GHeap.heap
+)
+ident(
+  int_ref h "PoPLHWs/GWShw2Answers.ml" 330 12116 12152 "PoPLHWs/GWShw2Answers.ml" 330 12116 12153
+)
+"PoPLHWs/GWShw2Answers.ml" 330 12116 12203 "PoPLHWs/GWShw2Answers.ml" 330 12116 12207
+type(
+  'a
+)
+ident(
+  def head "PoPLHWs/GWShw2Answers.ml" 330 12116 12216 "PoPLHWs/GWShw2Answers.ml" 330 12116 12245
+)
+"PoPLHWs/GWShw2Answers.ml" 330 12116 12211 "PoPLHWs/GWShw2Answers.ml" 330 12116 12212
+type(
+  'a list
+)
+ident(
+  def t "PoPLHWs/GWShw2Answers.ml" 330 12116 12216 "PoPLHWs/GWShw2Answers.ml" 330 12116 12245
+)
+"PoPLHWs/GWShw2Answers.ml" 330 12116 12203 "PoPLHWs/GWShw2Answers.ml" 330 12116 12212
+type(
+  'a list
+)
+"PoPLHWs/GWShw2Answers.ml" 330 12116 12216 "PoPLHWs/GWShw2Answers.ml" 330 12116 12227
+type(
+  'a list -> 'a GHeap.heap -> 'a GHeap.heap
+)
+ident(
+  int_ref insert_many "PoPLHWs/GWShw2Answers.ml" 330 12116 12124 "PoPLHWs/GWShw2Answers.ml" 330 12116 12135
+)
+"PoPLHWs/GWShw2Answers.ml" 330 12116 12228 "PoPLHWs/GWShw2Answers.ml" 330 12116 12229
+type(
+  'a list
+)
+ident(
+  int_ref t "PoPLHWs/GWShw2Answers.ml" 330 12116 12211 "PoPLHWs/GWShw2Answers.ml" 330 12116 12212
+)
+"PoPLHWs/GWShw2Answers.ml" 330 12116 12231 "PoPLHWs/GWShw2Answers.ml" 330 12116 12237
+type(
+  'a -> 'a GHeap.heap -> 'a GHeap.heap
+)
+ident(
+  ext_ref GHeap.insert
+)
+"PoPLHWs/GWShw2Answers.ml" 330 12116 12238 "PoPLHWs/GWShw2Answers.ml" 330 12116 12242
+type(
+  'a
+)
+ident(
+  int_ref head "PoPLHWs/GWShw2Answers.ml" 330 12116 12203 "PoPLHWs/GWShw2Answers.ml" 330 12116 12207
+)
+"PoPLHWs/GWShw2Answers.ml" 330 12116 12243 "PoPLHWs/GWShw2Answers.ml" 330 12116 12244
+type(
+  'a GHeap.heap
+)
+ident(
+  int_ref h "PoPLHWs/GWShw2Answers.ml" 330 12116 12152 "PoPLHWs/GWShw2Answers.ml" 330 12116 12153
+)
+"PoPLHWs/GWShw2Answers.ml" 330 12116 12230 "PoPLHWs/GWShw2Answers.ml" 330 12116 12245
+type(
+  'a GHeap.heap
+)
+"PoPLHWs/GWShw2Answers.ml" 330 12116 12216 "PoPLHWs/GWShw2Answers.ml" 330 12116 12245
+type(
+  'a GHeap.heap
+)
+"PoPLHWs/GWShw2Answers.ml" 330 12116 12177 "PoPLHWs/GWShw2Answers.ml" 330 12116 12245
+type(
+  'a GHeap.heap
+)
+type(
+  'a GHeap.heap
+)
+"PoPLHWs/GWShw2Answers.ml" 333 12311 12319 "PoPLHWs/GWShw2Answers.ml" 333 12311 12326
+type(
+  'a option GHeap.heap -> 'a option
+)
+ident(
+  def get_min "PoPLHWs/GWShw2Answers.ml" 333 12311 12311 "PoPLHWs/GWShw2Answers.ml" 1 0 -1
+)
+"PoPLHWs/GWShw2Answers.ml" 333 12311 12328 "PoPLHWs/GWShw2Answers.ml" 333 12311 12329
+type(
+  'a option GHeap.heap
+)
+ident(
+  def h "PoPLHWs/GWShw2Answers.ml" 333 12311 12341 "PoPLHWs/GWShw2Answers.ml" 333 12311 12408
+)
+"PoPLHWs/GWShw2Answers.ml" 333 12311 12355 "PoPLHWs/GWShw2Answers.ml" 333 12311 12363
+type(
+  'a option GHeap.heap -> ('a option * 'a option GHeap.heap) option
+)
+ident(
+  ext_ref GHeap.find_min
+)
+"PoPLHWs/GWShw2Answers.ml" 333 12311 12364 "PoPLHWs/GWShw2Answers.ml" 333 12311 12365
+type(
+  'a option GHeap.heap
+)
+ident(
+  int_ref h "PoPLHWs/GWShw2Answers.ml" 333 12311 12328 "PoPLHWs/GWShw2Answers.ml" 333 12311 12329
+)
+"PoPLHWs/GWShw2Answers.ml" 333 12311 12354 "PoPLHWs/GWShw2Answers.ml" 333 12311 12366
+type(
+  ('a option * 'a option GHeap.heap) option
+)
+"PoPLHWs/GWShw2Answers.ml" 333 12311 12374 "PoPLHWs/GWShw2Answers.ml" 333 12311 12378
+type(
+  ('a option * 'a option GHeap.heap) option
+)
+"PoPLHWs/GWShw2Answers.ml" 333 12311 12382 "PoPLHWs/GWShw2Answers.ml" 333 12311 12386
+type(
+  'a option
+)
+"PoPLHWs/GWShw2Answers.ml" 333 12311 12395 "PoPLHWs/GWShw2Answers.ml" 333 12311 12396
+type(
+  'a option
+)
+ident(
+  def v "PoPLHWs/GWShw2Answers.ml" 333 12311 12407 "PoPLHWs/GWShw2Answers.ml" 333 12311 12408
+)
+"PoPLHWs/GWShw2Answers.ml" 333 12311 12398 "PoPLHWs/GWShw2Answers.ml" 333 12311 12402
+type(
+  'a option GHeap.heap
+)
+ident(
+  def hnew "PoPLHWs/GWShw2Answers.ml" 333 12311 12407 "PoPLHWs/GWShw2Answers.ml" 333 12311 12408
+)
+"PoPLHWs/GWShw2Answers.ml" 333 12311 12394 "PoPLHWs/GWShw2Answers.ml" 333 12311 12403
+type(
+  'a option * 'a option GHeap.heap
+)
+"PoPLHWs/GWShw2Answers.ml" 333 12311 12389 "PoPLHWs/GWShw2Answers.ml" 333 12311 12403
+type(
+  ('a option * 'a option GHeap.heap) option
+)
+"PoPLHWs/GWShw2Answers.ml" 333 12311 12407 "PoPLHWs/GWShw2Answers.ml" 333 12311 12408
+type(
+  'a option
+)
+ident(
+  int_ref v "PoPLHWs/GWShw2Answers.ml" 333 12311 12395 "PoPLHWs/GWShw2Answers.ml" 333 12311 12396
+)
+"PoPLHWs/GWShw2Answers.ml" 333 12311 12348 "PoPLHWs/GWShw2Answers.ml" 333 12311 12408
+type(
+  'a option
+)
+type(
+  'a option
+)
+"PoPLHWs/GWShw2Answers.ml" 336 12482 12490 "PoPLHWs/GWShw2Answers.ml" 336 12482 12500
+type(
+  'a GHeap.heap -> 'a GHeap.heap
+)
+ident(
+  def delete_min "PoPLHWs/GWShw2Answers.ml" 336 12482 12482 "PoPLHWs/GWShw2Answers.ml" 1 0 -1
+)
+"PoPLHWs/GWShw2Answers.ml" 336 12482 12502 "PoPLHWs/GWShw2Answers.ml" 336 12482 12503
+type(
+  'a GHeap.heap
+)
+ident(
+  def h "PoPLHWs/GWShw2Answers.ml" 336 12482 12515 "PoPLHWs/GWShw2Answers.ml" 336 12482 12587
+)
+"PoPLHWs/GWShw2Answers.ml" 336 12482 12534 "PoPLHWs/GWShw2Answers.ml" 336 12482 12542
+type(
+  'a GHeap.heap -> ('a * 'a GHeap.heap) option
+)
+ident(
+  ext_ref GHeap.find_min
+)
+"PoPLHWs/GWShw2Answers.ml" 336 12482 12543 "PoPLHWs/GWShw2Answers.ml" 336 12482 12544
+type(
+  'a GHeap.heap
+)
+ident(
+  int_ref h "PoPLHWs/GWShw2Answers.ml" 336 12482 12502 "PoPLHWs/GWShw2Answers.ml" 336 12482 12503
+)
+"PoPLHWs/GWShw2Answers.ml" 336 12482 12533 "PoPLHWs/GWShw2Answers.ml" 336 12482 12545
+type(
+  ('a * 'a GHeap.heap) option
+)
+"PoPLHWs/GWShw2Answers.ml" 336 12482 12553 "PoPLHWs/GWShw2Answers.ml" 336 12482 12557
+type(
+  ('a * 'a GHeap.heap) option
+)
+"PoPLHWs/GWShw2Answers.ml" 336 12482 12561 "PoPLHWs/GWShw2Answers.ml" 336 12482 12562
+type(
+  'a GHeap.heap
+)
+ident(
+  int_ref h "PoPLHWs/GWShw2Answers.ml" 336 12482 12502 "PoPLHWs/GWShw2Answers.ml" 336 12482 12503
+)
+"PoPLHWs/GWShw2Answers.ml" 336 12482 12571 "PoPLHWs/GWShw2Answers.ml" 336 12482 12572
+type(
+  'a
+)
+ident(
+  def v "PoPLHWs/GWShw2Answers.ml" 336 12482 12583 "PoPLHWs/GWShw2Answers.ml" 336 12482 12587
+)
+"PoPLHWs/GWShw2Answers.ml" 336 12482 12574 "PoPLHWs/GWShw2Answers.ml" 336 12482 12578
+type(
+  'a GHeap.heap
+)
+ident(
+  def hnew "PoPLHWs/GWShw2Answers.ml" 336 12482 12583 "PoPLHWs/GWShw2Answers.ml" 336 12482 12587
+)
+"PoPLHWs/GWShw2Answers.ml" 336 12482 12570 "PoPLHWs/GWShw2Answers.ml" 336 12482 12579
+type(
+  'a * 'a GHeap.heap
+)
+"PoPLHWs/GWShw2Answers.ml" 336 12482 12565 "PoPLHWs/GWShw2Answers.ml" 336 12482 12579
+type(
+  ('a * 'a GHeap.heap) option
+)
+"PoPLHWs/GWShw2Answers.ml" 336 12482 12583 "PoPLHWs/GWShw2Answers.ml" 336 12482 12587
+type(
+  'a GHeap.heap
+)
+ident(
+  int_ref hnew "PoPLHWs/GWShw2Answers.ml" 336 12482 12574 "PoPLHWs/GWShw2Answers.ml" 336 12482 12578
+)
+"PoPLHWs/GWShw2Answers.ml" 336 12482 12527 "PoPLHWs/GWShw2Answers.ml" 336 12482 12587
+type(
+  'a GHeap.heap
+)
+type(
+  'a GHeap.heap
+)
+"PoPLHWs/GWShw2Answers.ml" 340 12685 12693 "PoPLHWs/GWShw2Answers.ml" 340 12685 12702
+type(
+  'a list -> 'a list
+)
+ident(
+  def heap_sort "PoPLHWs/GWShw2Answers.ml" 340 12685 12685 "PoPLHWs/GWShw2Answers.ml" 1 0 -1
+)
+"PoPLHWs/GWShw2Answers.ml" 340 12685 12704 "PoPLHWs/GWShw2Answers.ml" 340 12685 12706
+type(
+  'a list
+)
+ident(
+  def xs "PoPLHWs/GWShw2Answers.ml" 340 12685 12718 "PoPLHWs/GWShw2Answers.ml" 340 12685 12773
+)
+"PoPLHWs/GWShw2Answers.ml" 340 12685 12730 "PoPLHWs/GWShw2Answers.ml" 340 12685 12744
+type(
+  'a GHeap.heap -> 'a list
+)
+ident(
+  ext_ref GHeap.as_sorted_list
+)
+"PoPLHWs/GWShw2Answers.ml" 340 12685 12746 "PoPLHWs/GWShw2Answers.ml" 340 12685 12757
+type(
+  'a list -> 'a GHeap.heap -> 'a GHeap.heap
+)
+ident(
+  int_ref insert_many "PoPLHWs/GWShw2Answers.ml" 330 12116 12124 "PoPLHWs/GWShw2Answers.ml" 330 12116 12135
+)
+"PoPLHWs/GWShw2Answers.ml" 340 12685 12758 "PoPLHWs/GWShw2Answers.ml" 340 12685 12760
+type(
+  'a list
+)
+ident(
+  int_ref xs "PoPLHWs/GWShw2Answers.ml" 340 12685 12704 "PoPLHWs/GWShw2Answers.ml" 340 12685 12706
+)
+"PoPLHWs/GWShw2Answers.ml" 340 12685 12762 "PoPLHWs/GWShw2Answers.ml" 340 12685 12767
+type(
+  unit -> 'a GHeap.heap
+)
+ident(
+  ext_ref GHeap.empty
+)
+"PoPLHWs/GWShw2Answers.ml" 340 12685 12768 "PoPLHWs/GWShw2Answers.ml" 340 12685 12770
+type(
+  unit
+)
+"PoPLHWs/GWShw2Answers.ml" 340 12685 12761 "PoPLHWs/GWShw2Answers.ml" 340 12685 12771
+type(
+  'a GHeap.heap
+)
+"PoPLHWs/GWShw2Answers.ml" 340 12685 12745 "PoPLHWs/GWShw2Answers.ml" 340 12685 12773
+type(
+  'a GHeap.heap
+)
+"PoPLHWs/GWShw2Answers.ml" 340 12685 12730 "PoPLHWs/GWShw2Answers.ml" 340 12685 12773
+type(
+  'a list
+)
+type(
+  'a list
+)
+"PoPLHWs/GWShw2Answers.ml" 358 13542 13550 "PoPLHWs/GWShw2Answers.ml" 358 13542 13565
+type(
+  int list -> int -> int
+)
+ident(
+  def eval_polynomial "PoPLHWs/GWShw2Answers.ml" 358 13542 13542 "PoPLHWs/GWShw2Answers.ml" 1 0 -1
+)
+"PoPLHWs/GWShw2Answers.ml" 358 13542 13566 "PoPLHWs/GWShw2Answers.ml" 358 13542 13567
+type(
+  int list
+)
+ident(
+  def p "PoPLHWs/GWShw2Answers.ml" 358 13542 13568 "PoPLHWs/GWShw2Answers.ml" 363 13745 13764
+)
+"PoPLHWs/GWShw2Answers.ml" 358 13542 13568 "PoPLHWs/GWShw2Answers.ml" 358 13542 13569
+type(
+  int
+)
+ident(
+  def n "PoPLHWs/GWShw2Answers.ml" 358 13542 13572 "PoPLHWs/GWShw2Answers.ml" 363 13745 13764
+)
+"PoPLHWs/GWShw2Answers.ml" 358 13542 13576 "PoPLHWs/GWShw2Answers.ml" 358 13542 13579
+type(
+  int -> int -> int
+)
+ident(
+  def pow "PoPLHWs/GWShw2Answers.ml" 359 13642 13644 "PoPLHWs/GWShw2Answers.ml" 363 13745 13764
+)
+"PoPLHWs/GWShw2Answers.ml" 358 13542 13580 "PoPLHWs/GWShw2Answers.ml" 358 13542 13581
+type(
+  int
+)
+ident(
+  def x "PoPLHWs/GWShw2Answers.ml" 358 13542 13582 "PoPLHWs/GWShw2Answers.ml" 358 13542 13638
+)
+"PoPLHWs/GWShw2Answers.ml" 358 13542 13582 "PoPLHWs/GWShw2Answers.ml" 358 13542 13583
+type(
+  int
+)
+ident(
+  def y "PoPLHWs/GWShw2Answers.ml" 358 13542 13586 "PoPLHWs/GWShw2Answers.ml" 358 13542 13638
+)
+"PoPLHWs/GWShw2Answers.ml" 358 13542 13586 "PoPLHWs/GWShw2Answers.ml" 358 13542 13598
+type(
+  float -> int
+)
+ident(
+  ext_ref Pervasives.int_of_float
+)
+"PoPLHWs/GWShw2Answers.ml" 358 13542 13601 "PoPLHWs/GWShw2Answers.ml" 358 13542 13613
+type(
+  int -> float
+)
+ident(
+  ext_ref Pervasives.float_of_int
+)
+"PoPLHWs/GWShw2Answers.ml" 358 13542 13614 "PoPLHWs/GWShw2Answers.ml" 358 13542 13615
+type(
+  int
+)
+ident(
+  int_ref x "PoPLHWs/GWShw2Answers.ml" 358 13542 13580 "PoPLHWs/GWShw2Answers.ml" 358 13542 13581
+)
+"PoPLHWs/GWShw2Answers.ml" 358 13542 13600 "PoPLHWs/GWShw2Answers.ml" 358 13542 13617
+type(
+  float
+)
+"PoPLHWs/GWShw2Answers.ml" 358 13542 13618 "PoPLHWs/GWShw2Answers.ml" 358 13542 13620
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( ** )
+)
+"PoPLHWs/GWShw2Answers.ml" 358 13542 13622 "PoPLHWs/GWShw2Answers.ml" 358 13542 13634
+type(
+  int -> float
+)
+ident(
+  ext_ref Pervasives.float_of_int
+)
+"PoPLHWs/GWShw2Answers.ml" 358 13542 13635 "PoPLHWs/GWShw2Answers.ml" 358 13542 13636
+type(
+  int
+)
+ident(
+  int_ref y "PoPLHWs/GWShw2Answers.ml" 358 13542 13582 "PoPLHWs/GWShw2Answers.ml" 358 13542 13583
+)
+"PoPLHWs/GWShw2Answers.ml" 358 13542 13621 "PoPLHWs/GWShw2Answers.ml" 358 13542 13637
+type(
+  float
+)
+"PoPLHWs/GWShw2Answers.ml" 358 13542 13599 "PoPLHWs/GWShw2Answers.ml" 358 13542 13638
+type(
+  float
+)
+"PoPLHWs/GWShw2Answers.ml" 358 13542 13586 "PoPLHWs/GWShw2Answers.ml" 358 13542 13638
+type(
+  int
+)
+"PoPLHWs/GWShw2Answers.ml" 359 13642 13652 "PoPLHWs/GWShw2Answers.ml" 359 13642 13660
+type(
+  int list -> int -> int -> int
+)
+ident(
+  def polyhelp "PoPLHWs/GWShw2Answers.ml" 359 13642 13644 "PoPLHWs/GWShw2Answers.ml" 363 13745 13764
+)
+"PoPLHWs/GWShw2Answers.ml" 359 13642 13661 "PoPLHWs/GWShw2Answers.ml" 359 13642 13662
+type(
+  int list
+)
+ident(
+  def p "PoPLHWs/GWShw2Answers.ml" 359 13642 13663 "PoPLHWs/GWShw2Answers.ml" 362 13696 13744
+)
+"PoPLHWs/GWShw2Answers.ml" 359 13642 13663 "PoPLHWs/GWShw2Answers.ml" 359 13642 13664
+type(
+  int
+)
+ident(
+  def n "PoPLHWs/GWShw2Answers.ml" 359 13642 13665 "PoPLHWs/GWShw2Answers.ml" 362 13696 13744
+)
+"PoPLHWs/GWShw2Answers.ml" 359 13642 13665 "PoPLHWs/GWShw2Answers.ml" 359 13642 13666
+type(
+  int
+)
+ident(
+  def i "PoPLHWs/GWShw2Answers.ml" 360 13669 13671 "PoPLHWs/GWShw2Answers.ml" 362 13696 13744
+)
+"PoPLHWs/GWShw2Answers.ml" 360 13669 13677 "PoPLHWs/GWShw2Answers.ml" 360 13669 13678
+type(
+  int list
+)
+ident(
+  int_ref p "PoPLHWs/GWShw2Answers.ml" 359 13642 13661 "PoPLHWs/GWShw2Answers.ml" 359 13642 13662
+)
+"PoPLHWs/GWShw2Answers.ml" 361 13684 13688 "PoPLHWs/GWShw2Answers.ml" 361 13684 13690
+type(
+  int list
+)
+"PoPLHWs/GWShw2Answers.ml" 361 13684 13694 "PoPLHWs/GWShw2Answers.ml" 361 13684 13695
+type(
+  int
+)
+"PoPLHWs/GWShw2Answers.ml" 362 13696 13700 "PoPLHWs/GWShw2Answers.ml" 362 13696 13701
+type(
+  int
+)
+ident(
+  def h "PoPLHWs/GWShw2Answers.ml" 362 13696 13710 "PoPLHWs/GWShw2Answers.ml" 362 13696 13744
+)
+"PoPLHWs/GWShw2Answers.ml" 362 13696 13705 "PoPLHWs/GWShw2Answers.ml" 362 13696 13706
+type(
+  int list
+)
+ident(
+  def t "PoPLHWs/GWShw2Answers.ml" 362 13696 13710 "PoPLHWs/GWShw2Answers.ml" 362 13696 13744
+)
+"PoPLHWs/GWShw2Answers.ml" 362 13696 13700 "PoPLHWs/GWShw2Answers.ml" 362 13696 13706
+type(
+  int list
+)
+"PoPLHWs/GWShw2Answers.ml" 362 13696 13710 "PoPLHWs/GWShw2Answers.ml" 362 13696 13711
+type(
+  int
+)
+ident(
+  int_ref h "PoPLHWs/GWShw2Answers.ml" 362 13696 13700 "PoPLHWs/GWShw2Answers.ml" 362 13696 13701
+)
+"PoPLHWs/GWShw2Answers.ml" 362 13696 13712 "PoPLHWs/GWShw2Answers.ml" 362 13696 13713
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( * )
+)
+"PoPLHWs/GWShw2Answers.ml" 362 13696 13715 "PoPLHWs/GWShw2Answers.ml" 362 13696 13718
+type(
+  int -> int -> int
+)
+ident(
+  int_ref pow "PoPLHWs/GWShw2Answers.ml" 358 13542 13576 "PoPLHWs/GWShw2Answers.ml" 358 13542 13579
+)
+"PoPLHWs/GWShw2Answers.ml" 362 13696 13719 "PoPLHWs/GWShw2Answers.ml" 362 13696 13720
+type(
+  int
+)
+ident(
+  int_ref n "PoPLHWs/GWShw2Answers.ml" 359 13642 13663 "PoPLHWs/GWShw2Answers.ml" 359 13642 13664
+)
+"PoPLHWs/GWShw2Answers.ml" 362 13696 13721 "PoPLHWs/GWShw2Answers.ml" 362 13696 13722
+type(
+  int
+)
+ident(
+  int_ref i "PoPLHWs/GWShw2Answers.ml" 359 13642 13665 "PoPLHWs/GWShw2Answers.ml" 359 13642 13666
+)
+"PoPLHWs/GWShw2Answers.ml" 362 13696 13714 "PoPLHWs/GWShw2Answers.ml" 362 13696 13723
+type(
+  int
+)
+"PoPLHWs/GWShw2Answers.ml" 362 13696 13710 "PoPLHWs/GWShw2Answers.ml" 362 13696 13723
+type(
+  int
+)
+"PoPLHWs/GWShw2Answers.ml" 362 13696 13724 "PoPLHWs/GWShw2Answers.ml" 362 13696 13725
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"PoPLHWs/GWShw2Answers.ml" 362 13696 13726 "PoPLHWs/GWShw2Answers.ml" 362 13696 13734
+type(
+  int list -> int -> int -> int
+)
+ident(
+  int_ref polyhelp "PoPLHWs/GWShw2Answers.ml" 359 13642 13652 "PoPLHWs/GWShw2Answers.ml" 359 13642 13660
+)
+"PoPLHWs/GWShw2Answers.ml" 362 13696 13735 "PoPLHWs/GWShw2Answers.ml" 362 13696 13736
+type(
+  int list
+)
+ident(
+  int_ref t "PoPLHWs/GWShw2Answers.ml" 362 13696 13705 "PoPLHWs/GWShw2Answers.ml" 362 13696 13706
+)
+"PoPLHWs/GWShw2Answers.ml" 362 13696 13737 "PoPLHWs/GWShw2Answers.ml" 362 13696 13738
+type(
+  int
+)
+ident(
+  int_ref n "PoPLHWs/GWShw2Answers.ml" 359 13642 13663 "PoPLHWs/GWShw2Answers.ml" 359 13642 13664
+)
+"PoPLHWs/GWShw2Answers.ml" 362 13696 13740 "PoPLHWs/GWShw2Answers.ml" 362 13696 13741
+type(
+  int
+)
+ident(
+  int_ref i "PoPLHWs/GWShw2Answers.ml" 359 13642 13665 "PoPLHWs/GWShw2Answers.ml" 359 13642 13666
+)
+"PoPLHWs/GWShw2Answers.ml" 362 13696 13741 "PoPLHWs/GWShw2Answers.ml" 362 13696 13742
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"PoPLHWs/GWShw2Answers.ml" 362 13696 13742 "PoPLHWs/GWShw2Answers.ml" 362 13696 13743
+type(
+  int
+)
+"PoPLHWs/GWShw2Answers.ml" 362 13696 13739 "PoPLHWs/GWShw2Answers.ml" 362 13696 13744
+type(
+  int
+)
+"PoPLHWs/GWShw2Answers.ml" 362 13696 13726 "PoPLHWs/GWShw2Answers.ml" 362 13696 13744
+type(
+  int
+)
+"PoPLHWs/GWShw2Answers.ml" 362 13696 13710 "PoPLHWs/GWShw2Answers.ml" 362 13696 13744
+type(
+  int
+)
+"PoPLHWs/GWShw2Answers.ml" 360 13669 13671 "PoPLHWs/GWShw2Answers.ml" 362 13696 13744
+type(
+  int
+)
+"PoPLHWs/GWShw2Answers.ml" 363 13745 13750 "PoPLHWs/GWShw2Answers.ml" 363 13745 13758
+type(
+  int list -> int -> int -> int
+)
+ident(
+  int_ref polyhelp "PoPLHWs/GWShw2Answers.ml" 359 13642 13652 "PoPLHWs/GWShw2Answers.ml" 359 13642 13660
+)
+"PoPLHWs/GWShw2Answers.ml" 363 13745 13759 "PoPLHWs/GWShw2Answers.ml" 363 13745 13760
+type(
+  int list
+)
+ident(
+  int_ref p "PoPLHWs/GWShw2Answers.ml" 358 13542 13566 "PoPLHWs/GWShw2Answers.ml" 358 13542 13567
+)
+"PoPLHWs/GWShw2Answers.ml" 363 13745 13761 "PoPLHWs/GWShw2Answers.ml" 363 13745 13762
+type(
+  int
+)
+ident(
+  int_ref n "PoPLHWs/GWShw2Answers.ml" 358 13542 13568 "PoPLHWs/GWShw2Answers.ml" 358 13542 13569
+)
+"PoPLHWs/GWShw2Answers.ml" 363 13745 13763 "PoPLHWs/GWShw2Answers.ml" 363 13745 13764
+type(
+  int
+)
+"PoPLHWs/GWShw2Answers.ml" 363 13745 13750 "PoPLHWs/GWShw2Answers.ml" 363 13745 13764
+type(
+  int
+)
+"PoPLHWs/GWShw2Answers.ml" 359 13642 13644 "PoPLHWs/GWShw2Answers.ml" 363 13745 13764
+type(
+  int
+)
+"PoPLHWs/GWShw2Answers.ml" 358 13542 13572 "PoPLHWs/GWShw2Answers.ml" 363 13745 13764
+type(
+  int
+)
+"PoPLHWs/GWShw2Answers.ml" 377 14025 14033 "PoPLHWs/GWShw2Answers.ml" 377 14025 14038
+type(
+  int list -> int list
+)
+ident(
+  def deriv "PoPLHWs/GWShw2Answers.ml" 377 14025 14025 "PoPLHWs/GWShw2Answers.ml" 1 0 -1
+)
+"PoPLHWs/GWShw2Answers.ml" 377 14025 14039 "PoPLHWs/GWShw2Answers.ml" 377 14025 14040
+type(
+  int list
+)
+ident(
+  def p "PoPLHWs/GWShw2Answers.ml" 377 14025 14043 "PoPLHWs/GWShw2Answers.ml" 380 14156 14206
+)
+"PoPLHWs/GWShw2Answers.ml" 377 14025 14051 "PoPLHWs/GWShw2Answers.ml" 377 14025 14060
+type(
+  int list -> int -> int list
+)
+ident(
+  def derivhelp "PoPLHWs/GWShw2Answers.ml" 377 14025 14043 "PoPLHWs/GWShw2Answers.ml" 380 14156 14206
+)
+"PoPLHWs/GWShw2Answers.ml" 377 14025 14061 "PoPLHWs/GWShw2Answers.ml" 377 14025 14062
+type(
+  int list
+)
+ident(
+  def p "PoPLHWs/GWShw2Answers.ml" 377 14025 14063 "PoPLHWs/GWShw2Answers.ml" 379 14097 14155
+)
+"PoPLHWs/GWShw2Answers.ml" 377 14025 14063 "PoPLHWs/GWShw2Answers.ml" 377 14025 14064
+type(
+  int
+)
+ident(
+  def i "PoPLHWs/GWShw2Answers.ml" 377 14025 14067 "PoPLHWs/GWShw2Answers.ml" 379 14097 14155
+)
+"PoPLHWs/GWShw2Answers.ml" 377 14025 14073 "PoPLHWs/GWShw2Answers.ml" 377 14025 14074
+type(
+  int list
+)
+ident(
+  int_ref p "PoPLHWs/GWShw2Answers.ml" 377 14025 14061 "PoPLHWs/GWShw2Answers.ml" 377 14025 14062
+)
+"PoPLHWs/GWShw2Answers.ml" 378 14081 14083 "PoPLHWs/GWShw2Answers.ml" 378 14081 14084
+type(
+  int
+)
+ident(
+  def h "PoPLHWs/GWShw2Answers.ml" 378 14081 14094 "PoPLHWs/GWShw2Answers.ml" 378 14081 14096
+)
+"PoPLHWs/GWShw2Answers.ml" 378 14081 14088 "PoPLHWs/GWShw2Answers.ml" 378 14081 14090
+type(
+  int list
+)
+"PoPLHWs/GWShw2Answers.ml" 378 14081 14083 "PoPLHWs/GWShw2Answers.ml" 378 14081 14090
+type(
+  int list
+)
+"PoPLHWs/GWShw2Answers.ml" 378 14081 14094 "PoPLHWs/GWShw2Answers.ml" 378 14081 14096
+type(
+  int list
+)
+"PoPLHWs/GWShw2Answers.ml" 379 14097 14099 "PoPLHWs/GWShw2Answers.ml" 379 14097 14101
+type(
+  int
+)
+ident(
+  def h1 "PoPLHWs/GWShw2Answers.ml" 379 14097 14116 "PoPLHWs/GWShw2Answers.ml" 379 14097 14155
+)
+"PoPLHWs/GWShw2Answers.ml" 379 14097 14105 "PoPLHWs/GWShw2Answers.ml" 379 14097 14107
+type(
+  int
+)
+ident(
+  def h2 "PoPLHWs/GWShw2Answers.ml" 379 14097 14116 "PoPLHWs/GWShw2Answers.ml" 379 14097 14155
+)
+"PoPLHWs/GWShw2Answers.ml" 379 14097 14111 "PoPLHWs/GWShw2Answers.ml" 379 14097 14112
+type(
+  int list
+)
+ident(
+  def t "PoPLHWs/GWShw2Answers.ml" 379 14097 14116 "PoPLHWs/GWShw2Answers.ml" 379 14097 14155
+)
+"PoPLHWs/GWShw2Answers.ml" 379 14097 14105 "PoPLHWs/GWShw2Answers.ml" 379 14097 14112
+type(
+  int list
+)
+"PoPLHWs/GWShw2Answers.ml" 379 14097 14099 "PoPLHWs/GWShw2Answers.ml" 379 14097 14112
+type(
+  int list
+)
+"PoPLHWs/GWShw2Answers.ml" 379 14097 14117 "PoPLHWs/GWShw2Answers.ml" 379 14097 14119
+type(
+  int
+)
+ident(
+  int_ref h2 "PoPLHWs/GWShw2Answers.ml" 379 14097 14105 "PoPLHWs/GWShw2Answers.ml" 379 14097 14107
+)
+"PoPLHWs/GWShw2Answers.ml" 379 14097 14120 "PoPLHWs/GWShw2Answers.ml" 379 14097 14121
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( * )
+)
+"PoPLHWs/GWShw2Answers.ml" 379 14097 14122 "PoPLHWs/GWShw2Answers.ml" 379 14097 14123
+type(
+  int
+)
+ident(
+  int_ref i "PoPLHWs/GWShw2Answers.ml" 377 14025 14063 "PoPLHWs/GWShw2Answers.ml" 377 14025 14064
+)
+"PoPLHWs/GWShw2Answers.ml" 379 14097 14116 "PoPLHWs/GWShw2Answers.ml" 379 14097 14124
+type(
+  int
+)
+"PoPLHWs/GWShw2Answers.ml" 379 14097 14129 "PoPLHWs/GWShw2Answers.ml" 379 14097 14138
+type(
+  int list -> int -> int list
+)
+ident(
+  int_ref derivhelp "PoPLHWs/GWShw2Answers.ml" 377 14025 14051 "PoPLHWs/GWShw2Answers.ml" 377 14025 14060
+)
+"PoPLHWs/GWShw2Answers.ml" 379 14097 14140 "PoPLHWs/GWShw2Answers.ml" 379 14097 14142
+type(
+  int
+)
+ident(
+  int_ref h2 "PoPLHWs/GWShw2Answers.ml" 379 14097 14105 "PoPLHWs/GWShw2Answers.ml" 379 14097 14107
+)
+"PoPLHWs/GWShw2Answers.ml" 379 14097 14146 "PoPLHWs/GWShw2Answers.ml" 379 14097 14147
+type(
+  int list
+)
+ident(
+  int_ref t "PoPLHWs/GWShw2Answers.ml" 379 14097 14111 "PoPLHWs/GWShw2Answers.ml" 379 14097 14112
+)
+"PoPLHWs/GWShw2Answers.ml" 379 14097 14139 "PoPLHWs/GWShw2Answers.ml" 379 14097 14148
+type(
+  int list
+)
+"PoPLHWs/GWShw2Answers.ml" 379 14097 14150 "PoPLHWs/GWShw2Answers.ml" 379 14097 14151
+type(
+  int
+)
+ident(
+  int_ref i "PoPLHWs/GWShw2Answers.ml" 377 14025 14063 "PoPLHWs/GWShw2Answers.ml" 377 14025 14064
+)
+"PoPLHWs/GWShw2Answers.ml" 379 14097 14151 "PoPLHWs/GWShw2Answers.ml" 379 14097 14152
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"PoPLHWs/GWShw2Answers.ml" 379 14097 14152 "PoPLHWs/GWShw2Answers.ml" 379 14097 14153
+type(
+  int
+)
+"PoPLHWs/GWShw2Answers.ml" 379 14097 14149 "PoPLHWs/GWShw2Answers.ml" 379 14097 14154
+type(
+  int
+)
+"PoPLHWs/GWShw2Answers.ml" 379 14097 14128 "PoPLHWs/GWShw2Answers.ml" 379 14097 14155
+type(
+  int list
+)
+"PoPLHWs/GWShw2Answers.ml" 379 14097 14116 "PoPLHWs/GWShw2Answers.ml" 379 14097 14155
+type(
+  int list
+)
+"PoPLHWs/GWShw2Answers.ml" 377 14025 14067 "PoPLHWs/GWShw2Answers.ml" 379 14097 14155
+type(
+  int list
+)
+"PoPLHWs/GWShw2Answers.ml" 380 14156 14166 "PoPLHWs/GWShw2Answers.ml" 380 14156 14175
+type(
+  int list -> int -> int list
+)
+ident(
+  int_ref derivhelp "PoPLHWs/GWShw2Answers.ml" 377 14025 14051 "PoPLHWs/GWShw2Answers.ml" 377 14025 14060
+)
+"PoPLHWs/GWShw2Answers.ml" 380 14156 14176 "PoPLHWs/GWShw2Answers.ml" 380 14156 14177
+type(
+  int list
+)
+ident(
+  int_ref p "PoPLHWs/GWShw2Answers.ml" 377 14025 14039 "PoPLHWs/GWShw2Answers.ml" 377 14025 14040
+)
+"PoPLHWs/GWShw2Answers.ml" 380 14156 14178 "PoPLHWs/GWShw2Answers.ml" 380 14156 14179
+type(
+  int
+)
+"PoPLHWs/GWShw2Answers.ml" 380 14156 14165 "PoPLHWs/GWShw2Answers.ml" 380 14156 14180
+type(
+  int list
+)
+"PoPLHWs/GWShw2Answers.ml" 380 14156 14188 "PoPLHWs/GWShw2Answers.ml" 380 14156 14190
+type(
+  int list
+)
+"PoPLHWs/GWShw2Answers.ml" 380 14156 14195 "PoPLHWs/GWShw2Answers.ml" 380 14156 14196
+type(
+  int
+)
+"PoPLHWs/GWShw2Answers.ml" 380 14156 14194 "PoPLHWs/GWShw2Answers.ml" 380 14156 14197
+type(
+  int list
+)
+"PoPLHWs/GWShw2Answers.ml" 380 14156 14200 "PoPLHWs/GWShw2Answers.ml" 380 14156 14201
+type(
+  int list
+)
+ident(
+  def x "PoPLHWs/GWShw2Answers.ml" 380 14156 14205 "PoPLHWs/GWShw2Answers.ml" 380 14156 14206
+)
+"PoPLHWs/GWShw2Answers.ml" 380 14156 14205 "PoPLHWs/GWShw2Answers.ml" 380 14156 14206
+type(
+  int list
+)
+ident(
+  int_ref x "PoPLHWs/GWShw2Answers.ml" 380 14156 14200 "PoPLHWs/GWShw2Answers.ml" 380 14156 14201
+)
+"PoPLHWs/GWShw2Answers.ml" 380 14156 14159 "PoPLHWs/GWShw2Answers.ml" 380 14156 14206
+type(
+  int list
+)
+"PoPLHWs/GWShw2Answers.ml" 377 14025 14043 "PoPLHWs/GWShw2Answers.ml" 380 14156 14206
+type(
+  int list
+)
+"PoPLHWs/GWShw2Answers.ml" 392 14343 14351 "PoPLHWs/GWShw2Answers.ml" 392 14343 14359
+type(
+  int list -> int list -> int list
+)
+ident(
+  def add_poly "PoPLHWs/GWShw2Answers.ml" 392 14343 14343 "PoPLHWs/GWShw2Answers.ml" 1 0 -1
+)
+"PoPLHWs/GWShw2Answers.ml" 392 14343 14360 "PoPLHWs/GWShw2Answers.ml" 392 14343 14362
+type(
+  int list
+)
+ident(
+  def p1 "PoPLHWs/GWShw2Answers.ml" 392 14343 14363 "PoPLHWs/GWShw2Answers.ml" 399 14550 14571
+)
+"PoPLHWs/GWShw2Answers.ml" 392 14343 14363 "PoPLHWs/GWShw2Answers.ml" 392 14343 14365
+type(
+  int list
+)
+ident(
+  def p2 "PoPLHWs/GWShw2Answers.ml" 393 14369 14370 "PoPLHWs/GWShw2Answers.ml" 399 14550 14571
+)
+"PoPLHWs/GWShw2Answers.ml" 393 14369 14378 "PoPLHWs/GWShw2Answers.ml" 393 14369 14385
+type(
+  ('a -> 'a -> 'a) -> 'a list -> 'a list -> 'a list
+)
+ident(
+  def zipWith "PoPLHWs/GWShw2Answers.ml" 393 14369 14370 "PoPLHWs/GWShw2Answers.ml" 399 14550 14571
+)
+"PoPLHWs/GWShw2Answers.ml" 393 14369 14386 "PoPLHWs/GWShw2Answers.ml" 393 14369 14387
+type(
+  'a -> 'a -> 'a
+)
+ident(
+  def f "PoPLHWs/GWShw2Answers.ml" 393 14369 14388 "PoPLHWs/GWShw2Answers.ml" 398 14464 14549
+)
+"PoPLHWs/GWShw2Answers.ml" 393 14369 14388 "PoPLHWs/GWShw2Answers.ml" 393 14369 14390
+type(
+  'a list
+)
+ident(
+  def xs "PoPLHWs/GWShw2Answers.ml" 393 14369 14391 "PoPLHWs/GWShw2Answers.ml" 398 14464 14549
+)
+"PoPLHWs/GWShw2Answers.ml" 393 14369 14391 "PoPLHWs/GWShw2Answers.ml" 393 14369 14393
+type(
+  'a list
+)
+ident(
+  def ys "PoPLHWs/GWShw2Answers.ml" 394 14397 14398 "PoPLHWs/GWShw2Answers.ml" 398 14464 14549
+)
+"PoPLHWs/GWShw2Answers.ml" 394 14397 14404 "PoPLHWs/GWShw2Answers.ml" 394 14397 14406
+type(
+  'a list
+)
+ident(
+  int_ref xs "PoPLHWs/GWShw2Answers.ml" 393 14369 14388 "PoPLHWs/GWShw2Answers.ml" 393 14369 14390
+)
+"PoPLHWs/GWShw2Answers.ml" 394 14397 14408 "PoPLHWs/GWShw2Answers.ml" 394 14397 14410
+type(
+  'a list
+)
+ident(
+  int_ref ys "PoPLHWs/GWShw2Answers.ml" 393 14369 14391 "PoPLHWs/GWShw2Answers.ml" 393 14369 14393
+)
+"PoPLHWs/GWShw2Answers.ml" 394 14397 14404 "PoPLHWs/GWShw2Answers.ml" 394 14397 14410
+type(
+  'a list * 'a list
+)
+"PoPLHWs/GWShw2Answers.ml" 395 14417 14420 "PoPLHWs/GWShw2Answers.ml" 395 14417 14422
+type(
+  'a list
+)
+"PoPLHWs/GWShw2Answers.ml" 395 14417 14424 "PoPLHWs/GWShw2Answers.ml" 395 14417 14426
+type(
+  'a list
+)
+"PoPLHWs/GWShw2Answers.ml" 395 14417 14420 "PoPLHWs/GWShw2Answers.ml" 395 14417 14426
+type(
+  'a list * 'a list
+)
+"PoPLHWs/GWShw2Answers.ml" 395 14417 14430 "PoPLHWs/GWShw2Answers.ml" 395 14417 14432
+type(
+  'a list
+)
+"PoPLHWs/GWShw2Answers.ml" 396 14433 14437 "PoPLHWs/GWShw2Answers.ml" 396 14433 14438
+type(
+  'a list
+)
+ident(
+  def x "PoPLHWs/GWShw2Answers.ml" 396 14433 14446 "PoPLHWs/GWShw2Answers.ml" 396 14433 14447
+)
+"PoPLHWs/GWShw2Answers.ml" 396 14433 14440 "PoPLHWs/GWShw2Answers.ml" 396 14433 14442
+type(
+  'a list
+)
+"PoPLHWs/GWShw2Answers.ml" 396 14433 14437 "PoPLHWs/GWShw2Answers.ml" 396 14433 14442
+type(
+  'a list * 'a list
+)
+"PoPLHWs/GWShw2Answers.ml" 396 14433 14446 "PoPLHWs/GWShw2Answers.ml" 396 14433 14447
+type(
+  'a list
+)
+ident(
+  int_ref x "PoPLHWs/GWShw2Answers.ml" 396 14433 14437 "PoPLHWs/GWShw2Answers.ml" 396 14433 14438
+)
+"PoPLHWs/GWShw2Answers.ml" 397 14449 14452 "PoPLHWs/GWShw2Answers.ml" 397 14449 14454
+type(
+  'a list
+)
+"PoPLHWs/GWShw2Answers.ml" 397 14449 14457 "PoPLHWs/GWShw2Answers.ml" 397 14449 14458
+type(
+  'a list
+)
+ident(
+  def y "PoPLHWs/GWShw2Answers.ml" 397 14449 14462 "PoPLHWs/GWShw2Answers.ml" 397 14449 14463
+)
+"PoPLHWs/GWShw2Answers.ml" 397 14449 14452 "PoPLHWs/GWShw2Answers.ml" 397 14449 14458
+type(
+  'a list * 'a list
+)
+"PoPLHWs/GWShw2Answers.ml" 397 14449 14462 "PoPLHWs/GWShw2Answers.ml" 397 14449 14463
+type(
+  'a list
+)
+ident(
+  int_ref y "PoPLHWs/GWShw2Answers.ml" 397 14449 14457 "PoPLHWs/GWShw2Answers.ml" 397 14449 14458
+)
+"PoPLHWs/GWShw2Answers.ml" 398 14464 14467 "PoPLHWs/GWShw2Answers.ml" 398 14464 14473
+type(
+  'a
+)
+ident(
+  def xshead "PoPLHWs/GWShw2Answers.ml" 398 14464 14505 "PoPLHWs/GWShw2Answers.ml" 398 14464 14549
+)
+"PoPLHWs/GWShw2Answers.ml" 398 14464 14477 "PoPLHWs/GWShw2Answers.ml" 398 14464 14483
+type(
+  'a list
+)
+ident(
+  def xstail "PoPLHWs/GWShw2Answers.ml" 398 14464 14505 "PoPLHWs/GWShw2Answers.ml" 398 14464 14549
+)
+"PoPLHWs/GWShw2Answers.ml" 398 14464 14467 "PoPLHWs/GWShw2Answers.ml" 398 14464 14483
+type(
+  'a list
+)
+"PoPLHWs/GWShw2Answers.ml" 398 14464 14485 "PoPLHWs/GWShw2Answers.ml" 398 14464 14491
+type(
+  'a
+)
+ident(
+  def yshead "PoPLHWs/GWShw2Answers.ml" 398 14464 14505 "PoPLHWs/GWShw2Answers.ml" 398 14464 14549
+)
+"PoPLHWs/GWShw2Answers.ml" 398 14464 14495 "PoPLHWs/GWShw2Answers.ml" 398 14464 14501
+type(
+  'a list
+)
+ident(
+  def ystail "PoPLHWs/GWShw2Answers.ml" 398 14464 14505 "PoPLHWs/GWShw2Answers.ml" 398 14464 14549
+)
+"PoPLHWs/GWShw2Answers.ml" 398 14464 14485 "PoPLHWs/GWShw2Answers.ml" 398 14464 14501
+type(
+  'a list
+)
+"PoPLHWs/GWShw2Answers.ml" 398 14464 14467 "PoPLHWs/GWShw2Answers.ml" 398 14464 14501
+type(
+  'a list * 'a list
+)
+"PoPLHWs/GWShw2Answers.ml" 398 14464 14506 "PoPLHWs/GWShw2Answers.ml" 398 14464 14507
+type(
+  'a -> 'a -> 'a
+)
+ident(
+  int_ref f "PoPLHWs/GWShw2Answers.ml" 393 14369 14386 "PoPLHWs/GWShw2Answers.ml" 393 14369 14387
+)
+"PoPLHWs/GWShw2Answers.ml" 398 14464 14508 "PoPLHWs/GWShw2Answers.ml" 398 14464 14514
+type(
+  'a
+)
+ident(
+  int_ref xshead "PoPLHWs/GWShw2Answers.ml" 398 14464 14467 "PoPLHWs/GWShw2Answers.ml" 398 14464 14473
+)
+"PoPLHWs/GWShw2Answers.ml" 398 14464 14515 "PoPLHWs/GWShw2Answers.ml" 398 14464 14521
+type(
+  'a
+)
+ident(
+  int_ref yshead "PoPLHWs/GWShw2Answers.ml" 398 14464 14485 "PoPLHWs/GWShw2Answers.ml" 398 14464 14491
+)
+"PoPLHWs/GWShw2Answers.ml" 398 14464 14505 "PoPLHWs/GWShw2Answers.ml" 398 14464 14522
+type(
+  'a
+)
+"PoPLHWs/GWShw2Answers.ml" 398 14464 14526 "PoPLHWs/GWShw2Answers.ml" 398 14464 14533
+type(
+  ('a -> 'a -> 'a) -> 'a list -> 'a list -> 'a list
+)
+ident(
+  int_ref zipWith "PoPLHWs/GWShw2Answers.ml" 393 14369 14378 "PoPLHWs/GWShw2Answers.ml" 393 14369 14385
+)
+"PoPLHWs/GWShw2Answers.ml" 398 14464 14534 "PoPLHWs/GWShw2Answers.ml" 398 14464 14535
+type(
+  'a -> 'a -> 'a
+)
+ident(
+  int_ref f "PoPLHWs/GWShw2Answers.ml" 393 14369 14386 "PoPLHWs/GWShw2Answers.ml" 393 14369 14387
+)
+"PoPLHWs/GWShw2Answers.ml" 398 14464 14536 "PoPLHWs/GWShw2Answers.ml" 398 14464 14542
+type(
+  'a list
+)
+ident(
+  int_ref xstail "PoPLHWs/GWShw2Answers.ml" 398 14464 14477 "PoPLHWs/GWShw2Answers.ml" 398 14464 14483
+)
+"PoPLHWs/GWShw2Answers.ml" 398 14464 14543 "PoPLHWs/GWShw2Answers.ml" 398 14464 14549
+type(
+  'a list
+)
+ident(
+  int_ref ystail "PoPLHWs/GWShw2Answers.ml" 398 14464 14495 "PoPLHWs/GWShw2Answers.ml" 398 14464 14501
+)
+"PoPLHWs/GWShw2Answers.ml" 398 14464 14526 "PoPLHWs/GWShw2Answers.ml" 398 14464 14549
+type(
+  'a list
+)
+"PoPLHWs/GWShw2Answers.ml" 398 14464 14505 "PoPLHWs/GWShw2Answers.ml" 398 14464 14549
+type(
+  'a list
+)
+"PoPLHWs/GWShw2Answers.ml" 394 14397 14398 "PoPLHWs/GWShw2Answers.ml" 398 14464 14549
+type(
+  'a list
+)
+"PoPLHWs/GWShw2Answers.ml" 399 14550 14554 "PoPLHWs/GWShw2Answers.ml" 399 14550 14561
+type(
+  (int -> int -> int) -> int list -> int list -> int list
+)
+ident(
+  int_ref zipWith "PoPLHWs/GWShw2Answers.ml" 393 14369 14378 "PoPLHWs/GWShw2Answers.ml" 393 14369 14385
+)
+"PoPLHWs/GWShw2Answers.ml" 399 14550 14562 "PoPLHWs/GWShw2Answers.ml" 399 14550 14565
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"PoPLHWs/GWShw2Answers.ml" 399 14550 14566 "PoPLHWs/GWShw2Answers.ml" 399 14550 14568
+type(
+  int list
+)
+ident(
+  int_ref p1 "PoPLHWs/GWShw2Answers.ml" 392 14343 14360 "PoPLHWs/GWShw2Answers.ml" 392 14343 14362
+)
+"PoPLHWs/GWShw2Answers.ml" 399 14550 14569 "PoPLHWs/GWShw2Answers.ml" 399 14550 14571
+type(
+  int list
+)
+ident(
+  int_ref p2 "PoPLHWs/GWShw2Answers.ml" 392 14343 14363 "PoPLHWs/GWShw2Answers.ml" 392 14343 14365
+)
+"PoPLHWs/GWShw2Answers.ml" 399 14550 14554 "PoPLHWs/GWShw2Answers.ml" 399 14550 14571
+type(
+  int list
+)
+"PoPLHWs/GWShw2Answers.ml" 393 14369 14370 "PoPLHWs/GWShw2Answers.ml" 399 14550 14571
+type(
+  int list
+)
+"PoPLHWs/GWShw2Answers.ml" 409 14691 14699 "PoPLHWs/GWShw2Answers.ml" 409 14691 14707
+type(
+  int list -> int list -> int list
+)
+ident(
+  def mul_poly "PoPLHWs/GWShw2Answers.ml" 409 14691 14691 "PoPLHWs/GWShw2Answers.ml" 1 0 -1
+)
+"PoPLHWs/GWShw2Answers.ml" 409 14691 14708 "PoPLHWs/GWShw2Answers.ml" 409 14691 14710
+type(
+  int list
+)
+ident(
+  def p1 "PoPLHWs/GWShw2Answers.ml" 409 14691 14711 "PoPLHWs/GWShw2Answers.ml" 414 14982 15004
+)
+"PoPLHWs/GWShw2Answers.ml" 409 14691 14711 "PoPLHWs/GWShw2Answers.ml" 409 14691 14713
+type(
+  int list
+)
+ident(
+  def p2 "PoPLHWs/GWShw2Answers.ml" 409 14691 14716 "PoPLHWs/GWShw2Answers.ml" 414 14982 15004
+)
+"PoPLHWs/GWShw2Answers.ml" 409 14691 14724 "PoPLHWs/GWShw2Answers.ml" 409 14691 14732
+type(
+  int -> int list
+)
+ident(
+  def padfront "PoPLHWs/GWShw2Answers.ml" 409 14691 14716 "PoPLHWs/GWShw2Answers.ml" 414 14982 15004
+)
+"PoPLHWs/GWShw2Answers.ml" 409 14691 14733 "PoPLHWs/GWShw2Answers.ml" 409 14691 14734
+type(
+  int
+)
+ident(
+  def i "PoPLHWs/GWShw2Answers.ml" 409 14691 14737 "PoPLHWs/GWShw2Answers.ml" 409 14691 14778
+)
+"PoPLHWs/GWShw2Answers.ml" 409 14691 14740 "PoPLHWs/GWShw2Answers.ml" 409 14691 14741
+type(
+  int
+)
+ident(
+  int_ref i "PoPLHWs/GWShw2Answers.ml" 409 14691 14733 "PoPLHWs/GWShw2Answers.ml" 409 14691 14734
+)
+"PoPLHWs/GWShw2Answers.ml" 409 14691 14742 "PoPLHWs/GWShw2Answers.ml" 409 14691 14743
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"PoPLHWs/GWShw2Answers.ml" 409 14691 14744 "PoPLHWs/GWShw2Answers.ml" 409 14691 14745
+type(
+  int
+)
+"PoPLHWs/GWShw2Answers.ml" 409 14691 14740 "PoPLHWs/GWShw2Answers.ml" 409 14691 14745
+type(
+  bool
+)
+"PoPLHWs/GWShw2Answers.ml" 409 14691 14751 "PoPLHWs/GWShw2Answers.ml" 409 14691 14753
+type(
+  int list
+)
+"PoPLHWs/GWShw2Answers.ml" 409 14691 14759 "PoPLHWs/GWShw2Answers.ml" 409 14691 14760
+type(
+  int
+)
+"PoPLHWs/GWShw2Answers.ml" 409 14691 14764 "PoPLHWs/GWShw2Answers.ml" 409 14691 14772
+type(
+  int -> int list
+)
+ident(
+  int_ref padfront "PoPLHWs/GWShw2Answers.ml" 409 14691 14724 "PoPLHWs/GWShw2Answers.ml" 409 14691 14732
+)
+"PoPLHWs/GWShw2Answers.ml" 409 14691 14774 "PoPLHWs/GWShw2Answers.ml" 409 14691 14775
+type(
+  int
+)
+ident(
+  int_ref i "PoPLHWs/GWShw2Answers.ml" 409 14691 14733 "PoPLHWs/GWShw2Answers.ml" 409 14691 14734
+)
+"PoPLHWs/GWShw2Answers.ml" 409 14691 14775 "PoPLHWs/GWShw2Answers.ml" 409 14691 14776
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"PoPLHWs/GWShw2Answers.ml" 409 14691 14776 "PoPLHWs/GWShw2Answers.ml" 409 14691 14777
+type(
+  int
+)
+"PoPLHWs/GWShw2Answers.ml" 409 14691 14773 "PoPLHWs/GWShw2Answers.ml" 409 14691 14778
+type(
+  int
+)
+"PoPLHWs/GWShw2Answers.ml" 409 14691 14764 "PoPLHWs/GWShw2Answers.ml" 409 14691 14778
+type(
+  int list
+)
+"PoPLHWs/GWShw2Answers.ml" 409 14691 14759 "PoPLHWs/GWShw2Answers.ml" 409 14691 14778
+type(
+  int list
+)
+"PoPLHWs/GWShw2Answers.ml" 409 14691 14737 "PoPLHWs/GWShw2Answers.ml" 409 14691 14778
+type(
+  int list
+)
+"PoPLHWs/GWShw2Answers.ml" 410 14782 14791 "PoPLHWs/GWShw2Answers.ml" 410 14782 14801
+type(
+  int list -> int list -> int -> int list
+)
+ident(
+  def polyhelper "PoPLHWs/GWShw2Answers.ml" 410 14782 14783 "PoPLHWs/GWShw2Answers.ml" 414 14982 15004
+)
+"PoPLHWs/GWShw2Answers.ml" 410 14782 14802 "PoPLHWs/GWShw2Answers.ml" 410 14782 14804
+type(
+  int list
+)
+ident(
+  def p1 "PoPLHWs/GWShw2Answers.ml" 410 14782 14805 "PoPLHWs/GWShw2Answers.ml" 413 14888 14981
+)
+"PoPLHWs/GWShw2Answers.ml" 410 14782 14805 "PoPLHWs/GWShw2Answers.ml" 410 14782 14807
+type(
+  int list
+)
+ident(
+  def p2 "PoPLHWs/GWShw2Answers.ml" 410 14782 14808 "PoPLHWs/GWShw2Answers.ml" 413 14888 14981
+)
+"PoPLHWs/GWShw2Answers.ml" 410 14782 14808 "PoPLHWs/GWShw2Answers.ml" 410 14782 14809
+type(
+  int
+)
+ident(
+  def i "PoPLHWs/GWShw2Answers.ml" 411 14812 14813 "PoPLHWs/GWShw2Answers.ml" 413 14888 14981
+)
+"PoPLHWs/GWShw2Answers.ml" 411 14812 14819 "PoPLHWs/GWShw2Answers.ml" 411 14812 14821
+type(
+  int list
+)
+ident(
+  int_ref p1 "PoPLHWs/GWShw2Answers.ml" 410 14782 14802 "PoPLHWs/GWShw2Answers.ml" 410 14782 14804
+)
+"PoPLHWs/GWShw2Answers.ml" 412 14828 14831 "PoPLHWs/GWShw2Answers.ml" 412 14828 14832
+type(
+  int
+)
+ident(
+  def h "PoPLHWs/GWShw2Answers.ml" 412 14828 14842 "PoPLHWs/GWShw2Answers.ml" 412 14828 14887
+)
+"PoPLHWs/GWShw2Answers.ml" 412 14828 14836 "PoPLHWs/GWShw2Answers.ml" 412 14828 14838
+type(
+  int list
+)
+"PoPLHWs/GWShw2Answers.ml" 412 14828 14831 "PoPLHWs/GWShw2Answers.ml" 412 14828 14838
+type(
+  int list
+)
+"PoPLHWs/GWShw2Answers.ml" 412 14828 14843 "PoPLHWs/GWShw2Answers.ml" 412 14828 14851
+type(
+  int -> int list
+)
+ident(
+  int_ref padfront "PoPLHWs/GWShw2Answers.ml" 409 14691 14724 "PoPLHWs/GWShw2Answers.ml" 409 14691 14732
+)
+"PoPLHWs/GWShw2Answers.ml" 412 14828 14852 "PoPLHWs/GWShw2Answers.ml" 412 14828 14853
+type(
+  int
+)
+ident(
+  int_ref i "PoPLHWs/GWShw2Answers.ml" 410 14782 14808 "PoPLHWs/GWShw2Answers.ml" 410 14782 14809
+)
+"PoPLHWs/GWShw2Answers.ml" 412 14828 14842 "PoPLHWs/GWShw2Answers.ml" 412 14828 14854
+type(
+  int list
+)
+"PoPLHWs/GWShw2Answers.ml" 412 14828 14855 "PoPLHWs/GWShw2Answers.ml" 412 14828 14856
+type(
+  int list -> int list -> int list
+)
+ident(
+  ext_ref Pervasives.( @ )
+)
+"PoPLHWs/GWShw2Answers.ml" 412 14828 14858 "PoPLHWs/GWShw2Answers.ml" 412 14828 14866
+type(
+  (int -> int) -> int list -> int list
+)
+ident(
+  ext_ref List.map
+)
+"PoPLHWs/GWShw2Answers.ml" 412 14828 14872 "PoPLHWs/GWShw2Answers.ml" 412 14828 14873
+type(
+  int
+)
+ident(
+  def x "PoPLHWs/GWShw2Answers.ml" 412 14828 14877 "PoPLHWs/GWShw2Answers.ml" 412 14828 14882
+)
+"PoPLHWs/GWShw2Answers.ml" 412 14828 14877 "PoPLHWs/GWShw2Answers.ml" 412 14828 14878
+type(
+  int
+)
+ident(
+  int_ref x "PoPLHWs/GWShw2Answers.ml" 412 14828 14872 "PoPLHWs/GWShw2Answers.ml" 412 14828 14873
+)
+"PoPLHWs/GWShw2Answers.ml" 412 14828 14879 "PoPLHWs/GWShw2Answers.ml" 412 14828 14880
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( * )
+)
+"PoPLHWs/GWShw2Answers.ml" 412 14828 14881 "PoPLHWs/GWShw2Answers.ml" 412 14828 14882
+type(
+  int
+)
+ident(
+  int_ref h "PoPLHWs/GWShw2Answers.ml" 412 14828 14831 "PoPLHWs/GWShw2Answers.ml" 412 14828 14832
+)
+"PoPLHWs/GWShw2Answers.ml" 412 14828 14877 "PoPLHWs/GWShw2Answers.ml" 412 14828 14882
+type(
+  int
+)
+"PoPLHWs/GWShw2Answers.ml" 412 14828 14867 "PoPLHWs/GWShw2Answers.ml" 412 14828 14883
+type(
+  int -> int
+)
+"PoPLHWs/GWShw2Answers.ml" 412 14828 14884 "PoPLHWs/GWShw2Answers.ml" 412 14828 14886
+type(
+  int list
+)
+ident(
+  int_ref p2 "PoPLHWs/GWShw2Answers.ml" 410 14782 14805 "PoPLHWs/GWShw2Answers.ml" 410 14782 14807
+)
+"PoPLHWs/GWShw2Answers.ml" 412 14828 14857 "PoPLHWs/GWShw2Answers.ml" 412 14828 14887
+type(
+  int list
+)
+"PoPLHWs/GWShw2Answers.ml" 412 14828 14842 "PoPLHWs/GWShw2Answers.ml" 412 14828 14887
+type(
+  int list
+)
+"PoPLHWs/GWShw2Answers.ml" 413 14888 14891 "PoPLHWs/GWShw2Answers.ml" 413 14888 14892
+type(
+  int
+)
+ident(
+  def h "PoPLHWs/GWShw2Answers.ml" 413 14888 14901 "PoPLHWs/GWShw2Answers.ml" 413 14888 14981
+)
+"PoPLHWs/GWShw2Answers.ml" 413 14888 14896 "PoPLHWs/GWShw2Answers.ml" 413 14888 14897
+type(
+  int list
+)
+ident(
+  def t "PoPLHWs/GWShw2Answers.ml" 413 14888 14901 "PoPLHWs/GWShw2Answers.ml" 413 14888 14981
+)
+"PoPLHWs/GWShw2Answers.ml" 413 14888 14891 "PoPLHWs/GWShw2Answers.ml" 413 14888 14897
+type(
+  int list
+)
+"PoPLHWs/GWShw2Answers.ml" 413 14888 14901 "PoPLHWs/GWShw2Answers.ml" 413 14888 14909
+type(
+  int list -> int list -> int list
+)
+ident(
+  int_ref add_poly "PoPLHWs/GWShw2Answers.ml" 392 14343 14351 "PoPLHWs/GWShw2Answers.ml" 392 14343 14359
+)
+"PoPLHWs/GWShw2Answers.ml" 413 14888 14912 "PoPLHWs/GWShw2Answers.ml" 413 14888 14920
+type(
+  int -> int list
+)
+ident(
+  int_ref padfront "PoPLHWs/GWShw2Answers.ml" 409 14691 14724 "PoPLHWs/GWShw2Answers.ml" 409 14691 14732
+)
+"PoPLHWs/GWShw2Answers.ml" 413 14888 14921 "PoPLHWs/GWShw2Answers.ml" 413 14888 14922
+type(
+  int
+)
+ident(
+  int_ref i "PoPLHWs/GWShw2Answers.ml" 410 14782 14808 "PoPLHWs/GWShw2Answers.ml" 410 14782 14809
+)
+"PoPLHWs/GWShw2Answers.ml" 413 14888 14911 "PoPLHWs/GWShw2Answers.ml" 413 14888 14923
+type(
+  int list
+)
+"PoPLHWs/GWShw2Answers.ml" 413 14888 14924 "PoPLHWs/GWShw2Answers.ml" 413 14888 14925
+type(
+  int list -> int list -> int list
+)
+ident(
+  ext_ref Pervasives.( @ )
+)
+"PoPLHWs/GWShw2Answers.ml" 413 14888 14927 "PoPLHWs/GWShw2Answers.ml" 413 14888 14935
+type(
+  (int -> int) -> int list -> int list
+)
+ident(
+  ext_ref List.map
+)
+"PoPLHWs/GWShw2Answers.ml" 413 14888 14941 "PoPLHWs/GWShw2Answers.ml" 413 14888 14942
+type(
+  int
+)
+ident(
+  def x "PoPLHWs/GWShw2Answers.ml" 413 14888 14946 "PoPLHWs/GWShw2Answers.ml" 413 14888 14951
+)
+"PoPLHWs/GWShw2Answers.ml" 413 14888 14946 "PoPLHWs/GWShw2Answers.ml" 413 14888 14947
+type(
+  int
+)
+ident(
+  int_ref x "PoPLHWs/GWShw2Answers.ml" 413 14888 14941 "PoPLHWs/GWShw2Answers.ml" 413 14888 14942
+)
+"PoPLHWs/GWShw2Answers.ml" 413 14888 14948 "PoPLHWs/GWShw2Answers.ml" 413 14888 14949
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( * )
+)
+"PoPLHWs/GWShw2Answers.ml" 413 14888 14950 "PoPLHWs/GWShw2Answers.ml" 413 14888 14951
+type(
+  int
+)
+ident(
+  int_ref h "PoPLHWs/GWShw2Answers.ml" 413 14888 14891 "PoPLHWs/GWShw2Answers.ml" 413 14888 14892
+)
+"PoPLHWs/GWShw2Answers.ml" 413 14888 14946 "PoPLHWs/GWShw2Answers.ml" 413 14888 14951
+type(
+  int
+)
+"PoPLHWs/GWShw2Answers.ml" 413 14888 14936 "PoPLHWs/GWShw2Answers.ml" 413 14888 14952
+type(
+  int -> int
+)
+"PoPLHWs/GWShw2Answers.ml" 413 14888 14953 "PoPLHWs/GWShw2Answers.ml" 413 14888 14955
+type(
+  int list
+)
+ident(
+  int_ref p2 "PoPLHWs/GWShw2Answers.ml" 410 14782 14805 "PoPLHWs/GWShw2Answers.ml" 410 14782 14807
+)
+"PoPLHWs/GWShw2Answers.ml" 413 14888 14926 "PoPLHWs/GWShw2Answers.ml" 413 14888 14956
+type(
+  int list
+)
+"PoPLHWs/GWShw2Answers.ml" 413 14888 14910 "PoPLHWs/GWShw2Answers.ml" 413 14888 14957
+type(
+  int list
+)
+"PoPLHWs/GWShw2Answers.ml" 413 14888 14959 "PoPLHWs/GWShw2Answers.ml" 413 14888 14969
+type(
+  int list -> int list -> int -> int list
+)
+ident(
+  int_ref polyhelper "PoPLHWs/GWShw2Answers.ml" 410 14782 14791 "PoPLHWs/GWShw2Answers.ml" 410 14782 14801
+)
+"PoPLHWs/GWShw2Answers.ml" 413 14888 14970 "PoPLHWs/GWShw2Answers.ml" 413 14888 14971
+type(
+  int list
+)
+ident(
+  int_ref t "PoPLHWs/GWShw2Answers.ml" 413 14888 14896 "PoPLHWs/GWShw2Answers.ml" 413 14888 14897
+)
+"PoPLHWs/GWShw2Answers.ml" 413 14888 14972 "PoPLHWs/GWShw2Answers.ml" 413 14888 14974
+type(
+  int list
+)
+ident(
+  int_ref p2 "PoPLHWs/GWShw2Answers.ml" 410 14782 14805 "PoPLHWs/GWShw2Answers.ml" 410 14782 14807
+)
+"PoPLHWs/GWShw2Answers.ml" 413 14888 14976 "PoPLHWs/GWShw2Answers.ml" 413 14888 14977
+type(
+  int
+)
+ident(
+  int_ref i "PoPLHWs/GWShw2Answers.ml" 410 14782 14808 "PoPLHWs/GWShw2Answers.ml" 410 14782 14809
+)
+"PoPLHWs/GWShw2Answers.ml" 413 14888 14977 "PoPLHWs/GWShw2Answers.ml" 413 14888 14978
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"PoPLHWs/GWShw2Answers.ml" 413 14888 14978 "PoPLHWs/GWShw2Answers.ml" 413 14888 14979
+type(
+  int
+)
+"PoPLHWs/GWShw2Answers.ml" 413 14888 14975 "PoPLHWs/GWShw2Answers.ml" 413 14888 14980
+type(
+  int
+)
+"PoPLHWs/GWShw2Answers.ml" 413 14888 14958 "PoPLHWs/GWShw2Answers.ml" 413 14888 14981
+type(
+  int list
+)
+"PoPLHWs/GWShw2Answers.ml" 413 14888 14901 "PoPLHWs/GWShw2Answers.ml" 413 14888 14981
+type(
+  int list
+)
+"PoPLHWs/GWShw2Answers.ml" 411 14812 14813 "PoPLHWs/GWShw2Answers.ml" 413 14888 14981
+type(
+  int list
+)
+"PoPLHWs/GWShw2Answers.ml" 414 14982 14986 "PoPLHWs/GWShw2Answers.ml" 414 14982 14996
+type(
+  int list -> int list -> int -> int list
+)
+ident(
+  int_ref polyhelper "PoPLHWs/GWShw2Answers.ml" 410 14782 14791 "PoPLHWs/GWShw2Answers.ml" 410 14782 14801
+)
+"PoPLHWs/GWShw2Answers.ml" 414 14982 14997 "PoPLHWs/GWShw2Answers.ml" 414 14982 14999
+type(
+  int list
+)
+ident(
+  int_ref p1 "PoPLHWs/GWShw2Answers.ml" 409 14691 14708 "PoPLHWs/GWShw2Answers.ml" 409 14691 14710
+)
+"PoPLHWs/GWShw2Answers.ml" 414 14982 15000 "PoPLHWs/GWShw2Answers.ml" 414 14982 15002
+type(
+  int list
+)
+ident(
+  int_ref p2 "PoPLHWs/GWShw2Answers.ml" 409 14691 14711 "PoPLHWs/GWShw2Answers.ml" 409 14691 14713
+)
+"PoPLHWs/GWShw2Answers.ml" 414 14982 15003 "PoPLHWs/GWShw2Answers.ml" 414 14982 15004
+type(
+  int
+)
+"PoPLHWs/GWShw2Answers.ml" 414 14982 14986 "PoPLHWs/GWShw2Answers.ml" 414 14982 15004
+type(
+  int list
+)
+"PoPLHWs/GWShw2Answers.ml" 410 14782 14783 "PoPLHWs/GWShw2Answers.ml" 414 14982 15004
+type(
+  int list
+)
+"PoPLHWs/GWShw2Answers.ml" 409 14691 14716 "PoPLHWs/GWShw2Answers.ml" 414 14982 15004
+type(
+  int list
+)

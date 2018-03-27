@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>PoPLHWs</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>Ocaml.ocamlbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>ocaml.ocamlnature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>External files/array.mli</name>
+			<type>1</type>
+			<location>/usr/lib/ocaml/array.mli</location>
+		</link>
+		<link>
+			<name>External files/char.mli</name>
+			<type>1</type>
+			<location>/usr/lib/ocaml/char.mli</location>
+		</link>
+		<link>
+			<name>External files/list.mli</name>
+			<type>1</type>
+			<location>/usr/lib/ocaml/list.mli</location>
+		</link>
+	</linkedResources>
+</projectDescription>

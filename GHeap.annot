@@ -1,0 +1,181 @@
+"PoPLHWs/GHeap.ml" 3 26 30 "PoPLHWs/GHeap.ml" 3 26 35
+type(
+  unit -> 'a heap
+)
+ident(
+  def empty "PoPLHWs/GHeap.ml" 5 57 57 "PoPLHWs/GHeap.ml" 1 0 -1
+)
+"PoPLHWs/GHeap.ml" 3 26 36 "PoPLHWs/GHeap.ml" 3 26 38
+type(
+  unit
+)
+"PoPLHWs/GHeap.ml" 3 26 51 "PoPLHWs/GHeap.ml" 3 26 53
+type(
+  'a heap
+)
+type(
+  'a heap
+)
+"PoPLHWs/GHeap.ml" 5 57 61 "PoPLHWs/GHeap.ml" 5 57 67
+type(
+  'a -> 'a heap -> 'a heap
+)
+ident(
+  def insert "PoPLHWs/GHeap.ml" 7 130 130 "PoPLHWs/GHeap.ml" 1 0 -1
+)
+"PoPLHWs/GHeap.ml" 5 57 68 "PoPLHWs/GHeap.ml" 5 57 69
+type(
+  'a
+)
+ident(
+  def x "PoPLHWs/GHeap.ml" 5 57 70 "PoPLHWs/GHeap.ml" 5 57 126
+)
+"PoPLHWs/GHeap.ml" 5 57 71 "PoPLHWs/GHeap.ml" 5 57 73
+type(
+  'a heap
+)
+ident(
+  def xs "PoPLHWs/GHeap.ml" 5 57 87 "PoPLHWs/GHeap.ml" 5 57 126
+)
+"PoPLHWs/GHeap.ml" 5 57 88 "PoPLHWs/GHeap.ml" 5 57 97
+type(
+  ('a -> 'a -> int) -> 'a list -> 'a heap
+)
+ident(
+  ext_ref List.sort
+)
+"PoPLHWs/GHeap.ml" 5 57 98 "PoPLHWs/GHeap.ml" 5 57 105
+type(
+  'a -> 'a -> int
+)
+ident(
+  ext_ref Pervasives.compare
+)
+"PoPLHWs/GHeap.ml" 5 57 107 "PoPLHWs/GHeap.ml" 5 57 108
+type(
+  'a
+)
+ident(
+  int_ref x "PoPLHWs/GHeap.ml" 5 57 68 "PoPLHWs/GHeap.ml" 5 57 69
+)
+"PoPLHWs/GHeap.ml" 5 57 112 "PoPLHWs/GHeap.ml" 5 57 114
+type(
+  'a heap
+)
+ident(
+  int_ref xs "PoPLHWs/GHeap.ml" 5 57 71 "PoPLHWs/GHeap.ml" 5 57 73
+)
+"PoPLHWs/GHeap.ml" 5 57 106 "PoPLHWs/GHeap.ml" 5 57 115
+type(
+  'a list
+)
+"PoPLHWs/GHeap.ml" 5 57 88 "PoPLHWs/GHeap.ml" 5 57 115
+call(
+  tail
+)
+type(
+  'a heap
+)
+type(
+  'a heap
+)
+"PoPLHWs/GHeap.ml" 7 130 134 "PoPLHWs/GHeap.ml" 7 130 142
+type(
+  'a heap -> ('a * 'a heap) option
+)
+ident(
+  def find_min "PoPLHWs/GHeap.ml" 9 226 226 "PoPLHWs/GHeap.ml" 1 0 -1
+)
+"PoPLHWs/GHeap.ml" 7 130 144 "PoPLHWs/GHeap.ml" 7 130 146
+type(
+  'a heap
+)
+ident(
+  def xs "PoPLHWs/GHeap.ml" 7 130 160 "PoPLHWs/GHeap.ml" 7 130 222
+)
+"PoPLHWs/GHeap.ml" 7 130 166 "PoPLHWs/GHeap.ml" 7 130 168
+type(
+  'a heap
+)
+ident(
+  int_ref xs "PoPLHWs/GHeap.ml" 7 130 144 "PoPLHWs/GHeap.ml" 7 130 146
+)
+"PoPLHWs/GHeap.ml" 7 130 176 "PoPLHWs/GHeap.ml" 7 130 178
+type(
+  'a heap
+)
+"PoPLHWs/GHeap.ml" 7 130 182 "PoPLHWs/GHeap.ml" 7 130 186
+type(
+  ('a * 'a heap) option
+)
+"PoPLHWs/GHeap.ml" 7 130 189 "PoPLHWs/GHeap.ml" 7 130 190
+type(
+  'a
+)
+ident(
+  def h "PoPLHWs/GHeap.ml" 7 130 199 "PoPLHWs/GHeap.ml" 7 130 222
+)
+"PoPLHWs/GHeap.ml" 7 130 194 "PoPLHWs/GHeap.ml" 7 130 195
+type(
+  'a list
+)
+ident(
+  def t "PoPLHWs/GHeap.ml" 7 130 199 "PoPLHWs/GHeap.ml" 7 130 222
+)
+"PoPLHWs/GHeap.ml" 7 130 189 "PoPLHWs/GHeap.ml" 7 130 195
+type(
+  'a heap
+)
+"PoPLHWs/GHeap.ml" 7 130 205 "PoPLHWs/GHeap.ml" 7 130 206
+type(
+  'a
+)
+ident(
+  int_ref h "PoPLHWs/GHeap.ml" 7 130 189 "PoPLHWs/GHeap.ml" 7 130 190
+)
+"PoPLHWs/GHeap.ml" 7 130 209 "PoPLHWs/GHeap.ml" 7 130 210
+type(
+  'a heap
+)
+type(
+  'a heap
+)
+ident(
+  int_ref t "PoPLHWs/GHeap.ml" 7 130 194 "PoPLHWs/GHeap.ml" 7 130 195
+)
+"PoPLHWs/GHeap.ml" 7 130 204 "PoPLHWs/GHeap.ml" 7 130 222
+type(
+  'a * 'a heap
+)
+"PoPLHWs/GHeap.ml" 7 130 199 "PoPLHWs/GHeap.ml" 7 130 222
+type(
+  ('a * 'a heap) option
+)
+"PoPLHWs/GHeap.ml" 7 130 160 "PoPLHWs/GHeap.ml" 7 130 222
+type(
+  ('a * 'a heap) option
+)
+"PoPLHWs/GHeap.ml" 9 226 230 "PoPLHWs/GHeap.ml" 9 226 244
+type(
+  'a heap -> 'a list
+)
+ident(
+  def as_sorted_list "PoPLHWs/GHeap.ml" 9 226 276 "PoPLHWs/GHeap.ml" 1 0 -1
+)
+"PoPLHWs/GHeap.ml" 9 226 246 "PoPLHWs/GHeap.ml" 9 226 248
+type(
+  'a heap
+)
+ident(
+  def xs "PoPLHWs/GHeap.ml" 9 226 262 "PoPLHWs/GHeap.ml" 9 226 276
+)
+"PoPLHWs/GHeap.ml" 9 226 263 "PoPLHWs/GHeap.ml" 9 226 265
+type(
+  'a list
+)
+type(
+  'a heap
+)
+ident(
+  int_ref xs "PoPLHWs/GHeap.ml" 9 226 246 "PoPLHWs/GHeap.ml" 9 226 248
+)
